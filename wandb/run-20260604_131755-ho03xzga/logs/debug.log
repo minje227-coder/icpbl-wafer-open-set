@@ -1,0 +1,24 @@
+2026-06-04 13:17:55,639 INFO    MainThread:3666906 [wandb_setup.py:_flush():81] Current SDK version is 0.24.2
+2026-06-04 13:17:55,639 INFO    MainThread:3666906 [wandb_setup.py:_flush():81] Configure stats pid to 3666906
+2026-06-04 13:17:55,639 INFO    MainThread:3666906 [wandb_setup.py:_flush():81] Loading settings from environment variables
+2026-06-04 13:17:55,639 INFO    MainThread:3666906 [wandb_init.py:setup_run_log_directory():717] Logging user logs to /home/minje/icpbl-wafer-open-set/wandb/run-20260604_131755-ho03xzga/logs/debug.log
+2026-06-04 13:17:55,639 INFO    MainThread:3666906 [wandb_init.py:setup_run_log_directory():718] Logging internal logs to /home/minje/icpbl-wafer-open-set/wandb/run-20260604_131755-ho03xzga/logs/debug-internal.log
+2026-06-04 13:17:55,639 INFO    MainThread:3666906 [wandb_init.py:init():844] calling init triggers
+2026-06-04 13:17:55,639 INFO    MainThread:3666906 [wandb_init.py:init():849] wandb.init called with sweep_config: {}
+config: {'experiment': 'fs_r3_ac17_sharp110_p20', 'batch_size': 8, 'epochs': 30, 'learning_rate': 0.0001, 'weight_decay': 0.0001, 'label_smoothing': 0.05, 'image_size': 224, 'augmentation': {'rotation_degrees': 5, 'contrast_strength': 0.08, 'sharpness_factor': 1.1, 'sharpness_p': 0.2, 'autocontrast_p': 0.17}, '_wandb': {}}
+2026-06-04 13:17:55,639 INFO    MainThread:3666906 [wandb_init.py:init():892] starting backend
+2026-06-04 13:17:55,876 INFO    MainThread:3666906 [wandb_init.py:init():895] sending inform_init request
+2026-06-04 13:17:55,887 INFO    MainThread:3666906 [wandb_init.py:init():903] backend started and connected
+2026-06-04 13:17:55,894 INFO    MainThread:3666906 [wandb_init.py:init():973] updated telemetry
+2026-06-04 13:17:55,896 INFO    MainThread:3666906 [wandb_init.py:init():997] communicating run to backend with 90.0 second timeout
+2026-06-04 13:17:56,806 INFO    MainThread:3666906 [wandb_init.py:init():1042] starting run threads in backend
+2026-06-04 13:17:56,906 INFO    MainThread:3666906 [wandb_run.py:_console_start():2529] atexit reg
+2026-06-04 13:17:56,906 INFO    MainThread:3666906 [wandb_run.py:_redirect():2377] redirect: wrap_raw
+2026-06-04 13:17:56,906 INFO    MainThread:3666906 [wandb_run.py:_redirect():2446] Wrapping output streams.
+2026-06-04 13:17:56,906 INFO    MainThread:3666906 [wandb_run.py:_redirect():2469] Redirects installed.
+2026-06-04 13:17:56,909 INFO    MainThread:3666906 [wandb_init.py:init():1082] run started, returning control to user process
+2026-06-04 13:18:10,450 INFO    MainThread:3666906 [wandb_run.py:_finish():2295] finishing run minje227_hyu-hanyang-university/icpbl-wafer-open-set/ho03xzga
+2026-06-04 13:18:10,450 INFO    MainThread:3666906 [wandb_run.py:_atexit_cleanup():2494] got exitcode: 0
+2026-06-04 13:18:10,450 INFO    MainThread:3666906 [wandb_run.py:_restore():2476] restore
+2026-06-04 13:18:10,450 INFO    MainThread:3666906 [wandb_run.py:_restore():2482] restore done
+2026-06-04 13:18:11,902 INFO    MainThread:3666906 [wandb_run.py:_footer_sync_info():3871] logging synced files

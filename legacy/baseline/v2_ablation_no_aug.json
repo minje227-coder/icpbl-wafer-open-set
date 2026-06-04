@@ -1,0 +1,12 @@
+[
+  {
+    "name": "ablation_no_aug",
+    "horizontal_flip": false,
+    "vertical_flip": false,
+    "rotation_degrees": 0,
+    "contrast_strength": 0.0,
+    "sharpness_factor": 1.0,
+    "sharpness_p": 0.0,
+    "autocontrast_p": 0.0
+  }
+]

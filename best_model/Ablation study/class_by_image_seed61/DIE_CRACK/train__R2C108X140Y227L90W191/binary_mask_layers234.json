@@ -1,0 +1,180 @@
+{
+  "source_heatmap_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_CRACK/train__R2C108X140Y227L90W191/resnet18_best_val_loss_epoch29_train__R2C108X140Y227L90W191_patch_distance_layers234.json",
+  "image_path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/DIE_CRACK/images/train__R2C108X140Y227L90W191.jpg",
+  "layers": [
+    {
+      "layer": "layer2",
+      "distance_map_shape": [
+        28,
+        28
+      ],
+      "topk_coords": [
+        [
+          13,
+          11
+        ],
+        [
+          14,
+          11
+        ],
+        [
+          15,
+          10
+        ],
+        [
+          15,
+          11
+        ],
+        [
+          16,
+          11
+        ],
+        [
+          17,
+          10
+        ],
+        [
+          17,
+          11
+        ],
+        [
+          18,
+          9
+        ],
+        [
+          18,
+          10
+        ],
+        [
+          19,
+          9
+        ],
+        [
+          20,
+          8
+        ],
+        [
+          25,
+          25
+        ]
+      ],
+      "topk_count": 12
+    },
+    {
+      "layer": "layer3",
+      "distance_map_shape": [
+        14,
+        14
+      ],
+      "topk_coords": [
+        [
+          1,
+          10
+        ],
+        [
+          8,
+          5
+        ],
+        [
+          9,
+          5
+        ],
+        [
+          10,
+          5
+        ],
+        [
+          11,
+          4
+        ],
+        [
+          11,
+          5
+        ],
+        [
+          12,
+          1
+        ],
+        [
+          12,
+          11
+        ],
+        [
+          13,
+          1
+        ],
+        [
+          13,
+          2
+        ],
+        [
+          13,
+          3
+        ],
+        [
+          13,
+          12
+        ]
+      ],
+      "topk_count": 12
+    },
+    {
+      "layer": "layer4",
+      "distance_map_shape": [
+        7,
+        7
+      ],
+      "topk_coords": [
+        [
+          0,
+          4
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          5
+        ],
+        [
+          1,
+          6
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          3,
+          6
+        ],
+        [
+          4,
+          6
+        ],
+        [
+          5,
+          6
+        ],
+        [
+          6,
+          0
+        ],
+        [
+          6,
+          1
+        ],
+        [
+          6,
+          6
+        ]
+      ],
+      "topk_count": 12
+    }
+  ]
+}

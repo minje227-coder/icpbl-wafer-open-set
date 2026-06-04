@@ -1,0 +1,190 @@
+{
+  "best_checkpoint": "/home/minje/icpbl-wafer-open-set/best_model/best_run/resnet18_best_val_loss_epoch29.pth",
+  "method_ablation": {
+    "patch_global": {
+      "threshold": 0.09808522504334695,
+      "open_accuracy": 0.8666666666666667,
+      "open_macro_f1": 0.8447322256057196,
+      "known_accuracy": 0.8,
+      "unknown_accuracy": 0.925,
+      "raw_known_acc": 0.9714285714285714,
+      "overall_acc": 0.8666666666666667,
+      "known_acc": 0.8,
+      "unknown_acc": 0.925,
+      "known_rejected": 6,
+      "unknown_rejected": 37
+    },
+    "patch_classwise": {
+      "thresholds": {
+        "0": 0.3730511906175693,
+        "1": 0.3012083820123573,
+        "2": -0.04465311711922793
+      },
+      "open_accuracy": 0.8533333333333334,
+      "open_macro_f1": 0.8294480925578487,
+      "known_accuracy": 0.8,
+      "unknown_accuracy": 0.9,
+      "raw_known_acc": 0.9714285714285714,
+      "overall_acc": 0.8533333333333334,
+      "known_acc": 0.8,
+      "unknown_acc": 0.9,
+      "known_rejected": 6,
+      "unknown_rejected": 36
+    },
+    "baseline": {
+      "threshold": null,
+      "open_accuracy": 0.4533333333333333,
+      "open_macro_f1": 0.5167493796526055,
+      "known_accuracy": 0.9714285714285714,
+      "raw_known_acc": 0.9714285714285714,
+      "overall_acc": 0.4533333333333333,
+      "known_acc": 0.9714285714285714,
+      "unknown_acc": 0.0,
+      "known_rejected": 0,
+      "unknown_rejected": 0
+    },
+    "softmax_global": {
+      "threshold": 0.8818707996773384,
+      "open_accuracy": 0.6533333333333333,
+      "open_macro_f1": 0.6654220779220779,
+      "known_accuracy": 0.5142857142857142,
+      "raw_known_acc": 0.9714285714285714,
+      "overall_acc": 0.6533333333333333,
+      "known_acc": 0.5142857142857142,
+      "unknown_acc": 0.775,
+      "known_rejected": 17,
+      "unknown_rejected": 31
+    },
+    "softmax_classwise": {
+      "thresholds": {
+        "0": 0.9760606060606061,
+        "1": 0.3,
+        "2": 0.3
+      },
+      "open_accuracy": 0.6,
+      "open_macro_f1": 0.678277972027972,
+      "known_accuracy": 0.9142857142857143,
+      "raw_known_acc": 0.9714285714285714,
+      "overall_acc": 0.6,
+      "known_acc": 0.9142857142857143,
+      "unknown_acc": 0.325,
+      "known_rejected": 2,
+      "unknown_rejected": 13
+    },
+    "feature_global": {
+      "threshold": 0.038527846336364746,
+      "open_accuracy": 0.72,
+      "open_macro_f1": 0.7452813390313391,
+      "known_accuracy": 0.6857142857142857,
+      "raw_known_acc": 0.9714285714285714,
+      "overall_acc": 0.72,
+      "known_acc": 0.6857142857142857,
+      "unknown_acc": 0.75,
+      "known_rejected": 11,
+      "unknown_rejected": 30
+    },
+    "feature_classwise": {
+      "thresholds": {
+        "0": 0.02517080307006836,
+        "1": 0.038527846336364746,
+        "2": 0.015387177467346191
+      },
+      "open_accuracy": 0.6933333333333334,
+      "open_macro_f1": 0.659432521501487,
+      "known_accuracy": 0.5714285714285714,
+      "raw_known_acc": 0.9714285714285714,
+      "overall_acc": 0.6933333333333334,
+      "known_acc": 0.5714285714285714,
+      "unknown_acc": 0.8,
+      "known_rejected": 15,
+      "unknown_rejected": 32
+    }
+  },
+  "layer_ablation": {
+    "layer2": {
+      "threshold": 0.09808522504334695,
+      "open_accuracy": 0.8666666666666667,
+      "open_macro_f1": 0.8447322256057196,
+      "known_accuracy": 0.8,
+      "unknown_accuracy": 0.925,
+      "raw_known_acc": 0.9714285714285714,
+      "overall_acc": 0.8666666666666667,
+      "known_acc": 0.8,
+      "unknown_acc": 0.925,
+      "known_rejected": 6,
+      "unknown_rejected": 37
+    },
+    "layer3": {
+      "threshold": 0.28429488721080126,
+      "open_accuracy": 0.64,
+      "open_macro_f1": 0.6622885051456481,
+      "known_accuracy": 0.7428571428571429,
+      "unknown_accuracy": 0.55,
+      "raw_known_acc": 0.9714285714285714,
+      "overall_acc": 0.64,
+      "known_acc": 0.7428571428571429,
+      "unknown_acc": 0.55,
+      "known_rejected": 8,
+      "unknown_rejected": 22
+    },
+    "layer4": {
+      "threshold": 0.8818707996773384,
+      "open_accuracy": 0.6133333333333333,
+      "open_macro_f1": 0.6625895656068069,
+      "known_accuracy": 0.8857142857142857,
+      "unknown_accuracy": 0.375,
+      "raw_known_acc": 0.9714285714285714,
+      "overall_acc": 0.6133333333333333,
+      "known_acc": 0.8857142857142857,
+      "unknown_acc": 0.375,
+      "known_rejected": 3,
+      "unknown_rejected": 15
+    }
+  },
+  "augmentation_ablation": [
+    {
+      "experiment": "no_aug",
+      "best_epoch": 15,
+      "best_val_loss": 0.21620434522628784,
+      "raw_known_acc": 0.9714285714285714,
+      "open_macro_f1": 0.7479914529914531,
+      "overall_acc": 0.72,
+      "known_acc": 0.8,
+      "unknown_acc": 0.65,
+      "selected_threshold": 0.9377341088665218
+    },
+    {
+      "experiment": "v2_aug_cs_mild",
+      "best_epoch": null,
+      "best_val_loss": null,
+      "raw_known_acc": null,
+      "open_macro_f1": 0.8347069597069597,
+      "overall_acc": 0.8533333333333334,
+      "known_acc": 0.7714285714285715,
+      "unknown_acc": 0.925,
+      "selected_threshold": 0.2315612474927785
+    },
+    {
+      "experiment": "v2_aug_cs_autocontrast",
+      "best_epoch": null,
+      "best_val_loss": null,
+      "raw_known_acc": null,
+      "open_macro_f1": 0.8294480925578487,
+      "overall_acc": 0.8533333333333334,
+      "known_acc": 0.8,
+      "unknown_acc": 0.9,
+      "selected_threshold": 0.2748496845550434
+    },
+    {
+      "experiment": "fine_search_best",
+      "best_epoch": 29,
+      "best_val_loss": 0.21581946313381195,
+      "raw_known_acc": 0.9714285714285714,
+      "open_macro_f1": 0.8447322256057196,
+      "overall_acc": 0.8666666666666667,
+      "known_acc": 0.8,
+      "unknown_acc": 0.925,
+      "selected_threshold": 0.09808522504334695
+    }
+  ]
+}

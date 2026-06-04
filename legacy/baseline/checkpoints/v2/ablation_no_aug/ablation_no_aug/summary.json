@@ -1,0 +1,9 @@
+{
+  "experiment": "ablation_no_aug",
+  "checkpoint_path": "/home/minje/icpbl-wafer-open-set/baseline/checkpoints/v2/ablation_no_aug/ablation_no_aug/resnet18_best_val_loss_epoch15.pth",
+  "best_epoch": 15,
+  "best_val_loss": 0.21620434522628784,
+  "best_val_f1": 1.0,
+  "history_path": "/home/minje/icpbl-wafer-open-set/baseline/checkpoints/v2/ablation_no_aug/ablation_no_aug/train_log.json",
+  "config_path": "/home/minje/icpbl-wafer-open-set/baseline/checkpoints/v2/ablation_no_aug/ablation_no_aug/config.json"
+}

@@ -1,0 +1,15 @@
+{
+  "os": "Linux-6.17.0-22-generic-x86_64-with-glibc2.39",
+  "python": "CPython 3.13.11",
+  "startedAt": "2026-06-04T05:07:32.602542Z",
+  "program": "<stdin>",
+  "git": {
+    "remote": "https://github.com/minje227-coder/icpbl-wafer-open-set.git",
+    "commit": "a0f66f3d5c8c2c551472e346e726ed3027f6f391"
+  },
+  "email": "minje227@hanyang.ac.kr",
+  "root": "/home/minje/icpbl-wafer-open-set",
+  "host": "minje-24.04",
+  "executable": "/home/minje/miniconda3/envs/icpbl/bin/python",
+  "writerId": "0p9fopkr0977efzl38x2v5737uuezc49"
+}

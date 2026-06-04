@@ -1,0 +1,36 @@
+{
+  "feature_layer": "layer2",
+  "topk": 12,
+  "normalization_stats": {
+    "0": {
+      "mean": 0.2821484895852896,
+      "std": 0.08080277159591896,
+      "n": 26
+    },
+    "1": {
+      "mean": 0.22838157067696255,
+      "std": 0.07950902181997381,
+      "n": 60
+    },
+    "2": {
+      "mean": 0.20786862075328827,
+      "std": 0.15079384399385742,
+      "n": 23
+    }
+  },
+  "selected_threshold": 0.09808522504334695,
+  "val_metrics": {
+    "open_accuracy": 0.8933333333333333,
+    "open_macro_f1": 0.867095063239494,
+    "known_accuracy": 0.8,
+    "unknown_accuracy": 0.975
+  },
+  "test_metrics": {
+    "open_accuracy": 0.8666666666666667,
+    "open_macro_f1": 0.8447322256057196,
+    "known_accuracy": 0.8,
+    "unknown_accuracy": 0.925
+  },
+  "raw_known_acc": 0.9714285714285714,
+  "checkpoint_path": "/home/minje/icpbl-wafer-open-set/best_model/best_run/model.pth"
+}

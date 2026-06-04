@@ -1,0 +1,537 @@
+{
+  "DIE_BROKEN": [
+    {
+      "image_stem": "test__R6C13X294Y86L30W19",
+      "image_dir": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_BROKEN/test__R6C13X294Y86L30W19",
+      "gradcam_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_BROKEN/test__R6C13X294Y86L30W19/resnet18_best_val_loss_epoch29_test__R6C13X294Y86L30W19_gradcam_layers234.json",
+      "heatmap_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_BROKEN/test__R6C13X294Y86L30W19/resnet18_best_val_loss_epoch29_test__R6C13X294Y86L30W19_patch_distance_layers234.json",
+      "binary_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_BROKEN/test__R6C13X294Y86L30W19/binary_mask_layers234.json"
+    },
+    {
+      "image_stem": "train__R10C12X192Y85L243W14",
+      "image_dir": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_BROKEN/train__R10C12X192Y85L243W14",
+      "gradcam_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_BROKEN/train__R10C12X192Y85L243W14/resnet18_best_val_loss_epoch29_train__R10C12X192Y85L243W14_gradcam_layers234.json",
+      "heatmap_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_BROKEN/train__R10C12X192Y85L243W14/resnet18_best_val_loss_epoch29_train__R10C12X192Y85L243W14_patch_distance_layers234.json",
+      "binary_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_BROKEN/train__R10C12X192Y85L243W14/binary_mask_layers234.json"
+    },
+    {
+      "image_stem": "train__R13C86X94Y309L43W11",
+      "image_dir": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_BROKEN/train__R13C86X94Y309L43W11",
+      "gradcam_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_BROKEN/train__R13C86X94Y309L43W11/resnet18_best_val_loss_epoch29_train__R13C86X94Y309L43W11_gradcam_layers234.json",
+      "heatmap_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_BROKEN/train__R13C86X94Y309L43W11/resnet18_best_val_loss_epoch29_train__R13C86X94Y309L43W11_patch_distance_layers234.json",
+      "binary_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_BROKEN/train__R13C86X94Y309L43W11/binary_mask_layers234.json"
+    },
+    {
+      "image_stem": "train__R15C19X240Y309L124W27",
+      "image_dir": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_BROKEN/train__R15C19X240Y309L124W27",
+      "gradcam_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_BROKEN/train__R15C19X240Y309L124W27/resnet18_best_val_loss_epoch29_train__R15C19X240Y309L124W27_gradcam_layers234.json",
+      "heatmap_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_BROKEN/train__R15C19X240Y309L124W27/resnet18_best_val_loss_epoch29_train__R15C19X240Y309L124W27_patch_distance_layers234.json",
+      "binary_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_BROKEN/train__R15C19X240Y309L124W27/binary_mask_layers234.json"
+    },
+    {
+      "image_stem": "train__R15C20X282Y309L48W16",
+      "image_dir": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_BROKEN/train__R15C20X282Y309L48W16",
+      "gradcam_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_BROKEN/train__R15C20X282Y309L48W16/resnet18_best_val_loss_epoch29_train__R15C20X282Y309L48W16_gradcam_layers234.json",
+      "heatmap_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_BROKEN/train__R15C20X282Y309L48W16/resnet18_best_val_loss_epoch29_train__R15C20X282Y309L48W16_patch_distance_layers234.json",
+      "binary_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_BROKEN/train__R15C20X282Y309L48W16/binary_mask_layers234.json"
+    },
+    {
+      "image_stem": "train__R1C39X0Y0L0W0",
+      "image_dir": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_BROKEN/train__R1C39X0Y0L0W0",
+      "gradcam_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_BROKEN/train__R1C39X0Y0L0W0/resnet18_best_val_loss_epoch29_train__R1C39X0Y0L0W0_gradcam_layers234.json",
+      "heatmap_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_BROKEN/train__R1C39X0Y0L0W0/resnet18_best_val_loss_epoch29_train__R1C39X0Y0L0W0_patch_distance_layers234.json",
+      "binary_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_BROKEN/train__R1C39X0Y0L0W0/binary_mask_layers234.json"
+    },
+    {
+      "image_stem": "train__R20C26X272Y82L78W15",
+      "image_dir": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_BROKEN/train__R20C26X272Y82L78W15",
+      "gradcam_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_BROKEN/train__R20C26X272Y82L78W15/resnet18_best_val_loss_epoch29_train__R20C26X272Y82L78W15_gradcam_layers234.json",
+      "heatmap_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_BROKEN/train__R20C26X272Y82L78W15/resnet18_best_val_loss_epoch29_train__R20C26X272Y82L78W15_patch_distance_layers234.json",
+      "binary_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_BROKEN/train__R20C26X272Y82L78W15/binary_mask_layers234.json"
+    },
+    {
+      "image_stem": "train__R23C15X116Y82L90W11",
+      "image_dir": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_BROKEN/train__R23C15X116Y82L90W11",
+      "gradcam_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_BROKEN/train__R23C15X116Y82L90W11/resnet18_best_val_loss_epoch29_train__R23C15X116Y82L90W11_gradcam_layers234.json",
+      "heatmap_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_BROKEN/train__R23C15X116Y82L90W11/resnet18_best_val_loss_epoch29_train__R23C15X116Y82L90W11_patch_distance_layers234.json",
+      "binary_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_BROKEN/train__R23C15X116Y82L90W11/binary_mask_layers234.json"
+    }
+  ],
+  "DIE_CRACK": [
+    {
+      "image_stem": "test__R1C84X0Y0L0W0",
+      "image_dir": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_CRACK/test__R1C84X0Y0L0W0",
+      "gradcam_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_CRACK/test__R1C84X0Y0L0W0/resnet18_best_val_loss_epoch29_test__R1C84X0Y0L0W0_gradcam_layers234.json",
+      "heatmap_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_CRACK/test__R1C84X0Y0L0W0/resnet18_best_val_loss_epoch29_test__R1C84X0Y0L0W0_patch_distance_layers234.json",
+      "binary_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_CRACK/test__R1C84X0Y0L0W0/binary_mask_layers234.json"
+    },
+    {
+      "image_stem": "test__R2C104X150Y214L116W196",
+      "image_dir": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_CRACK/test__R2C104X150Y214L116W196",
+      "gradcam_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_CRACK/test__R2C104X150Y214L116W196/resnet18_best_val_loss_epoch29_test__R2C104X150Y214L116W196_gradcam_layers234.json",
+      "heatmap_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_CRACK/test__R2C104X150Y214L116W196/resnet18_best_val_loss_epoch29_test__R2C104X150Y214L116W196_patch_distance_layers234.json",
+      "binary_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_CRACK/test__R2C104X150Y214L116W196/binary_mask_layers234.json"
+    },
+    {
+      "image_stem": "test__R4C101X0Y0L0W0",
+      "image_dir": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_CRACK/test__R4C101X0Y0L0W0",
+      "gradcam_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_CRACK/test__R4C101X0Y0L0W0/resnet18_best_val_loss_epoch29_test__R4C101X0Y0L0W0_gradcam_layers234.json",
+      "heatmap_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_CRACK/test__R4C101X0Y0L0W0/resnet18_best_val_loss_epoch29_test__R4C101X0Y0L0W0_patch_distance_layers234.json",
+      "binary_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_CRACK/test__R4C101X0Y0L0W0/binary_mask_layers234.json"
+    },
+    {
+      "image_stem": "test__R6C103X0Y0L0W0",
+      "image_dir": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_CRACK/test__R6C103X0Y0L0W0",
+      "gradcam_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_CRACK/test__R6C103X0Y0L0W0/resnet18_best_val_loss_epoch29_test__R6C103X0Y0L0W0_gradcam_layers234.json",
+      "heatmap_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_CRACK/test__R6C103X0Y0L0W0/resnet18_best_val_loss_epoch29_test__R6C103X0Y0L0W0_patch_distance_layers234.json",
+      "binary_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_CRACK/test__R6C103X0Y0L0W0/binary_mask_layers234.json"
+    },
+    {
+      "image_stem": "train__R1C104X188Y191L150W148",
+      "image_dir": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_CRACK/train__R1C104X188Y191L150W148",
+      "gradcam_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_CRACK/train__R1C104X188Y191L150W148/resnet18_best_val_loss_epoch29_train__R1C104X188Y191L150W148_gradcam_layers234.json",
+      "heatmap_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_CRACK/train__R1C104X188Y191L150W148/resnet18_best_val_loss_epoch29_train__R1C104X188Y191L150W148_patch_distance_layers234.json",
+      "binary_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_CRACK/train__R1C104X188Y191L150W148/binary_mask_layers234.json"
+    },
+    {
+      "image_stem": "train__R1C109X182Y225L101W152",
+      "image_dir": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_CRACK/train__R1C109X182Y225L101W152",
+      "gradcam_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_CRACK/train__R1C109X182Y225L101W152/resnet18_best_val_loss_epoch29_train__R1C109X182Y225L101W152_gradcam_layers234.json",
+      "heatmap_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_CRACK/train__R1C109X182Y225L101W152/resnet18_best_val_loss_epoch29_train__R1C109X182Y225L101W152_patch_distance_layers234.json",
+      "binary_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_CRACK/train__R1C109X182Y225L101W152/binary_mask_layers234.json"
+    },
+    {
+      "image_stem": "train__R1C112X230Y227L137W137",
+      "image_dir": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_CRACK/train__R1C112X230Y227L137W137",
+      "gradcam_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_CRACK/train__R1C112X230Y227L137W137/resnet18_best_val_loss_epoch29_train__R1C112X230Y227L137W137_gradcam_layers234.json",
+      "heatmap_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_CRACK/train__R1C112X230Y227L137W137/resnet18_best_val_loss_epoch29_train__R1C112X230Y227L137W137_patch_distance_layers234.json",
+      "binary_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_CRACK/train__R1C112X230Y227L137W137/binary_mask_layers234.json"
+    },
+    {
+      "image_stem": "train__R2C108X140Y227L90W191",
+      "image_dir": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_CRACK/train__R2C108X140Y227L90W191",
+      "gradcam_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_CRACK/train__R2C108X140Y227L90W191/resnet18_best_val_loss_epoch29_train__R2C108X140Y227L90W191_gradcam_layers234.json",
+      "heatmap_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_CRACK/train__R2C108X140Y227L90W191/resnet18_best_val_loss_epoch29_train__R2C108X140Y227L90W191_patch_distance_layers234.json",
+      "binary_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_CRACK/train__R2C108X140Y227L90W191/binary_mask_layers234.json"
+    },
+    {
+      "image_stem": "train__R3C80X0Y0L0W0",
+      "image_dir": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_CRACK/train__R3C80X0Y0L0W0",
+      "gradcam_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_CRACK/train__R3C80X0Y0L0W0/resnet18_best_val_loss_epoch29_train__R3C80X0Y0L0W0_gradcam_layers234.json",
+      "heatmap_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_CRACK/train__R3C80X0Y0L0W0/resnet18_best_val_loss_epoch29_train__R3C80X0Y0L0W0_patch_distance_layers234.json",
+      "binary_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_CRACK/train__R3C80X0Y0L0W0/binary_mask_layers234.json"
+    },
+    {
+      "image_stem": "train__R3C93X0Y0L0W0",
+      "image_dir": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_CRACK/train__R3C93X0Y0L0W0",
+      "gradcam_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_CRACK/train__R3C93X0Y0L0W0/resnet18_best_val_loss_epoch29_train__R3C93X0Y0L0W0_gradcam_layers234.json",
+      "heatmap_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_CRACK/train__R3C93X0Y0L0W0/resnet18_best_val_loss_epoch29_train__R3C93X0Y0L0W0_patch_distance_layers234.json",
+      "binary_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_CRACK/train__R3C93X0Y0L0W0/binary_mask_layers234.json"
+    },
+    {
+      "image_stem": "train__R3C94X0Y0L0W0",
+      "image_dir": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_CRACK/train__R3C94X0Y0L0W0",
+      "gradcam_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_CRACK/train__R3C94X0Y0L0W0/resnet18_best_val_loss_epoch29_train__R3C94X0Y0L0W0_gradcam_layers234.json",
+      "heatmap_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_CRACK/train__R3C94X0Y0L0W0/resnet18_best_val_loss_epoch29_train__R3C94X0Y0L0W0_patch_distance_layers234.json",
+      "binary_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_CRACK/train__R3C94X0Y0L0W0/binary_mask_layers234.json"
+    },
+    {
+      "image_stem": "train__R3C97X0Y0L0W0",
+      "image_dir": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_CRACK/train__R3C97X0Y0L0W0",
+      "gradcam_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_CRACK/train__R3C97X0Y0L0W0/resnet18_best_val_loss_epoch29_train__R3C97X0Y0L0W0_gradcam_layers234.json",
+      "heatmap_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_CRACK/train__R3C97X0Y0L0W0/resnet18_best_val_loss_epoch29_train__R3C97X0Y0L0W0_patch_distance_layers234.json",
+      "binary_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_CRACK/train__R3C97X0Y0L0W0/binary_mask_layers234.json"
+    },
+    {
+      "image_stem": "train__R4C102X0Y0L0W0",
+      "image_dir": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_CRACK/train__R4C102X0Y0L0W0",
+      "gradcam_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_CRACK/train__R4C102X0Y0L0W0/resnet18_best_val_loss_epoch29_train__R4C102X0Y0L0W0_gradcam_layers234.json",
+      "heatmap_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_CRACK/train__R4C102X0Y0L0W0/resnet18_best_val_loss_epoch29_train__R4C102X0Y0L0W0_patch_distance_layers234.json",
+      "binary_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_CRACK/train__R4C102X0Y0L0W0/binary_mask_layers234.json"
+    },
+    {
+      "image_stem": "train__R4C111X205Y189L157W109",
+      "image_dir": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_CRACK/train__R4C111X205Y189L157W109",
+      "gradcam_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_CRACK/train__R4C111X205Y189L157W109/resnet18_best_val_loss_epoch29_train__R4C111X205Y189L157W109_gradcam_layers234.json",
+      "heatmap_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_CRACK/train__R4C111X205Y189L157W109/resnet18_best_val_loss_epoch29_train__R4C111X205Y189L157W109_patch_distance_layers234.json",
+      "binary_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_CRACK/train__R4C111X205Y189L157W109/binary_mask_layers234.json"
+    },
+    {
+      "image_stem": "train__R4C87X0Y0L0W0",
+      "image_dir": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_CRACK/train__R4C87X0Y0L0W0",
+      "gradcam_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_CRACK/train__R4C87X0Y0L0W0/resnet18_best_val_loss_epoch29_train__R4C87X0Y0L0W0_gradcam_layers234.json",
+      "heatmap_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_CRACK/train__R4C87X0Y0L0W0/resnet18_best_val_loss_epoch29_train__R4C87X0Y0L0W0_patch_distance_layers234.json",
+      "binary_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_CRACK/train__R4C87X0Y0L0W0/binary_mask_layers234.json"
+    },
+    {
+      "image_stem": "train__R5C98X0Y0L0W0",
+      "image_dir": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_CRACK/train__R5C98X0Y0L0W0",
+      "gradcam_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_CRACK/train__R5C98X0Y0L0W0/resnet18_best_val_loss_epoch29_train__R5C98X0Y0L0W0_gradcam_layers234.json",
+      "heatmap_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_CRACK/train__R5C98X0Y0L0W0/resnet18_best_val_loss_epoch29_train__R5C98X0Y0L0W0_patch_distance_layers234.json",
+      "binary_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_CRACK/train__R5C98X0Y0L0W0/binary_mask_layers234.json"
+    },
+    {
+      "image_stem": "train__R5C98X209Y194L169W240",
+      "image_dir": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_CRACK/train__R5C98X209Y194L169W240",
+      "gradcam_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_CRACK/train__R5C98X209Y194L169W240/resnet18_best_val_loss_epoch29_train__R5C98X209Y194L169W240_gradcam_layers234.json",
+      "heatmap_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_CRACK/train__R5C98X209Y194L169W240/resnet18_best_val_loss_epoch29_train__R5C98X209Y194L169W240_patch_distance_layers234.json",
+      "binary_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_CRACK/train__R5C98X209Y194L169W240/binary_mask_layers234.json"
+    },
+    {
+      "image_stem": "train__R6C96X0Y0L0W0",
+      "image_dir": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_CRACK/train__R6C96X0Y0L0W0",
+      "gradcam_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_CRACK/train__R6C96X0Y0L0W0/resnet18_best_val_loss_epoch29_train__R6C96X0Y0L0W0_gradcam_layers234.json",
+      "heatmap_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_CRACK/train__R6C96X0Y0L0W0/resnet18_best_val_loss_epoch29_train__R6C96X0Y0L0W0_patch_distance_layers234.json",
+      "binary_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_CRACK/train__R6C96X0Y0L0W0/binary_mask_layers234.json"
+    },
+    {
+      "image_stem": "val__R4C100X176Y193L172W234",
+      "image_dir": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_CRACK/val__R4C100X176Y193L172W234",
+      "gradcam_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_CRACK/val__R4C100X176Y193L172W234/resnet18_best_val_loss_epoch29_val__R4C100X176Y193L172W234_gradcam_layers234.json",
+      "heatmap_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_CRACK/val__R4C100X176Y193L172W234/resnet18_best_val_loss_epoch29_val__R4C100X176Y193L172W234_patch_distance_layers234.json",
+      "binary_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_CRACK/val__R4C100X176Y193L172W234/binary_mask_layers234.json"
+    },
+    {
+      "image_stem": "val__R6C100X0Y0L0W0",
+      "image_dir": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_CRACK/val__R6C100X0Y0L0W0",
+      "gradcam_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_CRACK/val__R6C100X0Y0L0W0/resnet18_best_val_loss_epoch29_val__R6C100X0Y0L0W0_gradcam_layers234.json",
+      "heatmap_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_CRACK/val__R6C100X0Y0L0W0/resnet18_best_val_loss_epoch29_val__R6C100X0Y0L0W0_patch_distance_layers234.json",
+      "binary_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_CRACK/val__R6C100X0Y0L0W0/binary_mask_layers234.json"
+    }
+  ],
+  "DIE_INK": [
+    {
+      "image_stem": "test__R10C7X288Y247L15W49",
+      "image_dir": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_INK/test__R10C7X288Y247L15W49",
+      "gradcam_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_INK/test__R10C7X288Y247L15W49/resnet18_best_val_loss_epoch29_test__R10C7X288Y247L15W49_gradcam_layers234.json",
+      "heatmap_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_INK/test__R10C7X288Y247L15W49/resnet18_best_val_loss_epoch29_test__R10C7X288Y247L15W49_patch_distance_layers234.json",
+      "binary_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_INK/test__R10C7X288Y247L15W49/binary_mask_layers234.json"
+    },
+    {
+      "image_stem": "test__R3C102X151Y146L30W60",
+      "image_dir": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_INK/test__R3C102X151Y146L30W60",
+      "gradcam_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_INK/test__R3C102X151Y146L30W60/resnet18_best_val_loss_epoch29_test__R3C102X151Y146L30W60_gradcam_layers234.json",
+      "heatmap_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_INK/test__R3C102X151Y146L30W60/resnet18_best_val_loss_epoch29_test__R3C102X151Y146L30W60_patch_distance_layers234.json",
+      "binary_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_INK/test__R3C102X151Y146L30W60/binary_mask_layers234.json"
+    },
+    {
+      "image_stem": "test__R5C17X137Y94L30W20",
+      "image_dir": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_INK/test__R5C17X137Y94L30W20",
+      "gradcam_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_INK/test__R5C17X137Y94L30W20/resnet18_best_val_loss_epoch29_test__R5C17X137Y94L30W20_gradcam_layers234.json",
+      "heatmap_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_INK/test__R5C17X137Y94L30W20/resnet18_best_val_loss_epoch29_test__R5C17X137Y94L30W20_patch_distance_layers234.json",
+      "binary_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_INK/test__R5C17X137Y94L30W20/binary_mask_layers234.json"
+    },
+    {
+      "image_stem": "train__R13C13X149Y98L33W42",
+      "image_dir": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_INK/train__R13C13X149Y98L33W42",
+      "gradcam_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_INK/train__R13C13X149Y98L33W42/resnet18_best_val_loss_epoch29_train__R13C13X149Y98L33W42_gradcam_layers234.json",
+      "heatmap_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_INK/train__R13C13X149Y98L33W42/resnet18_best_val_loss_epoch29_train__R13C13X149Y98L33W42_patch_distance_layers234.json",
+      "binary_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_INK/train__R13C13X149Y98L33W42/binary_mask_layers234.json"
+    },
+    {
+      "image_stem": "train__R14C25X179Y155L157W158",
+      "image_dir": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_INK/train__R14C25X179Y155L157W158",
+      "gradcam_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_INK/train__R14C25X179Y155L157W158/resnet18_best_val_loss_epoch29_train__R14C25X179Y155L157W158_gradcam_layers234.json",
+      "heatmap_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_INK/train__R14C25X179Y155L157W158/resnet18_best_val_loss_epoch29_train__R14C25X179Y155L157W158_patch_distance_layers234.json",
+      "binary_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_INK/train__R14C25X179Y155L157W158/binary_mask_layers234.json"
+    },
+    {
+      "image_stem": "train__R16C90X295Y158L41W65",
+      "image_dir": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_INK/train__R16C90X295Y158L41W65",
+      "gradcam_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_INK/train__R16C90X295Y158L41W65/resnet18_best_val_loss_epoch29_train__R16C90X295Y158L41W65_gradcam_layers234.json",
+      "heatmap_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_INK/train__R16C90X295Y158L41W65/resnet18_best_val_loss_epoch29_train__R16C90X295Y158L41W65_patch_distance_layers234.json",
+      "binary_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_INK/train__R16C90X295Y158L41W65/binary_mask_layers234.json"
+    },
+    {
+      "image_stem": "train__R16C9X0Y0L0W0",
+      "image_dir": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_INK/train__R16C9X0Y0L0W0",
+      "gradcam_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_INK/train__R16C9X0Y0L0W0/resnet18_best_val_loss_epoch29_train__R16C9X0Y0L0W0_gradcam_layers234.json",
+      "heatmap_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_INK/train__R16C9X0Y0L0W0/resnet18_best_val_loss_epoch29_train__R16C9X0Y0L0W0_patch_distance_layers234.json",
+      "binary_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_INK/train__R16C9X0Y0L0W0/binary_mask_layers234.json"
+    },
+    {
+      "image_stem": "train__R1C109X0Y0L0W0",
+      "image_dir": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_INK/train__R1C109X0Y0L0W0",
+      "gradcam_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_INK/train__R1C109X0Y0L0W0/resnet18_best_val_loss_epoch29_train__R1C109X0Y0L0W0_gradcam_layers234.json",
+      "heatmap_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_INK/train__R1C109X0Y0L0W0/resnet18_best_val_loss_epoch29_train__R1C109X0Y0L0W0_patch_distance_layers234.json",
+      "binary_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_INK/train__R1C109X0Y0L0W0/binary_mask_layers234.json"
+    },
+    {
+      "image_stem": "train__R21C29X110Y297L15W21",
+      "image_dir": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_INK/train__R21C29X110Y297L15W21",
+      "gradcam_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_INK/train__R21C29X110Y297L15W21/resnet18_best_val_loss_epoch29_train__R21C29X110Y297L15W21_gradcam_layers234.json",
+      "heatmap_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_INK/train__R21C29X110Y297L15W21/resnet18_best_val_loss_epoch29_train__R21C29X110Y297L15W21_patch_distance_layers234.json",
+      "binary_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_INK/train__R21C29X110Y297L15W21/binary_mask_layers234.json"
+    },
+    {
+      "image_stem": "train__R26C8X239Y192L11W21",
+      "image_dir": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_INK/train__R26C8X239Y192L11W21",
+      "gradcam_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_INK/train__R26C8X239Y192L11W21/resnet18_best_val_loss_epoch29_train__R26C8X239Y192L11W21_gradcam_layers234.json",
+      "heatmap_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_INK/train__R26C8X239Y192L11W21/resnet18_best_val_loss_epoch29_train__R26C8X239Y192L11W21_patch_distance_layers234.json",
+      "binary_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_INK/train__R26C8X239Y192L11W21/binary_mask_layers234.json"
+    },
+    {
+      "image_stem": "train__R27C15X134Y265L37W32",
+      "image_dir": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_INK/train__R27C15X134Y265L37W32",
+      "gradcam_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_INK/train__R27C15X134Y265L37W32/resnet18_best_val_loss_epoch29_train__R27C15X134Y265L37W32_gradcam_layers234.json",
+      "heatmap_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_INK/train__R27C15X134Y265L37W32/resnet18_best_val_loss_epoch29_train__R27C15X134Y265L37W32_patch_distance_layers234.json",
+      "binary_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_INK/train__R27C15X134Y265L37W32/binary_mask_layers234.json"
+    },
+    {
+      "image_stem": "train__R27C4X261Y213L33W43",
+      "image_dir": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_INK/train__R27C4X261Y213L33W43",
+      "gradcam_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_INK/train__R27C4X261Y213L33W43/resnet18_best_val_loss_epoch29_train__R27C4X261Y213L33W43_gradcam_layers234.json",
+      "heatmap_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_INK/train__R27C4X261Y213L33W43/resnet18_best_val_loss_epoch29_train__R27C4X261Y213L33W43_patch_distance_layers234.json",
+      "binary_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_INK/train__R27C4X261Y213L33W43/binary_mask_layers234.json"
+    },
+    {
+      "image_stem": "train__R2C99X80Y213L22W49",
+      "image_dir": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_INK/train__R2C99X80Y213L22W49",
+      "gradcam_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_INK/train__R2C99X80Y213L22W49/resnet18_best_val_loss_epoch29_train__R2C99X80Y213L22W49_gradcam_layers234.json",
+      "heatmap_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_INK/train__R2C99X80Y213L22W49/resnet18_best_val_loss_epoch29_train__R2C99X80Y213L22W49_patch_distance_layers234.json",
+      "binary_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_INK/train__R2C99X80Y213L22W49/binary_mask_layers234.json"
+    },
+    {
+      "image_stem": "train__R34C54X139Y200L127W240",
+      "image_dir": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_INK/train__R34C54X139Y200L127W240",
+      "gradcam_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_INK/train__R34C54X139Y200L127W240/resnet18_best_val_loss_epoch29_train__R34C54X139Y200L127W240_gradcam_layers234.json",
+      "heatmap_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_INK/train__R34C54X139Y200L127W240/resnet18_best_val_loss_epoch29_train__R34C54X139Y200L127W240_patch_distance_layers234.json",
+      "binary_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_INK/train__R34C54X139Y200L127W240/binary_mask_layers234.json"
+    },
+    {
+      "image_stem": "train__R4C46X164Y215L18W43",
+      "image_dir": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_INK/train__R4C46X164Y215L18W43",
+      "gradcam_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_INK/train__R4C46X164Y215L18W43/resnet18_best_val_loss_epoch29_train__R4C46X164Y215L18W43_gradcam_layers234.json",
+      "heatmap_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_INK/train__R4C46X164Y215L18W43/resnet18_best_val_loss_epoch29_train__R4C46X164Y215L18W43_patch_distance_layers234.json",
+      "binary_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_INK/train__R4C46X164Y215L18W43/binary_mask_layers234.json"
+    },
+    {
+      "image_stem": "train__R8C2X287Y203L48W54",
+      "image_dir": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_INK/train__R8C2X287Y203L48W54",
+      "gradcam_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_INK/train__R8C2X287Y203L48W54/resnet18_best_val_loss_epoch29_train__R8C2X287Y203L48W54_gradcam_layers234.json",
+      "heatmap_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_INK/train__R8C2X287Y203L48W54/resnet18_best_val_loss_epoch29_train__R8C2X287Y203L48W54_patch_distance_layers234.json",
+      "binary_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_INK/train__R8C2X287Y203L48W54/binary_mask_layers234.json"
+    },
+    {
+      "image_stem": "train__R9C2X290Y163L26W49",
+      "image_dir": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_INK/train__R9C2X290Y163L26W49",
+      "gradcam_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_INK/train__R9C2X290Y163L26W49/resnet18_best_val_loss_epoch29_train__R9C2X290Y163L26W49_gradcam_layers234.json",
+      "heatmap_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_INK/train__R9C2X290Y163L26W49/resnet18_best_val_loss_epoch29_train__R9C2X290Y163L26W49_patch_distance_layers234.json",
+      "binary_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_INK/train__R9C2X290Y163L26W49/binary_mask_layers234.json"
+    },
+    {
+      "image_stem": "val__R17C81X185Y306L143W22",
+      "image_dir": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_INK/val__R17C81X185Y306L143W22",
+      "gradcam_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_INK/val__R17C81X185Y306L143W22/resnet18_best_val_loss_epoch29_val__R17C81X185Y306L143W22_gradcam_layers234.json",
+      "heatmap_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_INK/val__R17C81X185Y306L143W22/resnet18_best_val_loss_epoch29_val__R17C81X185Y306L143W22_patch_distance_layers234.json",
+      "binary_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_INK/val__R17C81X185Y306L143W22/binary_mask_layers234.json"
+    },
+    {
+      "image_stem": "val__R5C109X104Y-58L75W98",
+      "image_dir": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_INK/val__R5C109X104Y-58L75W98",
+      "gradcam_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_INK/val__R5C109X104Y-58L75W98/resnet18_best_val_loss_epoch29_val__R5C109X104Y-58L75W98_gradcam_layers234.json",
+      "heatmap_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_INK/val__R5C109X104Y-58L75W98/resnet18_best_val_loss_epoch29_val__R5C109X104Y-58L75W98_patch_distance_layers234.json",
+      "binary_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_INK/val__R5C109X104Y-58L75W98/binary_mask_layers234.json"
+    },
+    {
+      "image_stem": "val__R5C79X0Y0L0W0GG",
+      "image_dir": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_INK/val__R5C79X0Y0L0W0GG",
+      "gradcam_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_INK/val__R5C79X0Y0L0W0GG/resnet18_best_val_loss_epoch29_val__R5C79X0Y0L0W0GG_gradcam_layers234.json",
+      "heatmap_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_INK/val__R5C79X0Y0L0W0GG/resnet18_best_val_loss_epoch29_val__R5C79X0Y0L0W0GG_patch_distance_layers234.json",
+      "binary_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/DIE_INK/val__R5C79X0Y0L0W0GG/binary_mask_layers234.json"
+    }
+  ],
+  "NORMAL": [
+    {
+      "image_stem": "test__R1C84X0Y0L0W0GG",
+      "image_dir": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/NORMAL/test__R1C84X0Y0L0W0GG",
+      "gradcam_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/NORMAL/test__R1C84X0Y0L0W0GG/resnet18_best_val_loss_epoch29_test__R1C84X0Y0L0W0GG_gradcam_layers234.json",
+      "heatmap_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/NORMAL/test__R1C84X0Y0L0W0GG/resnet18_best_val_loss_epoch29_test__R1C84X0Y0L0W0GG_patch_distance_layers234.json",
+      "binary_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/NORMAL/test__R1C84X0Y0L0W0GG/binary_mask_layers234.json"
+    },
+    {
+      "image_stem": "test__R2C107X0Y0L0W0",
+      "image_dir": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/NORMAL/test__R2C107X0Y0L0W0",
+      "gradcam_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/NORMAL/test__R2C107X0Y0L0W0/resnet18_best_val_loss_epoch29_test__R2C107X0Y0L0W0_gradcam_layers234.json",
+      "heatmap_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/NORMAL/test__R2C107X0Y0L0W0/resnet18_best_val_loss_epoch29_test__R2C107X0Y0L0W0_patch_distance_layers234.json",
+      "binary_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/NORMAL/test__R2C107X0Y0L0W0/binary_mask_layers234.json"
+    },
+    {
+      "image_stem": "test__R4C65X0Y0L0W0",
+      "image_dir": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/NORMAL/test__R4C65X0Y0L0W0",
+      "gradcam_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/NORMAL/test__R4C65X0Y0L0W0/resnet18_best_val_loss_epoch29_test__R4C65X0Y0L0W0_gradcam_layers234.json",
+      "heatmap_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/NORMAL/test__R4C65X0Y0L0W0/resnet18_best_val_loss_epoch29_test__R4C65X0Y0L0W0_patch_distance_layers234.json",
+      "binary_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/NORMAL/test__R4C65X0Y0L0W0/binary_mask_layers234.json"
+    },
+    {
+      "image_stem": "train__R12C23X0Y0L0W0",
+      "image_dir": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/NORMAL/train__R12C23X0Y0L0W0",
+      "gradcam_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/NORMAL/train__R12C23X0Y0L0W0/resnet18_best_val_loss_epoch29_train__R12C23X0Y0L0W0_gradcam_layers234.json",
+      "heatmap_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/NORMAL/train__R12C23X0Y0L0W0/resnet18_best_val_loss_epoch29_train__R12C23X0Y0L0W0_patch_distance_layers234.json",
+      "binary_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/NORMAL/train__R12C23X0Y0L0W0/binary_mask_layers234.json"
+    },
+    {
+      "image_stem": "train__R15C24X0Y0L0W0",
+      "image_dir": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/NORMAL/train__R15C24X0Y0L0W0",
+      "gradcam_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/NORMAL/train__R15C24X0Y0L0W0/resnet18_best_val_loss_epoch29_train__R15C24X0Y0L0W0_gradcam_layers234.json",
+      "heatmap_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/NORMAL/train__R15C24X0Y0L0W0/resnet18_best_val_loss_epoch29_train__R15C24X0Y0L0W0_patch_distance_layers234.json",
+      "binary_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/NORMAL/train__R15C24X0Y0L0W0/binary_mask_layers234.json"
+    },
+    {
+      "image_stem": "train__R17C18X0Y0L0W0",
+      "image_dir": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/NORMAL/train__R17C18X0Y0L0W0",
+      "gradcam_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/NORMAL/train__R17C18X0Y0L0W0/resnet18_best_val_loss_epoch29_train__R17C18X0Y0L0W0_gradcam_layers234.json",
+      "heatmap_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/NORMAL/train__R17C18X0Y0L0W0/resnet18_best_val_loss_epoch29_train__R17C18X0Y0L0W0_patch_distance_layers234.json",
+      "binary_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/NORMAL/train__R17C18X0Y0L0W0/binary_mask_layers234.json"
+    },
+    {
+      "image_stem": "train__R22C12X0Y0L0W0",
+      "image_dir": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/NORMAL/train__R22C12X0Y0L0W0",
+      "gradcam_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/NORMAL/train__R22C12X0Y0L0W0/resnet18_best_val_loss_epoch29_train__R22C12X0Y0L0W0_gradcam_layers234.json",
+      "heatmap_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/NORMAL/train__R22C12X0Y0L0W0/resnet18_best_val_loss_epoch29_train__R22C12X0Y0L0W0_patch_distance_layers234.json",
+      "binary_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/NORMAL/train__R22C12X0Y0L0W0/binary_mask_layers234.json"
+    },
+    {
+      "image_stem": "train__R24C47X0Y0L0W0",
+      "image_dir": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/NORMAL/train__R24C47X0Y0L0W0",
+      "gradcam_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/NORMAL/train__R24C47X0Y0L0W0/resnet18_best_val_loss_epoch29_train__R24C47X0Y0L0W0_gradcam_layers234.json",
+      "heatmap_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/NORMAL/train__R24C47X0Y0L0W0/resnet18_best_val_loss_epoch29_train__R24C47X0Y0L0W0_patch_distance_layers234.json",
+      "binary_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/NORMAL/train__R24C47X0Y0L0W0/binary_mask_layers234.json"
+    },
+    {
+      "image_stem": "train__R26C10X0Y0L0W0",
+      "image_dir": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/NORMAL/train__R26C10X0Y0L0W0",
+      "gradcam_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/NORMAL/train__R26C10X0Y0L0W0/resnet18_best_val_loss_epoch29_train__R26C10X0Y0L0W0_gradcam_layers234.json",
+      "heatmap_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/NORMAL/train__R26C10X0Y0L0W0/resnet18_best_val_loss_epoch29_train__R26C10X0Y0L0W0_patch_distance_layers234.json",
+      "binary_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/NORMAL/train__R26C10X0Y0L0W0/binary_mask_layers234.json"
+    },
+    {
+      "image_stem": "train__R2C104X0Y0L0W0GG",
+      "image_dir": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/NORMAL/train__R2C104X0Y0L0W0GG",
+      "gradcam_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/NORMAL/train__R2C104X0Y0L0W0GG/resnet18_best_val_loss_epoch29_train__R2C104X0Y0L0W0GG_gradcam_layers234.json",
+      "heatmap_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/NORMAL/train__R2C104X0Y0L0W0GG/resnet18_best_val_loss_epoch29_train__R2C104X0Y0L0W0GG_patch_distance_layers234.json",
+      "binary_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/NORMAL/train__R2C104X0Y0L0W0GG/binary_mask_layers234.json"
+    },
+    {
+      "image_stem": "train__R3C101X0Y0L0W0",
+      "image_dir": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/NORMAL/train__R3C101X0Y0L0W0",
+      "gradcam_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/NORMAL/train__R3C101X0Y0L0W0/resnet18_best_val_loss_epoch29_train__R3C101X0Y0L0W0_gradcam_layers234.json",
+      "heatmap_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/NORMAL/train__R3C101X0Y0L0W0/resnet18_best_val_loss_epoch29_train__R3C101X0Y0L0W0_patch_distance_layers234.json",
+      "binary_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/NORMAL/train__R3C101X0Y0L0W0/binary_mask_layers234.json"
+    },
+    {
+      "image_stem": "train__R4C76X0Y0L0W0GG",
+      "image_dir": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/NORMAL/train__R4C76X0Y0L0W0GG",
+      "gradcam_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/NORMAL/train__R4C76X0Y0L0W0GG/resnet18_best_val_loss_epoch29_train__R4C76X0Y0L0W0GG_gradcam_layers234.json",
+      "heatmap_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/NORMAL/train__R4C76X0Y0L0W0GG/resnet18_best_val_loss_epoch29_train__R4C76X0Y0L0W0GG_patch_distance_layers234.json",
+      "binary_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/NORMAL/train__R4C76X0Y0L0W0GG/binary_mask_layers234.json"
+    },
+    {
+      "image_stem": "train__R5C72X0Y0L0W0",
+      "image_dir": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/NORMAL/train__R5C72X0Y0L0W0",
+      "gradcam_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/NORMAL/train__R5C72X0Y0L0W0/resnet18_best_val_loss_epoch29_train__R5C72X0Y0L0W0_gradcam_layers234.json",
+      "heatmap_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/NORMAL/train__R5C72X0Y0L0W0/resnet18_best_val_loss_epoch29_train__R5C72X0Y0L0W0_patch_distance_layers234.json",
+      "binary_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/NORMAL/train__R5C72X0Y0L0W0/binary_mask_layers234.json"
+    },
+    {
+      "image_stem": "train__R6C103X0Y0L0W0GG",
+      "image_dir": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/NORMAL/train__R6C103X0Y0L0W0GG",
+      "gradcam_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/NORMAL/train__R6C103X0Y0L0W0GG/resnet18_best_val_loss_epoch29_train__R6C103X0Y0L0W0GG_gradcam_layers234.json",
+      "heatmap_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/NORMAL/train__R6C103X0Y0L0W0GG/resnet18_best_val_loss_epoch29_train__R6C103X0Y0L0W0GG_patch_distance_layers234.json",
+      "binary_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/NORMAL/train__R6C103X0Y0L0W0GG/binary_mask_layers234.json"
+    },
+    {
+      "image_stem": "train__R6C107X0Y0L0W0",
+      "image_dir": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/NORMAL/train__R6C107X0Y0L0W0",
+      "gradcam_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/NORMAL/train__R6C107X0Y0L0W0/resnet18_best_val_loss_epoch29_train__R6C107X0Y0L0W0_gradcam_layers234.json",
+      "heatmap_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/NORMAL/train__R6C107X0Y0L0W0/resnet18_best_val_loss_epoch29_train__R6C107X0Y0L0W0_patch_distance_layers234.json",
+      "binary_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/NORMAL/train__R6C107X0Y0L0W0/binary_mask_layers234.json"
+    },
+    {
+      "image_stem": "train__R6C111X0Y0L0W0",
+      "image_dir": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/NORMAL/train__R6C111X0Y0L0W0",
+      "gradcam_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/NORMAL/train__R6C111X0Y0L0W0/resnet18_best_val_loss_epoch29_train__R6C111X0Y0L0W0_gradcam_layers234.json",
+      "heatmap_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/NORMAL/train__R6C111X0Y0L0W0/resnet18_best_val_loss_epoch29_train__R6C111X0Y0L0W0_patch_distance_layers234.json",
+      "binary_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/NORMAL/train__R6C111X0Y0L0W0/binary_mask_layers234.json"
+    },
+    {
+      "image_stem": "train__R6C68X0Y0L0W0",
+      "image_dir": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/NORMAL/train__R6C68X0Y0L0W0",
+      "gradcam_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/NORMAL/train__R6C68X0Y0L0W0/resnet18_best_val_loss_epoch29_train__R6C68X0Y0L0W0_gradcam_layers234.json",
+      "heatmap_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/NORMAL/train__R6C68X0Y0L0W0/resnet18_best_val_loss_epoch29_train__R6C68X0Y0L0W0_patch_distance_layers234.json",
+      "binary_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/NORMAL/train__R6C68X0Y0L0W0/binary_mask_layers234.json"
+    },
+    {
+      "image_stem": "val__R14C58X0Y0L0W0",
+      "image_dir": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/NORMAL/val__R14C58X0Y0L0W0",
+      "gradcam_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/NORMAL/val__R14C58X0Y0L0W0/resnet18_best_val_loss_epoch29_val__R14C58X0Y0L0W0_gradcam_layers234.json",
+      "heatmap_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/NORMAL/val__R14C58X0Y0L0W0/resnet18_best_val_loss_epoch29_val__R14C58X0Y0L0W0_patch_distance_layers234.json",
+      "binary_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/NORMAL/val__R14C58X0Y0L0W0/binary_mask_layers234.json"
+    },
+    {
+      "image_stem": "val__R3C87X0Y0L0W0GG",
+      "image_dir": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/NORMAL/val__R3C87X0Y0L0W0GG",
+      "gradcam_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/NORMAL/val__R3C87X0Y0L0W0GG/resnet18_best_val_loss_epoch29_val__R3C87X0Y0L0W0GG_gradcam_layers234.json",
+      "heatmap_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/NORMAL/val__R3C87X0Y0L0W0GG/resnet18_best_val_loss_epoch29_val__R3C87X0Y0L0W0GG_patch_distance_layers234.json",
+      "binary_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/NORMAL/val__R3C87X0Y0L0W0GG/binary_mask_layers234.json"
+    },
+    {
+      "image_stem": "val__R5C59X0Y0L0W0",
+      "image_dir": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/NORMAL/val__R5C59X0Y0L0W0",
+      "gradcam_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/NORMAL/val__R5C59X0Y0L0W0/resnet18_best_val_loss_epoch29_val__R5C59X0Y0L0W0_gradcam_layers234.json",
+      "heatmap_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/NORMAL/val__R5C59X0Y0L0W0/resnet18_best_val_loss_epoch29_val__R5C59X0Y0L0W0_patch_distance_layers234.json",
+      "binary_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/NORMAL/val__R5C59X0Y0L0W0/binary_mask_layers234.json"
+    }
+  ],
+  "NO_DIE": [
+    {
+      "image_stem": "test__R14C106X202Y193L235W234",
+      "image_dir": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/NO_DIE/test__R14C106X202Y193L235W234",
+      "gradcam_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/NO_DIE/test__R14C106X202Y193L235W234/resnet18_best_val_loss_epoch29_test__R14C106X202Y193L235W234_gradcam_layers234.json",
+      "heatmap_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/NO_DIE/test__R14C106X202Y193L235W234/resnet18_best_val_loss_epoch29_test__R14C106X202Y193L235W234_patch_distance_layers234.json",
+      "binary_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/NO_DIE/test__R14C106X202Y193L235W234/binary_mask_layers234.json"
+    },
+    {
+      "image_stem": "train__R15C31X244Y260L242W278",
+      "image_dir": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/NO_DIE/train__R15C31X244Y260L242W278",
+      "gradcam_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/NO_DIE/train__R15C31X244Y260L242W278/resnet18_best_val_loss_epoch29_train__R15C31X244Y260L242W278_gradcam_layers234.json",
+      "heatmap_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/NO_DIE/train__R15C31X244Y260L242W278/resnet18_best_val_loss_epoch29_train__R15C31X244Y260L242W278_patch_distance_layers234.json",
+      "binary_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/NO_DIE/train__R15C31X244Y260L242W278/binary_mask_layers234.json"
+    },
+    {
+      "image_stem": "train__R18C8X189Y196L258W283",
+      "image_dir": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/NO_DIE/train__R18C8X189Y196L258W283",
+      "gradcam_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/NO_DIE/train__R18C8X189Y196L258W283/resnet18_best_val_loss_epoch29_train__R18C8X189Y196L258W283_gradcam_layers234.json",
+      "heatmap_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/NO_DIE/train__R18C8X189Y196L258W283/resnet18_best_val_loss_epoch29_train__R18C8X189Y196L258W283_patch_distance_layers234.json",
+      "binary_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/NO_DIE/train__R18C8X189Y196L258W283/binary_mask_layers234.json"
+    },
+    {
+      "image_stem": "train__R1C112X185Y192L247W274",
+      "image_dir": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/NO_DIE/train__R1C112X185Y192L247W274",
+      "gradcam_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/NO_DIE/train__R1C112X185Y192L247W274/resnet18_best_val_loss_epoch29_train__R1C112X185Y192L247W274_gradcam_layers234.json",
+      "heatmap_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/NO_DIE/train__R1C112X185Y192L247W274/resnet18_best_val_loss_epoch29_train__R1C112X185Y192L247W274_patch_distance_layers234.json",
+      "binary_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/NO_DIE/train__R1C112X185Y192L247W274/binary_mask_layers234.json"
+    },
+    {
+      "image_stem": "train__R28C100X175Y200L254W283",
+      "image_dir": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/NO_DIE/train__R28C100X175Y200L254W283",
+      "gradcam_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/NO_DIE/train__R28C100X175Y200L254W283/resnet18_best_val_loss_epoch29_train__R28C100X175Y200L254W283_gradcam_layers234.json",
+      "heatmap_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/NO_DIE/train__R28C100X175Y200L254W283/resnet18_best_val_loss_epoch29_train__R28C100X175Y200L254W283_patch_distance_layers234.json",
+      "binary_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/NO_DIE/train__R28C100X175Y200L254W283/binary_mask_layers234.json"
+    },
+    {
+      "image_stem": "val__R28C108X185Y192L252W277",
+      "image_dir": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/NO_DIE/val__R28C108X185Y192L252W277",
+      "gradcam_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/NO_DIE/val__R28C108X185Y192L252W277/resnet18_best_val_loss_epoch29_val__R28C108X185Y192L252W277_gradcam_layers234.json",
+      "heatmap_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/NO_DIE/val__R28C108X185Y192L252W277/resnet18_best_val_loss_epoch29_val__R28C108X185Y192L252W277_patch_distance_layers234.json",
+      "binary_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/NO_DIE/val__R28C108X185Y192L252W277/binary_mask_layers234.json"
+    },
+    {
+      "image_stem": "val__R9C93X179Y207L254W279",
+      "image_dir": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/NO_DIE/val__R9C93X179Y207L254W279",
+      "gradcam_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/NO_DIE/val__R9C93X179Y207L254W279/resnet18_best_val_loss_epoch29_val__R9C93X179Y207L254W279_gradcam_layers234.json",
+      "heatmap_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/NO_DIE/val__R9C93X179Y207L254W279/resnet18_best_val_loss_epoch29_val__R9C93X179Y207L254W279_patch_distance_layers234.json",
+      "binary_json": "/home/minje/icpbl-wafer-open-set/best_model/Ablation study/class_by_image_seed61/NO_DIE/val__R9C93X179Y207L254W279/binary_mask_layers234.json"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+_wandb:
+    value:
+        cli_version: 0.24.2
+        e:
+            0p9fopkr0977efzl38x2v5737uuezc49:
+                email: minje227@hanyang.ac.kr
+                executable: /home/minje/miniconda3/envs/icpbl/bin/python
+                git:
+                    commit: a0f66f3d5c8c2c551472e346e726ed3027f6f391
+                    remote: https://github.com/minje227-coder/icpbl-wafer-open-set.git
+                host: minje-24.04
+                os: Linux-6.17.0-22-generic-x86_64-with-glibc2.39
+                program: <stdin>
+                python: CPython 3.13.11
+                root: /home/minje/icpbl-wafer-open-set
+                startedAt: "2026-06-04T05:07:32.602542Z"
+                writerId: 0p9fopkr0977efzl38x2v5737uuezc49
+        m: []
+        python_version: 3.13.11
+        t:
+            "3":
+                - 2
+                - 13
+                - 15
+                - 16
+                - 61
+                - 62
+            "4": 3.13.11
+            "5": 0.24.2
+            "12": 0.24.2
+            "13": linux-x86_64
+augmentation:
+    value:
+        autocontrast_p: 0.17
+        contrast_strength: 0.08
+        name: fs_r3_ac17_sharp110_p20_seed61
+        rotation_degrees: 5
+        sharpness_factor: 1.1
+        sharpness_p: 0.2
+batch_size:
+    value: 8
+checkpoint_dir:
+    value: /home/minje/icpbl-wafer-open-set/best_model/seed_search/runs/fs_r3_ac17_sharp110_p20_seed61
+class_weights:
+    value:
+        - 1.3974359035491943
+        - 0.605555534362793
+        - 1.5797101259231567
+epochs:
+    value: 30
+experiment:
+    value: fs_r3_ac17_sharp110_p20_seed61
+image_size:
+    value: 224
+known_labels:
+    value:
+        DIE_BROKEN: 0
+        NO_DIE: 2
+        NORMAL: 1
+label_smoothing:
+    value: 0.05
+learning_rate:
+    value: 0.0001
+model:
+    value: resnet18
+num_workers:
+    value: 2
+pretrained_weights:
+    value: ResNet18_Weights.DEFAULT
+source:
+    value: best_model_seed61_history_replay
+train_counts:
+    value:
+        DIE_BROKEN: 26
+        NO_DIE: 23
+        NORMAL: 60
+val_counts:
+    value:
+        DIE_BROKEN: 8
+        NO_DIE: 7
+        NORMAL: 20
+weight_decay:
+    value: 0.0001

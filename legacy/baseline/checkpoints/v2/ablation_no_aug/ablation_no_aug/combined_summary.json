@@ -1,0 +1,17 @@
+{
+  "experiment": "ablation_no_aug",
+  "checkpoint_path": "/home/minje/icpbl-wafer-open-set/baseline/checkpoints/v2/ablation_no_aug/ablation_no_aug/resnet18_best_val_loss_epoch15.pth",
+  "best_epoch": 15,
+  "best_val_loss": 0.21620434522628784,
+  "best_val_f1": 1.0,
+  "history_path": "/home/minje/icpbl-wafer-open-set/baseline/checkpoints/v2/ablation_no_aug/ablation_no_aug/train_log.json",
+  "config_path": "/home/minje/icpbl-wafer-open-set/baseline/checkpoints/v2/ablation_no_aug/ablation_no_aug/config.json",
+  "selected_threshold": 0.9377341088665218,
+  "raw_known_acc": 0.9714285714285714,
+  "open_macro_f1": 0.7479914529914531,
+  "overall_acc": 0.72,
+  "known_acc": 0.8,
+  "unknown_acc": 0.65,
+  "val_open_macro_f1": 0.8597222222222223,
+  "val_open_accuracy": 0.8133333333333334
+}

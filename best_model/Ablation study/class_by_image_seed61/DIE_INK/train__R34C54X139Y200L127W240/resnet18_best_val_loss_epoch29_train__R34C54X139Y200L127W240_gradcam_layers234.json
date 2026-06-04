@@ -1,0 +1,33 @@
+{
+  "model_path": "/home/minje/icpbl-wafer-open-set/best_model/best_run/resnet18_best_val_loss_epoch29.pth",
+  "image_path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/DIE_INK/images/train__R34C54X139Y200L127W240.jpg",
+  "true_class": "DIE_INK",
+  "pred_label": "DIE_BROKEN",
+  "pred_confidence": 0.967190682888031,
+  "layers": [
+    {
+      "layer": "layer2",
+      "pred_label": "DIE_BROKEN",
+      "pred_confidence": 0.967190682888031,
+      "cam_min": 0.0,
+      "cam_max": 1.0,
+      "cam_mean": 0.1969081163406372
+    },
+    {
+      "layer": "layer3",
+      "pred_label": "DIE_BROKEN",
+      "pred_confidence": 0.967190682888031,
+      "cam_min": 0.0,
+      "cam_max": 1.0,
+      "cam_mean": 0.22046184539794922
+    },
+    {
+      "layer": "layer4",
+      "pred_label": "DIE_BROKEN",
+      "pred_confidence": 0.967190682888031,
+      "cam_min": 0.0,
+      "cam_max": 1.0,
+      "cam_mean": 0.6250959634780884
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "experiment": "fs_r3_ac17_sharp110_p20_seed61",
+  "checkpoint_path": "/home/minje/icpbl-wafer-open-set/best_model/best_run/resnet18_best_val_loss_epoch29.pth",
+  "best_epoch": 29,
+  "best_val_loss": 0.21581946313381195,
+  "best_val_f1": 1.0,
+  "history_path": "/home/minje/icpbl-wafer-open-set/best_model/best_run/train_log.json",
+  "config_path": "/home/minje/icpbl-wafer-open-set/best_model/best_run/config.json"
+}

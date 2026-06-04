@@ -1,0 +1,201 @@
+{
+  "model_path": "/home/minje/icpbl-wafer-open-set/best_model/best_run/resnet18_best_val_loss_epoch29.pth",
+  "image_path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/NO_DIE/images/val__R28C108X185Y192L252W277.jpg",
+  "true_class": "NO_DIE",
+  "topk": 12,
+  "layers": [
+    {
+      "layer": "layer2",
+      "pred_label": "NO_DIE",
+      "confidence": 0.9803466796875,
+      "topk_score": 0.16197235882282257,
+      "distance_map_shape": [
+        28,
+        28
+      ],
+      "distance_map_mean": 0.05454065278172493,
+      "distance_map_max": 0.1934579610824585,
+      "distance_map_min": 0.01260608434677124,
+      "topk_coords": [
+        [
+          6,
+          2
+        ],
+        [
+          6,
+          22
+        ],
+        [
+          6,
+          25
+        ],
+        [
+          10,
+          26
+        ],
+        [
+          16,
+          25
+        ],
+        [
+          17,
+          25
+        ],
+        [
+          18,
+          1
+        ],
+        [
+          22,
+          17
+        ],
+        [
+          24,
+          21
+        ],
+        [
+          25,
+          25
+        ],
+        [
+          25,
+          26
+        ],
+        [
+          26,
+          21
+        ]
+      ]
+    },
+    {
+      "layer": "layer3",
+      "pred_label": "NO_DIE",
+      "confidence": 0.9803466796875,
+      "topk_score": 0.10811829566955566,
+      "distance_map_shape": [
+        14,
+        14
+      ],
+      "distance_map_mean": 0.05923733487725258,
+      "distance_map_max": 0.1348462700843811,
+      "distance_map_min": 0.013879537582397461,
+      "topk_coords": [
+        [
+          0,
+          12
+        ],
+        [
+          0,
+          13
+        ],
+        [
+          1,
+          11
+        ],
+        [
+          1,
+          12
+        ],
+        [
+          2,
+          11
+        ],
+        [
+          3,
+          11
+        ],
+        [
+          7,
+          1
+        ],
+        [
+          7,
+          2
+        ],
+        [
+          8,
+          11
+        ],
+        [
+          10,
+          5
+        ],
+        [
+          11,
+          5
+        ],
+        [
+          13,
+          12
+        ]
+      ]
+    },
+    {
+      "layer": "layer4",
+      "pred_label": "NO_DIE",
+      "confidence": 0.9803466796875,
+      "topk_score": 0.09510912746191025,
+      "distance_map_shape": [
+        7,
+        7
+      ],
+      "distance_map_mean": 0.05756935849785805,
+      "distance_map_max": 0.13891315460205078,
+      "distance_map_min": 0.01562631130218506,
+      "topk_coords": [
+        [
+          0,
+          5
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          5
+        ],
+        [
+          1,
+          6
+        ],
+        [
+          2,
+          0
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          4,
+          0
+        ],
+        [
+          4,
+          6
+        ],
+        [
+          5,
+          0
+        ],
+        [
+          5,
+          1
+        ],
+        [
+          5,
+          6
+        ],
+        [
+          6,
+          6
+        ]
+      ]
+    }
+  ],
+  "shared_distance_scale": {
+    "min": 0.0,
+    "max": 0.1934579610824585
+  }
+}
