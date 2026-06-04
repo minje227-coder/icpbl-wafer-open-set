@@ -1,0 +1,17 @@
+{
+  "experiment": "fs_r2_ac18",
+  "checkpoint_path": "/home/minje/icpbl-wafer-open-set/baseline/checkpoints/v2/fine_search_round2/fs_r2_ac18/resnet18_best_val_loss_epoch25.pth",
+  "best_epoch": 25,
+  "best_val_loss": 0.2114693522453308,
+  "best_val_f1": 1.0,
+  "history_path": "/home/minje/icpbl-wafer-open-set/baseline/checkpoints/v2/fine_search_round2/fs_r2_ac18/train_log.json",
+  "config_path": "/home/minje/icpbl-wafer-open-set/baseline/checkpoints/v2/fine_search_round2/fs_r2_ac18/config.json",
+  "selected_threshold": 0.17023215175090955,
+  "raw_known_acc": 0.9714285714285714,
+  "open_macro_f1": 0.8233505315822389,
+  "overall_acc": 0.84,
+  "known_acc": 0.8,
+  "unknown_acc": 0.875,
+  "val_open_macro_f1": 0.8519378844582096,
+  "val_open_accuracy": 0.8533333333333334
+}

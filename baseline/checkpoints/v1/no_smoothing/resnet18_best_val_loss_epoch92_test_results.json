@@ -1,0 +1,752 @@
+[
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/DIE_BROKEN/images/test__R6C13X294Y86L30W19.jpg",
+    "true_class": "DIE_BROKEN",
+    "pred_index": 0,
+    "pred_label": "DIE_BROKEN",
+    "confidence": 0.9999516010284424,
+    "prob_DIE_BROKEN": 0.9999516010284424,
+    "prob_NORMAL": 4.26735459768679e-05,
+    "prob_NO_DIE": 5.750949185312493e-06
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/DIE_BROKEN/images/train__R10C12X192Y85L243W14.jpg",
+    "true_class": "DIE_BROKEN",
+    "pred_index": 0,
+    "pred_label": "DIE_BROKEN",
+    "confidence": 0.9999295473098755,
+    "prob_DIE_BROKEN": 0.9999295473098755,
+    "prob_NORMAL": 6.179238698678091e-05,
+    "prob_NO_DIE": 8.756522220210172e-06
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/DIE_BROKEN/images/train__R13C86X94Y309L43W11.jpg",
+    "true_class": "DIE_BROKEN",
+    "pred_index": 0,
+    "pred_label": "DIE_BROKEN",
+    "confidence": 0.9995874762535095,
+    "prob_DIE_BROKEN": 0.9995874762535095,
+    "prob_NORMAL": 0.00039721347275190055,
+    "prob_NO_DIE": 1.5364821592811495e-05
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/DIE_BROKEN/images/train__R15C19X240Y309L124W27.jpg",
+    "true_class": "DIE_BROKEN",
+    "pred_index": 0,
+    "pred_label": "DIE_BROKEN",
+    "confidence": 0.9999537467956543,
+    "prob_DIE_BROKEN": 0.9999537467956543,
+    "prob_NORMAL": 3.286138962721452e-05,
+    "prob_NO_DIE": 1.3352449968806468e-05
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/DIE_BROKEN/images/train__R15C20X282Y309L48W16.jpg",
+    "true_class": "DIE_BROKEN",
+    "pred_index": 0,
+    "pred_label": "DIE_BROKEN",
+    "confidence": 0.9999197721481323,
+    "prob_DIE_BROKEN": 0.9999197721481323,
+    "prob_NORMAL": 6.573324208147824e-05,
+    "prob_NO_DIE": 1.4541870768880472e-05
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/DIE_BROKEN/images/train__R1C39X0Y0L0W0.jpg",
+    "true_class": "DIE_BROKEN",
+    "pred_index": 1,
+    "pred_label": "NORMAL",
+    "confidence": 0.9999980926513672,
+    "prob_DIE_BROKEN": 1.2688860806520097e-07,
+    "prob_NORMAL": 0.9999980926513672,
+    "prob_NO_DIE": 1.7265286942347302e-06
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/DIE_BROKEN/images/train__R20C26X272Y82L78W15.jpg",
+    "true_class": "DIE_BROKEN",
+    "pred_index": 0,
+    "pred_label": "DIE_BROKEN",
+    "confidence": 0.9999682903289795,
+    "prob_DIE_BROKEN": 0.9999682903289795,
+    "prob_NORMAL": 2.3124519429984502e-05,
+    "prob_NO_DIE": 8.630870979686733e-06
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/DIE_BROKEN/images/train__R23C15X116Y82L90W11.jpg",
+    "true_class": "DIE_BROKEN",
+    "pred_index": 0,
+    "pred_label": "DIE_BROKEN",
+    "confidence": 0.9996980428695679,
+    "prob_DIE_BROKEN": 0.9996980428695679,
+    "prob_NORMAL": 0.00027860398404300213,
+    "prob_NO_DIE": 2.3370846975012682e-05
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/DIE_CRACK/images/test__R1C84X0Y0L0W0.jpg",
+    "true_class": "DIE_CRACK",
+    "pred_index": 1,
+    "pred_label": "NORMAL",
+    "confidence": 1.0,
+    "prob_DIE_BROKEN": 2.9642614673763357e-15,
+    "prob_NORMAL": 1.0,
+    "prob_NO_DIE": 4.717665147424555e-10
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/DIE_CRACK/images/test__R2C104X150Y214L116W196.jpg",
+    "true_class": "DIE_CRACK",
+    "pred_index": 1,
+    "pred_label": "NORMAL",
+    "confidence": 0.9999486207962036,
+    "prob_DIE_BROKEN": 1.3235995538707357e-05,
+    "prob_NORMAL": 0.9999486207962036,
+    "prob_NO_DIE": 3.813331568380818e-05
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/DIE_CRACK/images/test__R4C101X0Y0L0W0.jpg",
+    "true_class": "DIE_CRACK",
+    "pred_index": 1,
+    "pred_label": "NORMAL",
+    "confidence": 0.9999958276748657,
+    "prob_DIE_BROKEN": 4.468260428325266e-08,
+    "prob_NORMAL": 0.9999958276748657,
+    "prob_NO_DIE": 4.1289004002464935e-06
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/DIE_CRACK/images/test__R6C103X0Y0L0W0.jpg",
+    "true_class": "DIE_CRACK",
+    "pred_index": 1,
+    "pred_label": "NORMAL",
+    "confidence": 0.9999980926513672,
+    "prob_DIE_BROKEN": 7.399444612588013e-09,
+    "prob_NORMAL": 0.9999980926513672,
+    "prob_NO_DIE": 1.9112569589196937e-06
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/DIE_CRACK/images/train__R1C104X188Y191L150W148.jpg",
+    "true_class": "DIE_CRACK",
+    "pred_index": 1,
+    "pred_label": "NORMAL",
+    "confidence": 0.9999998807907104,
+    "prob_DIE_BROKEN": 3.427585160142854e-10,
+    "prob_NORMAL": 0.9999998807907104,
+    "prob_NO_DIE": 1.3067584347936645e-07
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/DIE_CRACK/images/train__R1C109X182Y225L101W152.jpg",
+    "true_class": "DIE_CRACK",
+    "pred_index": 1,
+    "pred_label": "NORMAL",
+    "confidence": 0.9999998807907104,
+    "prob_DIE_BROKEN": 8.625794523098307e-10,
+    "prob_NORMAL": 0.9999998807907104,
+    "prob_NO_DIE": 1.2491933887304185e-07
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/DIE_CRACK/images/train__R1C112X230Y227L137W137.jpg",
+    "true_class": "DIE_CRACK",
+    "pred_index": 1,
+    "pred_label": "NORMAL",
+    "confidence": 0.9999995231628418,
+    "prob_DIE_BROKEN": 5.188004470468854e-10,
+    "prob_NORMAL": 0.9999995231628418,
+    "prob_NO_DIE": 4.342571173765464e-07
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/DIE_CRACK/images/train__R2C108X140Y227L90W191.jpg",
+    "true_class": "DIE_CRACK",
+    "pred_index": 1,
+    "pred_label": "NORMAL",
+    "confidence": 0.9999902248382568,
+    "prob_DIE_BROKEN": 2.152345587091986e-06,
+    "prob_NORMAL": 0.9999902248382568,
+    "prob_NO_DIE": 7.652941349078901e-06
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/DIE_CRACK/images/train__R3C80X0Y0L0W0.jpg",
+    "true_class": "DIE_CRACK",
+    "pred_index": 1,
+    "pred_label": "NORMAL",
+    "confidence": 0.9999865293502808,
+    "prob_DIE_BROKEN": 1.3093339248371194e-06,
+    "prob_NORMAL": 0.9999865293502808,
+    "prob_NO_DIE": 1.216696637129644e-05
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/DIE_CRACK/images/train__R3C93X0Y0L0W0.jpg",
+    "true_class": "DIE_CRACK",
+    "pred_index": 1,
+    "pred_label": "NORMAL",
+    "confidence": 0.9999736547470093,
+    "prob_DIE_BROKEN": 8.188478204829153e-06,
+    "prob_NORMAL": 0.9999736547470093,
+    "prob_NO_DIE": 1.820741454139352e-05
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/DIE_CRACK/images/train__R3C94X0Y0L0W0.jpg",
+    "true_class": "DIE_CRACK",
+    "pred_index": 1,
+    "pred_label": "NORMAL",
+    "confidence": 0.999995231628418,
+    "prob_DIE_BROKEN": 7.349904080911074e-07,
+    "prob_NORMAL": 0.999995231628418,
+    "prob_NO_DIE": 4.058985268784454e-06
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/DIE_CRACK/images/train__R3C97X0Y0L0W0.jpg",
+    "true_class": "DIE_CRACK",
+    "pred_index": 1,
+    "pred_label": "NORMAL",
+    "confidence": 0.9999997615814209,
+    "prob_DIE_BROKEN": 6.84989232002664e-10,
+    "prob_NORMAL": 0.9999997615814209,
+    "prob_NO_DIE": 1.8937434731469693e-07
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/DIE_CRACK/images/train__R4C102X0Y0L0W0.jpg",
+    "true_class": "DIE_CRACK",
+    "pred_index": 1,
+    "pred_label": "NORMAL",
+    "confidence": 0.9999996423721313,
+    "prob_DIE_BROKEN": 2.4162627454415997e-09,
+    "prob_NORMAL": 0.9999996423721313,
+    "prob_NO_DIE": 3.685699709876644e-07
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/DIE_CRACK/images/train__R4C111X205Y189L157W109.jpg",
+    "true_class": "DIE_CRACK",
+    "pred_index": 1,
+    "pred_label": "NORMAL",
+    "confidence": 0.9999819993972778,
+    "prob_DIE_BROKEN": 9.840495067692245e-07,
+    "prob_NORMAL": 0.9999819993972778,
+    "prob_NO_DIE": 1.6965848772088066e-05
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/DIE_CRACK/images/train__R4C87X0Y0L0W0.jpg",
+    "true_class": "DIE_CRACK",
+    "pred_index": 1,
+    "pred_label": "NORMAL",
+    "confidence": 0.999943733215332,
+    "prob_DIE_BROKEN": 2.0755105651915073e-06,
+    "prob_NORMAL": 0.999943733215332,
+    "prob_NO_DIE": 5.42134148417972e-05
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/DIE_CRACK/images/train__R5C98X0Y0L0W0.jpg",
+    "true_class": "DIE_CRACK",
+    "pred_index": 1,
+    "pred_label": "NORMAL",
+    "confidence": 1.0,
+    "prob_DIE_BROKEN": 1.970049345756549e-15,
+    "prob_NORMAL": 1.0,
+    "prob_NO_DIE": 1.488908579760917e-10
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/DIE_CRACK/images/train__R5C98X209Y194L169W240.jpg",
+    "true_class": "DIE_CRACK",
+    "pred_index": 1,
+    "pred_label": "NORMAL",
+    "confidence": 0.9999747276306152,
+    "prob_DIE_BROKEN": 2.730169796905102e-07,
+    "prob_NORMAL": 0.9999747276306152,
+    "prob_NO_DIE": 2.5011313482536934e-05
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/DIE_CRACK/images/train__R6C96X0Y0L0W0.jpg",
+    "true_class": "DIE_CRACK",
+    "pred_index": 1,
+    "pred_label": "NORMAL",
+    "confidence": 1.0,
+    "prob_DIE_BROKEN": 2.310181354957144e-15,
+    "prob_NORMAL": 1.0,
+    "prob_NO_DIE": 9.778913234725906e-10
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/DIE_CRACK/images/val__R4C100X176Y193L172W234.jpg",
+    "true_class": "DIE_CRACK",
+    "pred_index": 1,
+    "pred_label": "NORMAL",
+    "confidence": 0.9999885559082031,
+    "prob_DIE_BROKEN": 2.505998111246299e-07,
+    "prob_NORMAL": 0.9999885559082031,
+    "prob_NO_DIE": 1.1202655514352955e-05
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/DIE_CRACK/images/val__R6C100X0Y0L0W0.jpg",
+    "true_class": "DIE_CRACK",
+    "pred_index": 1,
+    "pred_label": "NORMAL",
+    "confidence": 1.0,
+    "prob_DIE_BROKEN": 9.788439156444007e-12,
+    "prob_NORMAL": 1.0,
+    "prob_NO_DIE": 3.9295400711125694e-08
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/DIE_INK/images/test__R10C7X288Y247L15W49.jpg",
+    "true_class": "DIE_INK",
+    "pred_index": 0,
+    "pred_label": "DIE_BROKEN",
+    "confidence": 0.9696245789527893,
+    "prob_DIE_BROKEN": 0.9696245789527893,
+    "prob_NORMAL": 0.030121365562081337,
+    "prob_NO_DIE": 0.000254026468610391
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/DIE_INK/images/test__R3C102X151Y146L30W60.jpg",
+    "true_class": "DIE_INK",
+    "pred_index": 0,
+    "pred_label": "DIE_BROKEN",
+    "confidence": 0.9996821880340576,
+    "prob_DIE_BROKEN": 0.9996821880340576,
+    "prob_NORMAL": 0.00021252725855447352,
+    "prob_NO_DIE": 0.00010535451292525977
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/DIE_INK/images/test__R5C17X137Y94L30W20.jpg",
+    "true_class": "DIE_INK",
+    "pred_index": 0,
+    "pred_label": "DIE_BROKEN",
+    "confidence": 0.9996110796928406,
+    "prob_DIE_BROKEN": 0.9996110796928406,
+    "prob_NORMAL": 0.00032330738031305373,
+    "prob_NO_DIE": 6.57101918477565e-05
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/DIE_INK/images/train__R13C13X149Y98L33W42.jpg",
+    "true_class": "DIE_INK",
+    "pred_index": 1,
+    "pred_label": "NORMAL",
+    "confidence": 0.9994785189628601,
+    "prob_DIE_BROKEN": 0.0004855890292674303,
+    "prob_NORMAL": 0.9994785189628601,
+    "prob_NO_DIE": 3.5924953408539295e-05
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/DIE_INK/images/train__R14C25X179Y155L157W158.jpg",
+    "true_class": "DIE_INK",
+    "pred_index": 0,
+    "pred_label": "DIE_BROKEN",
+    "confidence": 0.9882258176803589,
+    "prob_DIE_BROKEN": 0.9882258176803589,
+    "prob_NORMAL": 0.0032967033330351114,
+    "prob_NO_DIE": 0.008477526716887951
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/DIE_INK/images/train__R16C90X295Y158L41W65.jpg",
+    "true_class": "DIE_INK",
+    "pred_index": 0,
+    "pred_label": "DIE_BROKEN",
+    "confidence": 0.9995743632316589,
+    "prob_DIE_BROKEN": 0.9995743632316589,
+    "prob_NORMAL": 0.00037286142469383776,
+    "prob_NO_DIE": 5.27853007952217e-05
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/DIE_INK/images/train__R16C9X0Y0L0W0.jpg",
+    "true_class": "DIE_INK",
+    "pred_index": 1,
+    "pred_label": "NORMAL",
+    "confidence": 0.999200165271759,
+    "prob_DIE_BROKEN": 0.0006778839160688221,
+    "prob_NORMAL": 0.999200165271759,
+    "prob_NO_DIE": 0.00012202404468553141
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/DIE_INK/images/train__R1C109X0Y0L0W0.jpg",
+    "true_class": "DIE_INK",
+    "pred_index": 1,
+    "pred_label": "NORMAL",
+    "confidence": 0.9999998807907104,
+    "prob_DIE_BROKEN": 1.1721289217003772e-10,
+    "prob_NORMAL": 0.9999998807907104,
+    "prob_NO_DIE": 7.087763975732742e-08
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/DIE_INK/images/train__R21C29X110Y297L15W21.jpg",
+    "true_class": "DIE_INK",
+    "pred_index": 0,
+    "pred_label": "DIE_BROKEN",
+    "confidence": 0.9993818998336792,
+    "prob_DIE_BROKEN": 0.9993818998336792,
+    "prob_NORMAL": 0.0005068703321740031,
+    "prob_NO_DIE": 0.0001111553210648708
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/DIE_INK/images/train__R26C8X239Y192L11W21.jpg",
+    "true_class": "DIE_INK",
+    "pred_index": 0,
+    "pred_label": "DIE_BROKEN",
+    "confidence": 0.9980286955833435,
+    "prob_DIE_BROKEN": 0.9980286955833435,
+    "prob_NORMAL": 0.0019335087854415178,
+    "prob_NO_DIE": 3.7869693187531084e-05
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/DIE_INK/images/train__R27C15X134Y265L37W32.jpg",
+    "true_class": "DIE_INK",
+    "pred_index": 0,
+    "pred_label": "DIE_BROKEN",
+    "confidence": 0.9998121857643127,
+    "prob_DIE_BROKEN": 0.9998121857643127,
+    "prob_NORMAL": 0.00014418755017686635,
+    "prob_NO_DIE": 4.366955909063108e-05
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/DIE_INK/images/train__R27C4X261Y213L33W43.jpg",
+    "true_class": "DIE_INK",
+    "pred_index": 0,
+    "pred_label": "DIE_BROKEN",
+    "confidence": 0.9990184307098389,
+    "prob_DIE_BROKEN": 0.9990184307098389,
+    "prob_NORMAL": 0.0008501939009875059,
+    "prob_NO_DIE": 0.00013137621863279492
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/DIE_INK/images/train__R2C99X80Y213L22W49.jpg",
+    "true_class": "DIE_INK",
+    "pred_index": 0,
+    "pred_label": "DIE_BROKEN",
+    "confidence": 0.998934805393219,
+    "prob_DIE_BROKEN": 0.998934805393219,
+    "prob_NORMAL": 0.0010324696777388453,
+    "prob_NO_DIE": 3.2798114261822775e-05
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/DIE_INK/images/train__R34C54X139Y200L127W240.jpg",
+    "true_class": "DIE_INK",
+    "pred_index": 0,
+    "pred_label": "DIE_BROKEN",
+    "confidence": 0.9999129772186279,
+    "prob_DIE_BROKEN": 0.9999129772186279,
+    "prob_NORMAL": 7.531919254688546e-05,
+    "prob_NO_DIE": 1.1658084986265749e-05
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/DIE_INK/images/train__R4C46X164Y215L18W43.jpg",
+    "true_class": "DIE_INK",
+    "pred_index": 0,
+    "pred_label": "DIE_BROKEN",
+    "confidence": 0.9998123049736023,
+    "prob_DIE_BROKEN": 0.9998123049736023,
+    "prob_NORMAL": 0.00014624660252593458,
+    "prob_NO_DIE": 4.149205778958276e-05
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/DIE_INK/images/train__R8C2X287Y203L48W54.jpg",
+    "true_class": "DIE_INK",
+    "pred_index": 0,
+    "pred_label": "DIE_BROKEN",
+    "confidence": 0.9936467409133911,
+    "prob_DIE_BROKEN": 0.9936467409133911,
+    "prob_NORMAL": 0.006211553234606981,
+    "prob_NO_DIE": 0.0001418067840859294
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/DIE_INK/images/train__R9C2X290Y163L26W49.jpg",
+    "true_class": "DIE_INK",
+    "pred_index": 0,
+    "pred_label": "DIE_BROKEN",
+    "confidence": 0.9977013468742371,
+    "prob_DIE_BROKEN": 0.9977013468742371,
+    "prob_NORMAL": 0.002042739652097225,
+    "prob_NO_DIE": 0.0002559130371082574
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/DIE_INK/images/val__R17C81X185Y306L143W22.jpg",
+    "true_class": "DIE_INK",
+    "pred_index": 0,
+    "pred_label": "DIE_BROKEN",
+    "confidence": 0.9999028444290161,
+    "prob_DIE_BROKEN": 0.9999028444290161,
+    "prob_NORMAL": 6.146525265648961e-05,
+    "prob_NO_DIE": 3.5651508369483054e-05
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/DIE_INK/images/val__R5C109X104Y-58L75W98.jpg",
+    "true_class": "DIE_INK",
+    "pred_index": 0,
+    "pred_label": "DIE_BROKEN",
+    "confidence": 0.9994537234306335,
+    "prob_DIE_BROKEN": 0.9994537234306335,
+    "prob_NORMAL": 0.0004529374127741903,
+    "prob_NO_DIE": 9.332863555755466e-05
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/DIE_INK/images/val__R5C79X0Y0L0W0GG.jpg",
+    "true_class": "DIE_INK",
+    "pred_index": 1,
+    "pred_label": "NORMAL",
+    "confidence": 0.9999840259552002,
+    "prob_DIE_BROKEN": 3.34422634296061e-06,
+    "prob_NORMAL": 0.9999840259552002,
+    "prob_NO_DIE": 1.2574435459100641e-05
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/NORMAL/images/test__R1C84X0Y0L0W0GG.jpg",
+    "true_class": "NORMAL",
+    "pred_index": 1,
+    "pred_label": "NORMAL",
+    "confidence": 0.9999947547912598,
+    "prob_DIE_BROKEN": 8.930244632665563e-08,
+    "prob_NORMAL": 0.9999947547912598,
+    "prob_NO_DIE": 5.165320089872694e-06
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/NORMAL/images/test__R2C107X0Y0L0W0.jpg",
+    "true_class": "NORMAL",
+    "pred_index": 1,
+    "pred_label": "NORMAL",
+    "confidence": 0.9999990463256836,
+    "prob_DIE_BROKEN": 2.322410708188727e-09,
+    "prob_NORMAL": 0.9999990463256836,
+    "prob_NO_DIE": 1.0044069540526834e-06
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/NORMAL/images/test__R4C65X0Y0L0W0.jpg",
+    "true_class": "NORMAL",
+    "pred_index": 1,
+    "pred_label": "NORMAL",
+    "confidence": 0.9999940395355225,
+    "prob_DIE_BROKEN": 2.02024040163451e-07,
+    "prob_NORMAL": 0.9999940395355225,
+    "prob_NO_DIE": 5.721673460357124e-06
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/NORMAL/images/train__R12C23X0Y0L0W0.jpg",
+    "true_class": "NORMAL",
+    "pred_index": 1,
+    "pred_label": "NORMAL",
+    "confidence": 0.9999967813491821,
+    "prob_DIE_BROKEN": 4.632650529856619e-08,
+    "prob_NORMAL": 0.9999967813491821,
+    "prob_NO_DIE": 3.1361751098302193e-06
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/NORMAL/images/train__R15C24X0Y0L0W0.jpg",
+    "true_class": "NORMAL",
+    "pred_index": 1,
+    "pred_label": "NORMAL",
+    "confidence": 0.9981269240379333,
+    "prob_DIE_BROKEN": 0.0013955781469121575,
+    "prob_NORMAL": 0.9981269240379333,
+    "prob_NO_DIE": 0.00047751254169270396
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/NORMAL/images/train__R17C18X0Y0L0W0.jpg",
+    "true_class": "NORMAL",
+    "pred_index": 1,
+    "pred_label": "NORMAL",
+    "confidence": 0.9991193413734436,
+    "prob_DIE_BROKEN": 0.0007449034019373357,
+    "prob_NORMAL": 0.9991193413734436,
+    "prob_NO_DIE": 0.00013570123701356351
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/NORMAL/images/train__R22C12X0Y0L0W0.jpg",
+    "true_class": "NORMAL",
+    "pred_index": 1,
+    "pred_label": "NORMAL",
+    "confidence": 0.9997318387031555,
+    "prob_DIE_BROKEN": 0.0001972441968973726,
+    "prob_NORMAL": 0.9997318387031555,
+    "prob_NO_DIE": 7.087814447004348e-05
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/NORMAL/images/train__R24C47X0Y0L0W0.jpg",
+    "true_class": "NORMAL",
+    "pred_index": 1,
+    "pred_label": "NORMAL",
+    "confidence": 0.9999890327453613,
+    "prob_DIE_BROKEN": 1.423169578629313e-06,
+    "prob_NORMAL": 0.9999890327453613,
+    "prob_NO_DIE": 9.552755727781914e-06
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/NORMAL/images/train__R26C10X0Y0L0W0.jpg",
+    "true_class": "NORMAL",
+    "pred_index": 1,
+    "pred_label": "NORMAL",
+    "confidence": 0.9999943971633911,
+    "prob_DIE_BROKEN": 3.0380082449710244e-08,
+    "prob_NORMAL": 0.9999943971633911,
+    "prob_NO_DIE": 5.5369819165207446e-06
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/NORMAL/images/train__R2C104X0Y0L0W0GG.jpg",
+    "true_class": "NORMAL",
+    "pred_index": 1,
+    "pred_label": "NORMAL",
+    "confidence": 0.9999861717224121,
+    "prob_DIE_BROKEN": 1.256211021427589e-06,
+    "prob_NORMAL": 0.9999861717224121,
+    "prob_NO_DIE": 1.2518930816440843e-05
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/NORMAL/images/train__R3C101X0Y0L0W0.jpg",
+    "true_class": "NORMAL",
+    "pred_index": 1,
+    "pred_label": "NORMAL",
+    "confidence": 0.999950647354126,
+    "prob_DIE_BROKEN": 1.5078778233146295e-05,
+    "prob_NORMAL": 0.999950647354126,
+    "prob_NO_DIE": 3.431732329772785e-05
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/NORMAL/images/train__R4C76X0Y0L0W0GG.jpg",
+    "true_class": "NORMAL",
+    "pred_index": 1,
+    "pred_label": "NORMAL",
+    "confidence": 0.9998008608818054,
+    "prob_DIE_BROKEN": 0.0001678104599704966,
+    "prob_NORMAL": 0.9998008608818054,
+    "prob_NO_DIE": 3.1344468879979104e-05
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/NORMAL/images/train__R5C72X0Y0L0W0.jpg",
+    "true_class": "NORMAL",
+    "pred_index": 1,
+    "pred_label": "NORMAL",
+    "confidence": 0.9961929321289062,
+    "prob_DIE_BROKEN": 0.003430483164265752,
+    "prob_NORMAL": 0.9961929321289062,
+    "prob_NO_DIE": 0.0003765893343370408
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/NORMAL/images/train__R6C103X0Y0L0W0GG.jpg",
+    "true_class": "NORMAL",
+    "pred_index": 1,
+    "pred_label": "NORMAL",
+    "confidence": 0.99944669008255,
+    "prob_DIE_BROKEN": 0.00043557785102166235,
+    "prob_NORMAL": 0.99944669008255,
+    "prob_NO_DIE": 0.00011772776633733884
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/NORMAL/images/train__R6C107X0Y0L0W0.jpg",
+    "true_class": "NORMAL",
+    "pred_index": 1,
+    "pred_label": "NORMAL",
+    "confidence": 0.9999744892120361,
+    "prob_DIE_BROKEN": 6.03447733737994e-06,
+    "prob_NORMAL": 0.9999744892120361,
+    "prob_NO_DIE": 1.9448198145255446e-05
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/NORMAL/images/train__R6C111X0Y0L0W0.jpg",
+    "true_class": "NORMAL",
+    "pred_index": 1,
+    "pred_label": "NORMAL",
+    "confidence": 0.999997615814209,
+    "prob_DIE_BROKEN": 5.7329071267986365e-08,
+    "prob_NORMAL": 0.999997615814209,
+    "prob_NO_DIE": 2.3124416657083202e-06
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/NORMAL/images/train__R6C68X0Y0L0W0.jpg",
+    "true_class": "NORMAL",
+    "pred_index": 1,
+    "pred_label": "NORMAL",
+    "confidence": 0.9999030828475952,
+    "prob_DIE_BROKEN": 6.785830191802233e-05,
+    "prob_NORMAL": 0.9999030828475952,
+    "prob_NO_DIE": 2.9089984309393913e-05
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/NORMAL/images/val__R14C58X0Y0L0W0.jpg",
+    "true_class": "NORMAL",
+    "pred_index": 1,
+    "pred_label": "NORMAL",
+    "confidence": 0.9999538660049438,
+    "prob_DIE_BROKEN": 7.727304364379961e-06,
+    "prob_NORMAL": 0.9999538660049438,
+    "prob_NO_DIE": 3.835527240880765e-05
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/NORMAL/images/val__R3C87X0Y0L0W0GG.jpg",
+    "true_class": "NORMAL",
+    "pred_index": 1,
+    "pred_label": "NORMAL",
+    "confidence": 0.9999330043792725,
+    "prob_DIE_BROKEN": 2.3414360839524306e-05,
+    "prob_NORMAL": 0.9999330043792725,
+    "prob_NO_DIE": 4.353477925178595e-05
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/NORMAL/images/val__R5C59X0Y0L0W0.jpg",
+    "true_class": "NORMAL",
+    "pred_index": 1,
+    "pred_label": "NORMAL",
+    "confidence": 0.9999343156814575,
+    "prob_DIE_BROKEN": 1.1621967132668942e-05,
+    "prob_NORMAL": 0.9999343156814575,
+    "prob_NO_DIE": 5.410237281466834e-05
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/NO_DIE/images/test__R14C106X202Y193L235W234.jpg",
+    "true_class": "NO_DIE",
+    "pred_index": 2,
+    "pred_label": "NO_DIE",
+    "confidence": 0.9998074173927307,
+    "prob_DIE_BROKEN": 9.871984366327524e-05,
+    "prob_NORMAL": 9.397749818162993e-05,
+    "prob_NO_DIE": 0.9998074173927307
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/NO_DIE/images/train__R15C31X244Y260L242W278.jpg",
+    "true_class": "NO_DIE",
+    "pred_index": 2,
+    "pred_label": "NO_DIE",
+    "confidence": 0.9998335838317871,
+    "prob_DIE_BROKEN": 5.1642346079461277e-05,
+    "prob_NORMAL": 0.00011480652028694749,
+    "prob_NO_DIE": 0.9998335838317871
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/NO_DIE/images/train__R18C8X189Y196L258W283.jpg",
+    "true_class": "NO_DIE",
+    "pred_index": 2,
+    "pred_label": "NO_DIE",
+    "confidence": 0.9998767375946045,
+    "prob_DIE_BROKEN": 1.9266022718511522e-05,
+    "prob_NORMAL": 0.00010399143502581865,
+    "prob_NO_DIE": 0.9998767375946045
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/NO_DIE/images/train__R1C112X185Y192L247W274.jpg",
+    "true_class": "NO_DIE",
+    "pred_index": 2,
+    "pred_label": "NO_DIE",
+    "confidence": 0.9997527003288269,
+    "prob_DIE_BROKEN": 0.00010331825615139678,
+    "prob_NORMAL": 0.00014395201287698,
+    "prob_NO_DIE": 0.9997527003288269
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/NO_DIE/images/train__R28C100X175Y200L254W283.jpg",
+    "true_class": "NO_DIE",
+    "pred_index": 2,
+    "pred_label": "NO_DIE",
+    "confidence": 0.9998868703842163,
+    "prob_DIE_BROKEN": 2.106545252900105e-05,
+    "prob_NORMAL": 9.205417154589668e-05,
+    "prob_NO_DIE": 0.9998868703842163
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/NO_DIE/images/val__R28C108X185Y192L252W277.jpg",
+    "true_class": "NO_DIE",
+    "pred_index": 2,
+    "pred_label": "NO_DIE",
+    "confidence": 0.9997974038124084,
+    "prob_DIE_BROKEN": 6.885320908622816e-05,
+    "prob_NORMAL": 0.0001337075518677011,
+    "prob_NO_DIE": 0.9997974038124084
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/NO_DIE/images/val__R9C93X179Y207L254W279.jpg",
+    "true_class": "NO_DIE",
+    "pred_index": 2,
+    "pred_label": "NO_DIE",
+    "confidence": 0.9997592568397522,
+    "prob_DIE_BROKEN": 0.0001068247584044002,
+    "prob_NORMAL": 0.00013396397116594017,
+    "prob_NO_DIE": 0.9997592568397522
+  }
+]

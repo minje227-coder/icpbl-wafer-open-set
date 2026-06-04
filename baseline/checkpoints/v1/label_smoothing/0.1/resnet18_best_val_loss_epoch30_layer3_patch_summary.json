@@ -1,0 +1,74 @@
+[
+  {
+    "feature_layer": "layer3",
+    "topk": 3,
+    "threshold": 0.176669642329216,
+    "val_metrics": {
+      "open_accuracy": 0.76,
+      "open_macro_f1": 0.7808712121212121,
+      "known_accuracy": 0.7428571428571429,
+      "unknown_accuracy": 0.775
+    },
+    "test_metrics": {
+      "open_accuracy": 0.68,
+      "open_macro_f1": 0.6675641025641026,
+      "known_accuracy": 0.7142857142857143,
+      "unknown_accuracy": 0.65
+    },
+    "output_path": "baseline/checkpoints/v1/label_smoothing/0.1/resnet18_best_val_loss_epoch30_layer3_patch_topk3_test_results.json"
+  },
+  {
+    "feature_layer": "layer3",
+    "topk": 5,
+    "threshold": 0.17269249260425568,
+    "val_metrics": {
+      "open_accuracy": 0.7466666666666667,
+      "open_macro_f1": 0.7732067510548523,
+      "known_accuracy": 0.7428571428571429,
+      "unknown_accuracy": 0.75
+    },
+    "test_metrics": {
+      "open_accuracy": 0.68,
+      "open_macro_f1": 0.6686687741482262,
+      "known_accuracy": 0.7428571428571429,
+      "unknown_accuracy": 0.625
+    },
+    "output_path": "baseline/checkpoints/v1/label_smoothing/0.1/resnet18_best_val_loss_epoch30_layer3_patch_topk5_test_results.json"
+  },
+  {
+    "feature_layer": "layer3",
+    "topk": 7,
+    "threshold": 0.17070834338665009,
+    "val_metrics": {
+      "open_accuracy": 0.7333333333333333,
+      "open_macro_f1": 0.7656075808249722,
+      "known_accuracy": 0.7428571428571429,
+      "unknown_accuracy": 0.725
+    },
+    "test_metrics": {
+      "open_accuracy": 0.68,
+      "open_macro_f1": 0.6686687741482262,
+      "known_accuracy": 0.7428571428571429,
+      "unknown_accuracy": 0.625
+    },
+    "output_path": "baseline/checkpoints/v1/label_smoothing/0.1/resnet18_best_val_loss_epoch30_layer3_patch_topk7_test_results.json"
+  },
+  {
+    "feature_layer": "layer3",
+    "topk": 12,
+    "threshold": 0.21239638328552246,
+    "val_metrics": {
+      "open_accuracy": 0.68,
+      "open_macro_f1": 0.7508771929824561,
+      "known_accuracy": 0.9428571428571428,
+      "unknown_accuracy": 0.45
+    },
+    "test_metrics": {
+      "open_accuracy": 0.6266666666666667,
+      "open_macro_f1": 0.6844022624868181,
+      "known_accuracy": 0.9142857142857143,
+      "unknown_accuracy": 0.375
+    },
+    "output_path": "baseline/checkpoints/v1/label_smoothing/0.1/resnet18_best_val_loss_epoch30_layer3_patch_topk12_test_results.json"
+  }
+]

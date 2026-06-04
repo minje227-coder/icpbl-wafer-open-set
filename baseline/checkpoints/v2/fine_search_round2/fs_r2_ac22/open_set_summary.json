@@ -1,0 +1,38 @@
+{
+  "selection_metric": "val_loss",
+  "selection_value": 0.2162146270275116,
+  "best_epoch": 30,
+  "selected_threshold": 0.6440580682973411,
+  "raw_known_acc": 0.9714285714285714,
+  "val_metrics": {
+    "open_accuracy": 0.88,
+    "open_macro_f1": 0.9086580086580086,
+    "known_accuracy": 0.9142857142857143,
+    "unknown_accuracy": 0.85
+  },
+  "test_metrics": {
+    "open_accuracy": 0.8,
+    "open_macro_f1": 0.7957459207459208,
+    "known_accuracy": 0.8,
+    "unknown_accuracy": 0.8
+  },
+  "normalization_stats": {
+    "0": {
+      "mean": 0.28151043447164387,
+      "std": 0.07658840709618747,
+      "n": 26
+    },
+    "1": {
+      "mean": 0.2212356646855672,
+      "std": 0.08014511922167683,
+      "n": 60
+    },
+    "2": {
+      "mean": 0.20182558796975925,
+      "std": 0.14901220481480934,
+      "n": 23
+    }
+  },
+  "result_rows_path": "/home/minje/icpbl-wafer-open-set/baseline/checkpoints/v2/fine_search_round2/fs_r2_ac22/resnet18_best_val_loss_epoch30_layer2_patch_topk12_global_norm_test_results.json",
+  "summary_path": "/home/minje/icpbl-wafer-open-set/baseline/checkpoints/v2/fine_search_round2/fs_r2_ac22/resnet18_best_val_loss_epoch30_layer2_patch_global_norm_train_known_summary.json"
+}

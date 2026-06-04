@@ -1,0 +1,42 @@
+{
+  "os": "Linux-6.17.0-22-generic-x86_64-with-glibc2.39",
+  "python": "CPython 3.13.11",
+  "startedAt": "2026-06-02T04:40:12.523686Z",
+  "args": [
+    "-f",
+    "/tmp/tmp63y4zu0n.json"
+  ],
+  "program": "<python with no main file>",
+  "git": {
+    "remote": "https://github.com/minje227-coder/icpbl-wafer-open-set.git",
+    "commit": "07da9e4ce1afe25f9c8985ae613d5d2d39d0af8f"
+  },
+  "email": "minje227@hanyang.ac.kr",
+  "root": "/home/minje/icpbl-wafer-open-set/baseline",
+  "host": "minje-24.04",
+  "executable": "/home/minje/miniconda3/envs/icpbl/bin/python",
+  "cpu_count": 12,
+  "cpu_count_logical": 20,
+  "gpu": "NVIDIA GeForce RTX 3070",
+  "gpu_count": 1,
+  "disk": {
+    "/": {
+      "total": "501809635328",
+      "used": "272681549824"
+    }
+  },
+  "memory": {
+    "total": "33379586048"
+  },
+  "gpu_nvidia": [
+    {
+      "name": "NVIDIA GeForce RTX 3070",
+      "memoryTotal": "8589934592",
+      "cudaCores": 5888,
+      "architecture": "Ampere",
+      "uuid": "GPU-1d04c897-f06f-0f59-aedb-d9a1172cbb90"
+    }
+  ],
+  "cudaVersion": "13.1",
+  "writerId": "f94cqeugmljn3k7jhq3a9sjc81czdmqy"
+}

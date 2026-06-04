@@ -1,0 +1,50 @@
+[
+  {
+    "name": "fs_r4_ac168_sharp110_p20",
+    "rotation_degrees": 5,
+    "contrast_strength": 0.08,
+    "sharpness_factor": 1.10,
+    "sharpness_p": 0.20,
+    "autocontrast_p": 0.168
+  },
+  {
+    "name": "fs_r4_ac172_sharp110_p20",
+    "rotation_degrees": 5,
+    "contrast_strength": 0.08,
+    "sharpness_factor": 1.10,
+    "sharpness_p": 0.20,
+    "autocontrast_p": 0.172
+  },
+  {
+    "name": "fs_r4_ac175_sharp110_p20",
+    "rotation_degrees": 5,
+    "contrast_strength": 0.08,
+    "sharpness_factor": 1.10,
+    "sharpness_p": 0.20,
+    "autocontrast_p": 0.175
+  },
+  {
+    "name": "fs_r4_ac17_sharp110_p18",
+    "rotation_degrees": 5,
+    "contrast_strength": 0.08,
+    "sharpness_factor": 1.10,
+    "sharpness_p": 0.18,
+    "autocontrast_p": 0.17
+  },
+  {
+    "name": "fs_r4_ac17_sharp110_p22",
+    "rotation_degrees": 5,
+    "contrast_strength": 0.08,
+    "sharpness_factor": 1.10,
+    "sharpness_p": 0.22,
+    "autocontrast_p": 0.17
+  },
+  {
+    "name": "fs_r4_ac17_sharp112_p20",
+    "rotation_degrees": 5,
+    "contrast_strength": 0.08,
+    "sharpness_factor": 1.12,
+    "sharpness_p": 0.20,
+    "autocontrast_p": 0.17
+  }
+]

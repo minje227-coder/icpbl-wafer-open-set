@@ -1,0 +1,74 @@
+[
+  {
+    "name": "fs_r1_ac10",
+    "rotation_degrees": 5,
+    "contrast_strength": 0.08,
+    "sharpness_factor": 1.15,
+    "sharpness_p": 0.30,
+    "autocontrast_p": 0.10
+  },
+  {
+    "name": "fs_r1_ac20",
+    "rotation_degrees": 5,
+    "contrast_strength": 0.08,
+    "sharpness_factor": 1.15,
+    "sharpness_p": 0.30,
+    "autocontrast_p": 0.20
+  },
+  {
+    "name": "fs_r1_ac30",
+    "rotation_degrees": 5,
+    "contrast_strength": 0.08,
+    "sharpness_factor": 1.15,
+    "sharpness_p": 0.30,
+    "autocontrast_p": 0.30
+  },
+  {
+    "name": "fs_r1_rot4_ac20",
+    "rotation_degrees": 4,
+    "contrast_strength": 0.08,
+    "sharpness_factor": 1.15,
+    "sharpness_p": 0.30,
+    "autocontrast_p": 0.20
+  },
+  {
+    "name": "fs_r1_rot6_ac20",
+    "rotation_degrees": 6,
+    "contrast_strength": 0.08,
+    "sharpness_factor": 1.15,
+    "sharpness_p": 0.30,
+    "autocontrast_p": 0.20
+  },
+  {
+    "name": "fs_r1_con06_ac20",
+    "rotation_degrees": 5,
+    "contrast_strength": 0.06,
+    "sharpness_factor": 1.15,
+    "sharpness_p": 0.30,
+    "autocontrast_p": 0.20
+  },
+  {
+    "name": "fs_r1_con10_ac20",
+    "rotation_degrees": 5,
+    "contrast_strength": 0.10,
+    "sharpness_factor": 1.15,
+    "sharpness_p": 0.30,
+    "autocontrast_p": 0.20
+  },
+  {
+    "name": "fs_r1_sharp_low",
+    "rotation_degrees": 5,
+    "contrast_strength": 0.08,
+    "sharpness_factor": 1.10,
+    "sharpness_p": 0.20,
+    "autocontrast_p": 0.20
+  },
+  {
+    "name": "fs_r1_sharp_high",
+    "rotation_degrees": 5,
+    "contrast_strength": 0.08,
+    "sharpness_factor": 1.20,
+    "sharpness_p": 0.40,
+    "autocontrast_p": 0.20
+  }
+]

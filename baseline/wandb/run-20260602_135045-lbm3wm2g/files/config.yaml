@@ -1,0 +1,89 @@
+_wandb:
+    value:
+        cli_version: 0.24.2
+        e:
+            i7d55t5dc5cm3kr5fbnywj4f9o5eflaj:
+                args:
+                    - -f
+                    - /tmp/tmpquc71d9j.json
+                cpu_count: 12
+                cpu_count_logical: 20
+                cudaVersion: "13.1"
+                disk:
+                    /:
+                        total: "501809635328"
+                        used: "272771678208"
+                email: minje227@hanyang.ac.kr
+                executable: /home/minje/miniconda3/envs/icpbl/bin/python
+                git:
+                    commit: 07da9e4ce1afe25f9c8985ae613d5d2d39d0af8f
+                    remote: https://github.com/minje227-coder/icpbl-wafer-open-set.git
+                gpu: NVIDIA GeForce RTX 3070
+                gpu_count: 1
+                gpu_nvidia:
+                    - architecture: Ampere
+                      cudaCores: 5888
+                      memoryTotal: "8589934592"
+                      name: NVIDIA GeForce RTX 3070
+                      uuid: GPU-1d04c897-f06f-0f59-aedb-d9a1172cbb90
+                host: minje-24.04
+                memory:
+                    total: "33379586048"
+                os: Linux-6.17.0-22-generic-x86_64-with-glibc2.39
+                program: <python with no main file>
+                python: CPython 3.13.11
+                root: /home/minje/icpbl-wafer-open-set/baseline
+                startedAt: "2026-06-02T04:50:45.136849Z"
+                writerId: i7d55t5dc5cm3kr5fbnywj4f9o5eflaj
+        m: []
+        python_version: 3.13.11
+        t:
+            "1":
+                - 1
+                - 5
+                - 41
+                - 53
+            "2":
+                - 1
+                - 5
+                - 41
+                - 53
+            "3":
+                - 2
+                - 13
+                - 16
+                - 62
+            "4": 3.13.11
+            "5": 0.24.2
+            "8":
+                - 13
+            "12": 0.24.2
+            "13": linux-x86_64
+batch_size:
+    value: 8
+class_weights:
+    value:
+        - 1.3974359035491943
+        - 0.605555534362793
+        - 1.5797101259231567
+epochs:
+    value: 30
+image_size:
+    value: 224
+known_labels:
+    value:
+        DIE_BROKEN: 0
+        NO_DIE: 2
+        NORMAL: 1
+label_smoothing:
+    value: 0.2
+learning_rate:
+    value: 0.0001
+model:
+    value: resnet18
+num_workers:
+    value: 2
+pretrained_weights:
+    value: ResNet18_Weights.DEFAULT
+weight_decay:
+    value: 0.0001

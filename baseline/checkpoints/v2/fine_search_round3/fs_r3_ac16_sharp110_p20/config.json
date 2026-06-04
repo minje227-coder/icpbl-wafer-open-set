@@ -1,0 +1,41 @@
+{
+  "experiment": "fs_r3_ac16_sharp110_p20",
+  "model": "resnet18",
+  "pretrained_weights": "ResNet18_Weights.DEFAULT",
+  "batch_size": 8,
+  "epochs": 30,
+  "learning_rate": 0.0001,
+  "weight_decay": 0.0001,
+  "label_smoothing": 0.05,
+  "num_workers": 2,
+  "image_size": 224,
+  "known_labels": {
+    "DIE_BROKEN": 0,
+    "NORMAL": 1,
+    "NO_DIE": 2
+  },
+  "class_weights": [
+    1.3974359035491943,
+    0.605555534362793,
+    1.5797101259231567
+  ],
+  "train_counts": {
+    "DIE_BROKEN": 26,
+    "NORMAL": 60,
+    "NO_DIE": 23
+  },
+  "val_counts": {
+    "DIE_BROKEN": 8,
+    "NORMAL": 20,
+    "NO_DIE": 7
+  },
+  "augmentation": {
+    "name": "fs_r3_ac16_sharp110_p20",
+    "rotation_degrees": 5,
+    "contrast_strength": 0.08,
+    "sharpness_factor": 1.1,
+    "sharpness_p": 0.2,
+    "autocontrast_p": 0.16
+  },
+  "checkpoint_dir": "/home/minje/icpbl-wafer-open-set/baseline/checkpoints/v2/fine_search_round3/fs_r3_ac16_sharp110_p20"
+}

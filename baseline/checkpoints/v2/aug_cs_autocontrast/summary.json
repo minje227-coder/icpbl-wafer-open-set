@@ -1,0 +1,9 @@
+{
+  "experiment": "aug_cs_autocontrast",
+  "checkpoint_path": "/home/minje/icpbl-wafer-open-set/baseline/checkpoints/v2/aug_cs_autocontrast/resnet18_best_val_loss_epoch18.pth",
+  "best_epoch": 18,
+  "best_val_loss": 0.21849773824214935,
+  "best_val_f1": 1.0,
+  "history_path": "/home/minje/icpbl-wafer-open-set/baseline/checkpoints/v2/aug_cs_autocontrast/train_log.json",
+  "config_path": "/home/minje/icpbl-wafer-open-set/baseline/checkpoints/v2/aug_cs_autocontrast/config.json"
+}

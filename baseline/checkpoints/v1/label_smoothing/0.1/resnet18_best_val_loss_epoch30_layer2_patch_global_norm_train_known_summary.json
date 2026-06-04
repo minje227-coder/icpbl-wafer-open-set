@@ -1,0 +1,362 @@
+[
+  {
+    "feature_layer": "layer2",
+    "threshold_mode": "global",
+    "score_mode": "topk8",
+    "topk": 8,
+    "top_percent": null,
+    "normalization": "pred-class-zscore",
+    "normalization_source": "train_known",
+    "normalization_stats": {
+      "0": {
+        "mean": 0.29140852907529247,
+        "std": 0.08641327889315958,
+        "n": 26
+      },
+      "1": {
+        "mean": 0.2315487004816532,
+        "std": 0.08568907123156248,
+        "n": 60
+      },
+      "2": {
+        "mean": 0.20626717838256256,
+        "std": 0.15110356454085958,
+        "n": 23
+      }
+    },
+    "threshold": 0.39279437148498314,
+    "val_metrics": {
+      "open_accuracy": 0.88,
+      "open_macro_f1": 0.8776992585727525,
+      "known_accuracy": 0.8285714285714286,
+      "unknown_accuracy": 0.925
+    },
+    "test_metrics": {
+      "open_accuracy": 0.8266666666666667,
+      "open_macro_f1": 0.8195150779453105,
+      "known_accuracy": 0.8,
+      "unknown_accuracy": 0.85
+    },
+    "output_path": "baseline/checkpoints/v1/label_smoothing/0.1/resnet18_best_val_loss_epoch30_layer2_patch_topk8_global_norm_test_results.json"
+  },
+  {
+    "feature_layer": "layer2",
+    "threshold_mode": "global",
+    "score_mode": "topk9",
+    "topk": 9,
+    "top_percent": null,
+    "normalization": "pred-class-zscore",
+    "normalization_source": "train_known",
+    "normalization_stats": {
+      "0": {
+        "mean": 0.285810628762612,
+        "std": 0.0859246608895907,
+        "n": 26
+      },
+      "1": {
+        "mean": 0.22841506997744243,
+        "std": 0.08492573836229188,
+        "n": 60
+      },
+      "2": {
+        "mean": 0.20409161273552023,
+        "std": 0.1507765547090709,
+        "n": 23
+      }
+    },
+    "threshold": 0.32623125793746366,
+    "val_metrics": {
+      "open_accuracy": 0.88,
+      "open_macro_f1": 0.8776992585727525,
+      "known_accuracy": 0.8285714285714286,
+      "unknown_accuracy": 0.925
+    },
+    "test_metrics": {
+      "open_accuracy": 0.8266666666666667,
+      "open_macro_f1": 0.8195150779453105,
+      "known_accuracy": 0.8,
+      "unknown_accuracy": 0.85
+    },
+    "output_path": "baseline/checkpoints/v1/label_smoothing/0.1/resnet18_best_val_loss_epoch30_layer2_patch_topk9_global_norm_test_results.json"
+  },
+  {
+    "feature_layer": "layer2",
+    "threshold_mode": "global",
+    "score_mode": "topk10",
+    "topk": 10,
+    "top_percent": null,
+    "normalization": "pred-class-zscore",
+    "normalization_source": "train_known",
+    "normalization_stats": {
+      "0": {
+        "mean": 0.2808821207055679,
+        "std": 0.08562609977069276,
+        "n": 26
+      },
+      "1": {
+        "mean": 0.22559899141391118,
+        "std": 0.08427145666939419,
+        "n": 60
+      },
+      "2": {
+        "mean": 0.20206220609986264,
+        "std": 0.15042169172533937,
+        "n": 23
+      }
+    },
+    "threshold": 0.27727410697587856,
+    "val_metrics": {
+      "open_accuracy": 0.88,
+      "open_macro_f1": 0.8776992585727525,
+      "known_accuracy": 0.8285714285714286,
+      "unknown_accuracy": 0.925
+    },
+    "test_metrics": {
+      "open_accuracy": 0.84,
+      "open_macro_f1": 0.8277709944376611,
+      "known_accuracy": 0.8,
+      "unknown_accuracy": 0.875
+    },
+    "output_path": "baseline/checkpoints/v1/label_smoothing/0.1/resnet18_best_val_loss_epoch30_layer2_patch_topk10_global_norm_test_results.json"
+  },
+  {
+    "feature_layer": "layer2",
+    "threshold_mode": "global",
+    "score_mode": "topk11",
+    "topk": 11,
+    "top_percent": null,
+    "normalization": "pred-class-zscore",
+    "normalization_source": "train_known",
+    "normalization_stats": {
+      "0": {
+        "mean": 0.2766021662033521,
+        "std": 0.08538977841612912,
+        "n": 26
+      },
+      "1": {
+        "mean": 0.22298319886128107,
+        "std": 0.08365397642910057,
+        "n": 60
+      },
+      "2": {
+        "mean": 0.20025583194649738,
+        "std": 0.1500921290663842,
+        "n": 23
+      }
+    },
+    "threshold": 0.2625475531847066,
+    "val_metrics": {
+      "open_accuracy": 0.88,
+      "open_macro_f1": 0.8776992585727525,
+      "known_accuracy": 0.8285714285714286,
+      "unknown_accuracy": 0.925
+    },
+    "test_metrics": {
+      "open_accuracy": 0.84,
+      "open_macro_f1": 0.8300723666577325,
+      "known_accuracy": 0.8,
+      "unknown_accuracy": 0.875
+    },
+    "output_path": "baseline/checkpoints/v1/label_smoothing/0.1/resnet18_best_val_loss_epoch30_layer2_patch_topk11_global_norm_test_results.json"
+  },
+  {
+    "feature_layer": "layer2",
+    "threshold_mode": "global",
+    "score_mode": "topk12",
+    "topk": 12,
+    "top_percent": null,
+    "normalization": "pred-class-zscore",
+    "normalization_source": "train_known",
+    "normalization_stats": {
+      "0": {
+        "mean": 0.27275417343928265,
+        "std": 0.08520722052758611,
+        "n": 26
+      },
+      "1": {
+        "mean": 0.22060789316892623,
+        "std": 0.08306466721438827,
+        "n": 60
+      },
+      "2": {
+        "mean": 0.19858413772738498,
+        "std": 0.1498114647490644,
+        "n": 23
+      }
+    },
+    "threshold": 0.2505733442610246,
+    "val_metrics": {
+      "open_accuracy": 0.8666666666666667,
+      "open_macro_f1": 0.8676739926739927,
+      "known_accuracy": 0.8,
+      "unknown_accuracy": 0.925
+    },
+    "test_metrics": {
+      "open_accuracy": 0.84,
+      "open_macro_f1": 0.8300723666577325,
+      "known_accuracy": 0.8,
+      "unknown_accuracy": 0.875
+    },
+    "output_path": "baseline/checkpoints/v1/label_smoothing/0.1/resnet18_best_val_loss_epoch30_layer2_patch_topk12_global_norm_test_results.json"
+  },
+  {
+    "feature_layer": "layer2",
+    "threshold_mode": "global",
+    "score_mode": "topk13",
+    "topk": 13,
+    "top_percent": null,
+    "normalization": "pred-class-zscore",
+    "normalization_source": "train_known",
+    "normalization_stats": {
+      "0": {
+        "mean": 0.2692074351585828,
+        "std": 0.0850738531868839,
+        "n": 26
+      },
+      "1": {
+        "mean": 0.21842531537016233,
+        "std": 0.08254763002960436,
+        "n": 60
+      },
+      "2": {
+        "mean": 0.19708276118921197,
+        "std": 0.14957457635984125,
+        "n": 23
+      }
+    },
+    "threshold": 0.1748113851966479,
+    "val_metrics": {
+      "open_accuracy": 0.8666666666666667,
+      "open_macro_f1": 0.8659406275685346,
+      "known_accuracy": 0.7714285714285715,
+      "unknown_accuracy": 0.95
+    },
+    "test_metrics": {
+      "open_accuracy": 0.84,
+      "open_macro_f1": 0.8300723666577325,
+      "known_accuracy": 0.8,
+      "unknown_accuracy": 0.875
+    },
+    "output_path": "baseline/checkpoints/v1/label_smoothing/0.1/resnet18_best_val_loss_epoch30_layer2_patch_topk13_global_norm_test_results.json"
+  },
+  {
+    "feature_layer": "layer2",
+    "threshold_mode": "global",
+    "score_mode": "topk14",
+    "topk": 14,
+    "top_percent": null,
+    "normalization": "pred-class-zscore",
+    "normalization_source": "train_known",
+    "normalization_stats": {
+      "0": {
+        "mean": 0.2659725770354271,
+        "std": 0.08498084228310959,
+        "n": 26
+      },
+      "1": {
+        "mean": 0.2163828750451406,
+        "std": 0.08208256190095438,
+        "n": 60
+      },
+      "2": {
+        "mean": 0.19565933035767596,
+        "std": 0.14935463196879709,
+        "n": 23
+      }
+    },
+    "threshold": 0.16493596581082828,
+    "val_metrics": {
+      "open_accuracy": 0.8666666666666667,
+      "open_macro_f1": 0.8659406275685346,
+      "known_accuracy": 0.7714285714285715,
+      "unknown_accuracy": 0.95
+    },
+    "test_metrics": {
+      "open_accuracy": 0.84,
+      "open_macro_f1": 0.8300723666577325,
+      "known_accuracy": 0.8,
+      "unknown_accuracy": 0.875
+    },
+    "output_path": "baseline/checkpoints/v1/label_smoothing/0.1/resnet18_best_val_loss_epoch30_layer2_patch_topk14_global_norm_test_results.json"
+  },
+  {
+    "feature_layer": "layer2",
+    "threshold_mode": "global",
+    "score_mode": "topk15",
+    "topk": 15,
+    "top_percent": null,
+    "normalization": "pred-class-zscore",
+    "normalization_source": "train_known",
+    "normalization_stats": {
+      "0": {
+        "mean": 0.26301079472670186,
+        "std": 0.08483406822533798,
+        "n": 26
+      },
+      "1": {
+        "mean": 0.21448055853446324,
+        "std": 0.08163057221468686,
+        "n": 60
+      },
+      "2": {
+        "mean": 0.1943357777984246,
+        "std": 0.14917743632405187,
+        "n": 23
+      }
+    },
+    "threshold": 0.22074690994478072,
+    "val_metrics": {
+      "open_accuracy": 0.8533333333333334,
+      "open_macro_f1": 0.8505671035791518,
+      "known_accuracy": 0.8,
+      "unknown_accuracy": 0.9
+    },
+    "test_metrics": {
+      "open_accuracy": 0.8266666666666667,
+      "open_macro_f1": 0.8146295138165056,
+      "known_accuracy": 0.8,
+      "unknown_accuracy": 0.85
+    },
+    "output_path": "baseline/checkpoints/v1/label_smoothing/0.1/resnet18_best_val_loss_epoch30_layer2_patch_topk15_global_norm_test_results.json"
+  },
+  {
+    "feature_layer": "layer2",
+    "threshold_mode": "global",
+    "score_mode": "topk16",
+    "topk": 16,
+    "top_percent": null,
+    "normalization": "pred-class-zscore",
+    "normalization_source": "train_known",
+    "normalization_stats": {
+      "0": {
+        "mean": 0.2602330515017876,
+        "std": 0.08449116139091198,
+        "n": 26
+      },
+      "1": {
+        "mean": 0.21269410947958628,
+        "std": 0.08120578037262738,
+        "n": 60
+      },
+      "2": {
+        "mean": 0.19307587846465732,
+        "std": 0.14901337479546442,
+        "n": 23
+      }
+    },
+    "threshold": 0.310463258048719,
+    "val_metrics": {
+      "open_accuracy": 0.84,
+      "open_macro_f1": 0.8514194139194139,
+      "known_accuracy": 0.8571428571428571,
+      "unknown_accuracy": 0.825
+    },
+    "test_metrics": {
+      "open_accuracy": 0.8133333333333334,
+      "open_macro_f1": 0.8039710755342195,
+      "known_accuracy": 0.8,
+      "unknown_accuracy": 0.825
+    },
+    "output_path": "baseline/checkpoints/v1/label_smoothing/0.1/resnet18_best_val_loss_epoch30_layer2_patch_topk16_global_norm_test_results.json"
+  }
+]

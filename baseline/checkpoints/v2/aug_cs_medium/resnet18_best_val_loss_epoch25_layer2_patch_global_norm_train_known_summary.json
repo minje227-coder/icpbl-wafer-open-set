@@ -1,0 +1,42 @@
+[
+  {
+    "feature_layer": "layer2",
+    "threshold_mode": "global",
+    "score_mode": "topk12",
+    "topk": 12,
+    "top_percent": null,
+    "normalization": "pred-class-zscore",
+    "normalization_source": "train_known",
+    "normalization_stats": {
+      "0": {
+        "mean": 0.27318859788087696,
+        "std": 0.08609879627312089,
+        "n": 26
+      },
+      "1": {
+        "mean": 0.20127562259634335,
+        "std": 0.09106881485125386,
+        "n": 60
+      },
+      "2": {
+        "mean": 0.19301632435425467,
+        "std": 0.15353015373070913,
+        "n": 23
+      }
+    },
+    "threshold": 0.1441089839912438,
+    "val_metrics": {
+      "open_accuracy": 0.88,
+      "open_macro_f1": 0.8776992585727525,
+      "known_accuracy": 0.8285714285714286,
+      "unknown_accuracy": 0.925
+    },
+    "test_metrics": {
+      "open_accuracy": 0.8133333333333334,
+      "open_macro_f1": 0.8132650779453106,
+      "known_accuracy": 0.8,
+      "unknown_accuracy": 0.825
+    },
+    "output_path": "/home/minje/icpbl-wafer-open-set/baseline/checkpoints/v2/aug_cs_medium/resnet18_best_val_loss_epoch25_layer2_patch_topk12_global_norm_test_results.json"
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "feature_layer": "layer2",
+    "threshold_mode": "class-wise",
+    "score_mode": "topk12",
+    "topk": 12,
+    "top_percent": null,
+    "normalization": "pred-class-zscore",
+    "normalization_source": "train_known",
+    "normalization_stats": {
+      "0": {
+        "mean": 0.27275417343928265,
+        "std": 0.08520722052758611,
+        "n": 26
+      },
+      "1": {
+        "mean": 0.22060789316892623,
+        "std": 0.08306466721438827,
+        "n": 60
+      },
+      "2": {
+        "mean": 0.19858413772738498,
+        "std": 0.1498114647490644,
+        "n": 23
+      }
+    },
+    "threshold": {
+      "0": 1.1466642290777473,
+      "1": 0.26358538490695793,
+      "2": -0.16637841615410218
+    },
+    "val_metrics": {
+      "open_accuracy": 0.88,
+      "open_macro_f1": 0.8938055365686944,
+      "known_accuracy": 0.9142857142857143,
+      "unknown_accuracy": 0.85
+    },
+    "test_metrics": {
+      "open_accuracy": 0.7733333333333333,
+      "open_macro_f1": 0.7604556013092598,
+      "known_accuracy": 0.8,
+      "unknown_accuracy": 0.75
+    },
+    "output_path": "baseline/checkpoints/v1/label_smoothing/0.1/resnet18_best_val_loss_epoch30_layer2_patch_topk12_classwise_norm_test_results.json"
+  }
+]

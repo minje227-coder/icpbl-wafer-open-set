@@ -1,0 +1,153 @@
+{
+  "repo_root": "/home/minje/icpbl-wafer-open-set",
+  "model_path": "baseline/checkpoints/v1/label_smoothing/0.1/resnet18_best_val_loss_epoch30.pth",
+  "image_path": "prepared_dataset_G5_622/test/G5/DIE_BROKEN/images/test__R6C13X294Y86L30W19.jpg",
+  "device": "cuda",
+  "predicted_class": "DIE_BROKEN",
+  "predicted_confidence": 0.9598466753959656,
+  "channel": "mean_channels",
+  "image_size": 224,
+  "layers": [
+    {
+      "layer": "layer2",
+      "feature_shape": [
+        1,
+        128,
+        28,
+        28
+      ],
+      "positions": [
+        {
+          "name": "top_left",
+          "feature_row": 0,
+          "feature_col": 0,
+          "score": 0.5123904943466187,
+          "channels": 128
+        },
+        {
+          "name": "top_right",
+          "feature_row": 0,
+          "feature_col": 27,
+          "score": 0.5536525845527649,
+          "channels": 128
+        },
+        {
+          "name": "bottom_left",
+          "feature_row": 27,
+          "feature_col": 0,
+          "score": 0.36093783378601074,
+          "channels": 128
+        },
+        {
+          "name": "bottom_right",
+          "feature_row": 27,
+          "feature_col": 27,
+          "score": 0.42878976464271545,
+          "channels": 128
+        },
+        {
+          "name": "center",
+          "feature_row": 14,
+          "feature_col": 14,
+          "score": 0.1450657695531845,
+          "channels": 128
+        }
+      ],
+      "output_path": "/home/minje/icpbl-wafer-open-set/openset/visualize/resnet18_best_val_loss_epoch30_test__R6C13X294Y86L30W19_layer2_mean_channels_overlay.png"
+    },
+    {
+      "layer": "layer3",
+      "feature_shape": [
+        1,
+        256,
+        14,
+        14
+      ],
+      "positions": [
+        {
+          "name": "top_left",
+          "feature_row": 0,
+          "feature_col": 0,
+          "score": 0.2350575029850006,
+          "channels": 256
+        },
+        {
+          "name": "top_right",
+          "feature_row": 0,
+          "feature_col": 13,
+          "score": 0.20197750627994537,
+          "channels": 256
+        },
+        {
+          "name": "bottom_left",
+          "feature_row": 13,
+          "feature_col": 0,
+          "score": 0.17470364272594452,
+          "channels": 256
+        },
+        {
+          "name": "bottom_right",
+          "feature_row": 13,
+          "feature_col": 13,
+          "score": 0.19068101048469543,
+          "channels": 256
+        },
+        {
+          "name": "center",
+          "feature_row": 7,
+          "feature_col": 7,
+          "score": 0.15061376988887787,
+          "channels": 256
+        }
+      ],
+      "output_path": "/home/minje/icpbl-wafer-open-set/openset/visualize/resnet18_best_val_loss_epoch30_test__R6C13X294Y86L30W19_layer3_mean_channels_overlay.png"
+    },
+    {
+      "layer": "layer4",
+      "feature_shape": [
+        1,
+        512,
+        7,
+        7
+      ],
+      "positions": [
+        {
+          "name": "top_left",
+          "feature_row": 0,
+          "feature_col": 0,
+          "score": 0.5461639165878296,
+          "channels": 512
+        },
+        {
+          "name": "top_right",
+          "feature_row": 0,
+          "feature_col": 6,
+          "score": 0.5995120406150818,
+          "channels": 512
+        },
+        {
+          "name": "bottom_left",
+          "feature_row": 6,
+          "feature_col": 0,
+          "score": 0.5921978950500488,
+          "channels": 512
+        },
+        {
+          "name": "bottom_right",
+          "feature_row": 6,
+          "feature_col": 6,
+          "score": 0.5847060680389404,
+          "channels": 512
+        },
+        {
+          "name": "center",
+          "feature_row": 3,
+          "feature_col": 3,
+          "score": 1.6365140676498413,
+          "channels": 512
+        }
+      ],
+      "output_path": "/home/minje/icpbl-wafer-open-set/openset/visualize/resnet18_best_val_loss_epoch30_test__R6C13X294Y86L30W19_layer4_mean_channels_overlay.png"
+    }
+  ]
+}

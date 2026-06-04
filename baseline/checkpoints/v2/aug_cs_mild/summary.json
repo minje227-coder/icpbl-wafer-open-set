@@ -1,0 +1,9 @@
+{
+  "experiment": "aug_cs_mild",
+  "checkpoint_path": "/home/minje/icpbl-wafer-open-set/baseline/checkpoints/v2/aug_cs_mild/resnet18_best_val_loss_epoch29.pth",
+  "best_epoch": 29,
+  "best_val_loss": 0.2173476219177246,
+  "best_val_f1": 1.0,
+  "history_path": "/home/minje/icpbl-wafer-open-set/baseline/checkpoints/v2/aug_cs_mild/train_log.json",
+  "config_path": "/home/minje/icpbl-wafer-open-set/baseline/checkpoints/v2/aug_cs_mild/config.json"
+}

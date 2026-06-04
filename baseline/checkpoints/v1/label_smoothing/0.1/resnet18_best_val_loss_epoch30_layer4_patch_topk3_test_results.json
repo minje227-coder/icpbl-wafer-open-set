@@ -1,0 +1,2102 @@
+[
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/DIE_BROKEN/images/test__R6C13X294Y86L30W19.jpg",
+    "true_class": "DIE_BROKEN",
+    "true_index": 0,
+    "argmax_index": 0,
+    "argmax_label": "DIE_BROKEN",
+    "confidence": 0.9598461389541626,
+    "prob_DIE_BROKEN": 0.9598461389541626,
+    "prob_NORMAL": 0.011056077666580677,
+    "prob_NO_DIE": 0.02909776009619236,
+    "feature_layer": "layer4",
+    "distance_map_shape": [
+      7,
+      7
+    ],
+    "distance_map_mean": 0.10922782123088837,
+    "distance_map_max": 0.21595168113708496,
+    "topk": 3,
+    "anomaly_score": 0.20923973619937897,
+    "topk_patch_distances": [
+      0.21595168113708496,
+      0.20617544651031494,
+      0.2055920958518982
+    ],
+    "pred_index": 3,
+    "pred_label": "UNKNOWN",
+    "applied_threshold": 0.15940327942371368
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/DIE_BROKEN/images/train__R10C12X192Y85L243W14.jpg",
+    "true_class": "DIE_BROKEN",
+    "true_index": 0,
+    "argmax_index": 0,
+    "argmax_label": "DIE_BROKEN",
+    "confidence": 0.9515683650970459,
+    "prob_DIE_BROKEN": 0.9515683650970459,
+    "prob_NORMAL": 0.01567460596561432,
+    "prob_NO_DIE": 0.03275713697075844,
+    "feature_layer": "layer4",
+    "distance_map_shape": [
+      7,
+      7
+    ],
+    "distance_map_mean": 0.07137981057167053,
+    "distance_map_max": 0.09575527906417847,
+    "topk": 3,
+    "anomaly_score": 0.09262752532958984,
+    "topk_patch_distances": [
+      0.09575527906417847,
+      0.09255748987197876,
+      0.0895698070526123
+    ],
+    "pred_index": 0,
+    "pred_label": "DIE_BROKEN",
+    "applied_threshold": 0.15940327942371368
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/DIE_BROKEN/images/train__R13C86X94Y309L43W11.jpg",
+    "true_class": "DIE_BROKEN",
+    "true_index": 0,
+    "argmax_index": 0,
+    "argmax_label": "DIE_BROKEN",
+    "confidence": 0.9321416020393372,
+    "prob_DIE_BROKEN": 0.9321416020393372,
+    "prob_NORMAL": 0.017795082181692123,
+    "prob_NO_DIE": 0.05006325617432594,
+    "feature_layer": "layer4",
+    "distance_map_shape": [
+      7,
+      7
+    ],
+    "distance_map_mean": 0.14353840053081512,
+    "distance_map_max": 0.17674124240875244,
+    "topk": 3,
+    "anomaly_score": 0.17566345632076263,
+    "topk_patch_distances": [
+      0.17674124240875244,
+      0.17564153671264648,
+      0.17460757493972778
+    ],
+    "pred_index": 3,
+    "pred_label": "UNKNOWN",
+    "applied_threshold": 0.15940327942371368
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/DIE_BROKEN/images/train__R15C19X240Y309L124W27.jpg",
+    "true_class": "DIE_BROKEN",
+    "true_index": 0,
+    "argmax_index": 0,
+    "argmax_label": "DIE_BROKEN",
+    "confidence": 0.9421881437301636,
+    "prob_DIE_BROKEN": 0.9421881437301636,
+    "prob_NORMAL": 0.011865353211760521,
+    "prob_NO_DIE": 0.045946527272462845,
+    "feature_layer": "layer4",
+    "distance_map_shape": [
+      7,
+      7
+    ],
+    "distance_map_mean": 0.09130173921585083,
+    "distance_map_max": 0.1321433186531067,
+    "topk": 3,
+    "anomaly_score": 0.12768681347370148,
+    "topk_patch_distances": [
+      0.1321433186531067,
+      0.12651962041854858,
+      0.12439751625061035
+    ],
+    "pred_index": 0,
+    "pred_label": "DIE_BROKEN",
+    "applied_threshold": 0.15940327942371368
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/DIE_BROKEN/images/train__R15C20X282Y309L48W16.jpg",
+    "true_class": "DIE_BROKEN",
+    "true_index": 0,
+    "argmax_index": 0,
+    "argmax_label": "DIE_BROKEN",
+    "confidence": 0.9423861503601074,
+    "prob_DIE_BROKEN": 0.9423861503601074,
+    "prob_NORMAL": 0.016534099355340004,
+    "prob_NO_DIE": 0.04107965528964996,
+    "feature_layer": "layer4",
+    "distance_map_shape": [
+      7,
+      7
+    ],
+    "distance_map_mean": 0.07413187623023987,
+    "distance_map_max": 0.1259741187095642,
+    "topk": 3,
+    "anomaly_score": 0.12225023657083511,
+    "topk_patch_distances": [
+      0.1259741187095642,
+      0.12359869480133057,
+      0.11717790365219116
+    ],
+    "pred_index": 0,
+    "pred_label": "DIE_BROKEN",
+    "applied_threshold": 0.15940327942371368
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/DIE_BROKEN/images/train__R1C39X0Y0L0W0.jpg",
+    "true_class": "DIE_BROKEN",
+    "true_index": 0,
+    "argmax_index": 1,
+    "argmax_label": "NORMAL",
+    "confidence": 0.8778844475746155,
+    "prob_DIE_BROKEN": 0.04083973914384842,
+    "prob_NORMAL": 0.8778844475746155,
+    "prob_NO_DIE": 0.08127579838037491,
+    "feature_layer": "layer4",
+    "distance_map_shape": [
+      7,
+      7
+    ],
+    "distance_map_mean": 0.08167905360460281,
+    "distance_map_max": 0.20074909925460815,
+    "topk": 3,
+    "anomaly_score": 0.17212386429309845,
+    "topk_patch_distances": [
+      0.20074909925460815,
+      0.16013634204864502,
+      0.15548616647720337
+    ],
+    "pred_index": 3,
+    "pred_label": "UNKNOWN",
+    "applied_threshold": 0.15940327942371368
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/DIE_BROKEN/images/train__R20C26X272Y82L78W15.jpg",
+    "true_class": "DIE_BROKEN",
+    "true_index": 0,
+    "argmax_index": 0,
+    "argmax_label": "DIE_BROKEN",
+    "confidence": 0.9409341812133789,
+    "prob_DIE_BROKEN": 0.9409341812133789,
+    "prob_NORMAL": 0.017759151756763458,
+    "prob_NO_DIE": 0.041306719183921814,
+    "feature_layer": "layer4",
+    "distance_map_shape": [
+      7,
+      7
+    ],
+    "distance_map_mean": 0.08234460651874542,
+    "distance_map_max": 0.12344372272491455,
+    "topk": 3,
+    "anomaly_score": 0.11881279945373535,
+    "topk_patch_distances": [
+      0.12344372272491455,
+      0.11681872606277466,
+      0.11617594957351685
+    ],
+    "pred_index": 0,
+    "pred_label": "DIE_BROKEN",
+    "applied_threshold": 0.15940327942371368
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/DIE_BROKEN/images/train__R23C15X116Y82L90W11.jpg",
+    "true_class": "DIE_BROKEN",
+    "true_index": 0,
+    "argmax_index": 0,
+    "argmax_label": "DIE_BROKEN",
+    "confidence": 0.9404969215393066,
+    "prob_DIE_BROKEN": 0.9404969215393066,
+    "prob_NORMAL": 0.019685953855514526,
+    "prob_NO_DIE": 0.03981708735227585,
+    "feature_layer": "layer4",
+    "distance_map_shape": [
+      7,
+      7
+    ],
+    "distance_map_mean": 0.11318276822566986,
+    "distance_map_max": 0.2506796717643738,
+    "topk": 3,
+    "anomaly_score": 0.22874809801578522,
+    "topk_patch_distances": [
+      0.2506796717643738,
+      0.23266565799713135,
+      0.20289897918701172
+    ],
+    "pred_index": 3,
+    "pred_label": "UNKNOWN",
+    "applied_threshold": 0.15940327942371368
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/DIE_CRACK/images/test__R1C84X0Y0L0W0.jpg",
+    "true_class": "DIE_CRACK",
+    "true_index": 3,
+    "argmax_index": 1,
+    "argmax_label": "NORMAL",
+    "confidence": 0.8498325347900391,
+    "prob_DIE_BROKEN": 0.0073885018937289715,
+    "prob_NORMAL": 0.8498325347900391,
+    "prob_NO_DIE": 0.14277894794940948,
+    "feature_layer": "layer4",
+    "distance_map_shape": [
+      7,
+      7
+    ],
+    "distance_map_mean": 0.13094380497932434,
+    "distance_map_max": 0.2039475440979004,
+    "topk": 3,
+    "anomaly_score": 0.1974409818649292,
+    "topk_patch_distances": [
+      0.2039475440979004,
+      0.1978311538696289,
+      0.1905442476272583
+    ],
+    "pred_index": 3,
+    "pred_label": "UNKNOWN",
+    "applied_threshold": 0.15940327942371368
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/DIE_CRACK/images/test__R2C104X150Y214L116W196.jpg",
+    "true_class": "DIE_CRACK",
+    "true_index": 3,
+    "argmax_index": 1,
+    "argmax_label": "NORMAL",
+    "confidence": 0.8579393029212952,
+    "prob_DIE_BROKEN": 0.043037135154008865,
+    "prob_NORMAL": 0.8579393029212952,
+    "prob_NO_DIE": 0.09902350604534149,
+    "feature_layer": "layer4",
+    "distance_map_shape": [
+      7,
+      7
+    ],
+    "distance_map_mean": 0.09621939063072205,
+    "distance_map_max": 0.1313166618347168,
+    "topk": 3,
+    "anomaly_score": 0.12801672518253326,
+    "topk_patch_distances": [
+      0.1313166618347168,
+      0.1276092529296875,
+      0.1251242756843567
+    ],
+    "pred_index": 1,
+    "pred_label": "NORMAL",
+    "applied_threshold": 0.15940327942371368
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/DIE_CRACK/images/test__R4C101X0Y0L0W0.jpg",
+    "true_class": "DIE_CRACK",
+    "true_index": 3,
+    "argmax_index": 1,
+    "argmax_label": "NORMAL",
+    "confidence": 0.8932701349258423,
+    "prob_DIE_BROKEN": 0.0068148961290717125,
+    "prob_NORMAL": 0.8932701349258423,
+    "prob_NO_DIE": 0.09991490840911865,
+    "feature_layer": "layer4",
+    "distance_map_shape": [
+      7,
+      7
+    ],
+    "distance_map_mean": 0.0938417837023735,
+    "distance_map_max": 0.13764697313308716,
+    "topk": 3,
+    "anomaly_score": 0.13710086047649384,
+    "topk_patch_distances": [
+      0.13764697313308716,
+      0.13700491189956665,
+      0.1366506814956665
+    ],
+    "pred_index": 1,
+    "pred_label": "NORMAL",
+    "applied_threshold": 0.15940327942371368
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/DIE_CRACK/images/test__R6C103X0Y0L0W0.jpg",
+    "true_class": "DIE_CRACK",
+    "true_index": 3,
+    "argmax_index": 1,
+    "argmax_label": "NORMAL",
+    "confidence": 0.862102210521698,
+    "prob_DIE_BROKEN": 0.015841443091630936,
+    "prob_NORMAL": 0.862102210521698,
+    "prob_NO_DIE": 0.12205631285905838,
+    "feature_layer": "layer4",
+    "distance_map_shape": [
+      7,
+      7
+    ],
+    "distance_map_mean": 0.12096555531024933,
+    "distance_map_max": 0.24409985542297363,
+    "topk": 3,
+    "anomaly_score": 0.23235441744327545,
+    "topk_patch_distances": [
+      0.24409985542297363,
+      0.23251265287399292,
+      0.220450758934021
+    ],
+    "pred_index": 3,
+    "pred_label": "UNKNOWN",
+    "applied_threshold": 0.15940327942371368
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/DIE_CRACK/images/train__R1C104X188Y191L150W148.jpg",
+    "true_class": "DIE_CRACK",
+    "true_index": 3,
+    "argmax_index": 1,
+    "argmax_label": "NORMAL",
+    "confidence": 0.873691201210022,
+    "prob_DIE_BROKEN": 0.026297323405742645,
+    "prob_NORMAL": 0.873691201210022,
+    "prob_NO_DIE": 0.10001152008771896,
+    "feature_layer": "layer4",
+    "distance_map_shape": [
+      7,
+      7
+    ],
+    "distance_map_mean": 0.09219011664390564,
+    "distance_map_max": 0.1580965518951416,
+    "topk": 3,
+    "anomaly_score": 0.15174619853496552,
+    "topk_patch_distances": [
+      0.1580965518951416,
+      0.1530853509902954,
+      0.14405667781829834
+    ],
+    "pred_index": 1,
+    "pred_label": "NORMAL",
+    "applied_threshold": 0.15940327942371368
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/DIE_CRACK/images/train__R1C109X182Y225L101W152.jpg",
+    "true_class": "DIE_CRACK",
+    "true_index": 3,
+    "argmax_index": 1,
+    "argmax_label": "NORMAL",
+    "confidence": 0.8900570869445801,
+    "prob_DIE_BROKEN": 0.022018831223249435,
+    "prob_NORMAL": 0.8900570869445801,
+    "prob_NO_DIE": 0.08792416006326675,
+    "feature_layer": "layer4",
+    "distance_map_shape": [
+      7,
+      7
+    ],
+    "distance_map_mean": 0.08441415429115295,
+    "distance_map_max": 0.13618510961532593,
+    "topk": 3,
+    "anomaly_score": 0.12945020198822021,
+    "topk_patch_distances": [
+      0.13618510961532593,
+      0.13353663682937622,
+      0.1186288595199585
+    ],
+    "pred_index": 1,
+    "pred_label": "NORMAL",
+    "applied_threshold": 0.15940327942371368
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/DIE_CRACK/images/train__R1C112X230Y227L137W137.jpg",
+    "true_class": "DIE_CRACK",
+    "true_index": 3,
+    "argmax_index": 1,
+    "argmax_label": "NORMAL",
+    "confidence": 0.8982775211334229,
+    "prob_DIE_BROKEN": 0.012614193372428417,
+    "prob_NORMAL": 0.8982775211334229,
+    "prob_NO_DIE": 0.08910828828811646,
+    "feature_layer": "layer4",
+    "distance_map_shape": [
+      7,
+      7
+    ],
+    "distance_map_mean": 0.09555625170469284,
+    "distance_map_max": 0.15137648582458496,
+    "topk": 3,
+    "anomaly_score": 0.14525888860225677,
+    "topk_patch_distances": [
+      0.15137648582458496,
+      0.14231210947036743,
+      0.14208805561065674
+    ],
+    "pred_index": 1,
+    "pred_label": "NORMAL",
+    "applied_threshold": 0.15940327942371368
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/DIE_CRACK/images/train__R2C108X140Y227L90W191.jpg",
+    "true_class": "DIE_CRACK",
+    "true_index": 3,
+    "argmax_index": 1,
+    "argmax_label": "NORMAL",
+    "confidence": 0.9013811349868774,
+    "prob_DIE_BROKEN": 0.02356945350766182,
+    "prob_NORMAL": 0.9013811349868774,
+    "prob_NO_DIE": 0.07504945993423462,
+    "feature_layer": "layer4",
+    "distance_map_shape": [
+      7,
+      7
+    ],
+    "distance_map_mean": 0.06076235696673393,
+    "distance_map_max": 0.11081421375274658,
+    "topk": 3,
+    "anomaly_score": 0.10260304063558578,
+    "topk_patch_distances": [
+      0.11081421375274658,
+      0.10020852088928223,
+      0.09678637981414795
+    ],
+    "pred_index": 1,
+    "pred_label": "NORMAL",
+    "applied_threshold": 0.15940327942371368
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/DIE_CRACK/images/train__R3C80X0Y0L0W0.jpg",
+    "true_class": "DIE_CRACK",
+    "true_index": 3,
+    "argmax_index": 1,
+    "argmax_label": "NORMAL",
+    "confidence": 0.8714778423309326,
+    "prob_DIE_BROKEN": 0.011551715433597565,
+    "prob_NORMAL": 0.8714778423309326,
+    "prob_NO_DIE": 0.11697039753198624,
+    "feature_layer": "layer4",
+    "distance_map_shape": [
+      7,
+      7
+    ],
+    "distance_map_mean": 0.09596942365169525,
+    "distance_map_max": 0.15909385681152344,
+    "topk": 3,
+    "anomaly_score": 0.14470790326595306,
+    "topk_patch_distances": [
+      0.15909385681152344,
+      0.13835567235946655,
+      0.136674165725708
+    ],
+    "pred_index": 1,
+    "pred_label": "NORMAL",
+    "applied_threshold": 0.15940327942371368
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/DIE_CRACK/images/train__R3C93X0Y0L0W0.jpg",
+    "true_class": "DIE_CRACK",
+    "true_index": 3,
+    "argmax_index": 1,
+    "argmax_label": "NORMAL",
+    "confidence": 0.8847182393074036,
+    "prob_DIE_BROKEN": 0.030077362433075905,
+    "prob_NORMAL": 0.8847182393074036,
+    "prob_NO_DIE": 0.08520439267158508,
+    "feature_layer": "layer4",
+    "distance_map_shape": [
+      7,
+      7
+    ],
+    "distance_map_mean": 0.06304995715618134,
+    "distance_map_max": 0.12347412109375,
+    "topk": 3,
+    "anomaly_score": 0.1193680539727211,
+    "topk_patch_distances": [
+      0.12347412109375,
+      0.1181376576423645,
+      0.1164923906326294
+    ],
+    "pred_index": 1,
+    "pred_label": "NORMAL",
+    "applied_threshold": 0.15940327942371368
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/DIE_CRACK/images/train__R3C94X0Y0L0W0.jpg",
+    "true_class": "DIE_CRACK",
+    "true_index": 3,
+    "argmax_index": 1,
+    "argmax_label": "NORMAL",
+    "confidence": 0.8971055746078491,
+    "prob_DIE_BROKEN": 0.017405545338988304,
+    "prob_NORMAL": 0.8971055746078491,
+    "prob_NO_DIE": 0.08548889309167862,
+    "feature_layer": "layer4",
+    "distance_map_shape": [
+      7,
+      7
+    ],
+    "distance_map_mean": 0.05897222086787224,
+    "distance_map_max": 0.1143423318862915,
+    "topk": 3,
+    "anomaly_score": 0.11288255453109741,
+    "topk_patch_distances": [
+      0.1143423318862915,
+      0.11304205656051636,
+      0.11126327514648438
+    ],
+    "pred_index": 1,
+    "pred_label": "NORMAL",
+    "applied_threshold": 0.15940327942371368
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/DIE_CRACK/images/train__R3C97X0Y0L0W0.jpg",
+    "true_class": "DIE_CRACK",
+    "true_index": 3,
+    "argmax_index": 1,
+    "argmax_label": "NORMAL",
+    "confidence": 0.8887175917625427,
+    "prob_DIE_BROKEN": 0.010472766123712063,
+    "prob_NORMAL": 0.8887175917625427,
+    "prob_NO_DIE": 0.10080967843532562,
+    "feature_layer": "layer4",
+    "distance_map_shape": [
+      7,
+      7
+    ],
+    "distance_map_mean": 0.07269806414842606,
+    "distance_map_max": 0.1462356448173523,
+    "topk": 3,
+    "anomaly_score": 0.14416493475437164,
+    "topk_patch_distances": [
+      0.1462356448173523,
+      0.1460118293762207,
+      0.14024734497070312
+    ],
+    "pred_index": 1,
+    "pred_label": "NORMAL",
+    "applied_threshold": 0.15940327942371368
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/DIE_CRACK/images/train__R4C102X0Y0L0W0.jpg",
+    "true_class": "DIE_CRACK",
+    "true_index": 3,
+    "argmax_index": 1,
+    "argmax_label": "NORMAL",
+    "confidence": 0.8944332003593445,
+    "prob_DIE_BROKEN": 0.007995427586138248,
+    "prob_NORMAL": 0.8944332003593445,
+    "prob_NO_DIE": 0.09757133573293686,
+    "feature_layer": "layer4",
+    "distance_map_shape": [
+      7,
+      7
+    ],
+    "distance_map_mean": 0.10153652727603912,
+    "distance_map_max": 0.19072622060775757,
+    "topk": 3,
+    "anomaly_score": 0.1835196167230606,
+    "topk_patch_distances": [
+      0.19072622060775757,
+      0.1876063346862793,
+      0.17222630977630615
+    ],
+    "pred_index": 3,
+    "pred_label": "UNKNOWN",
+    "applied_threshold": 0.15940327942371368
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/DIE_CRACK/images/train__R4C111X205Y189L157W109.jpg",
+    "true_class": "DIE_CRACK",
+    "true_index": 3,
+    "argmax_index": 1,
+    "argmax_label": "NORMAL",
+    "confidence": 0.8924633860588074,
+    "prob_DIE_BROKEN": 0.016077451407909393,
+    "prob_NORMAL": 0.8924633860588074,
+    "prob_NO_DIE": 0.09145912528038025,
+    "feature_layer": "layer4",
+    "distance_map_shape": [
+      7,
+      7
+    ],
+    "distance_map_mean": 0.08714289218187332,
+    "distance_map_max": 0.17176973819732666,
+    "topk": 3,
+    "anomaly_score": 0.16093873977661133,
+    "topk_patch_distances": [
+      0.17176973819732666,
+      0.16923761367797852,
+      0.1418088674545288
+    ],
+    "pred_index": 3,
+    "pred_label": "UNKNOWN",
+    "applied_threshold": 0.15940327942371368
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/DIE_CRACK/images/train__R4C87X0Y0L0W0.jpg",
+    "true_class": "DIE_CRACK",
+    "true_index": 3,
+    "argmax_index": 1,
+    "argmax_label": "NORMAL",
+    "confidence": 0.8785071969032288,
+    "prob_DIE_BROKEN": 0.009982645511627197,
+    "prob_NORMAL": 0.8785071969032288,
+    "prob_NO_DIE": 0.11151016503572464,
+    "feature_layer": "layer4",
+    "distance_map_shape": [
+      7,
+      7
+    ],
+    "distance_map_mean": 0.11500460654497147,
+    "distance_map_max": 0.16861200332641602,
+    "topk": 3,
+    "anomaly_score": 0.1637168973684311,
+    "topk_patch_distances": [
+      0.16861200332641602,
+      0.16512775421142578,
+      0.15741091966629028
+    ],
+    "pred_index": 3,
+    "pred_label": "UNKNOWN",
+    "applied_threshold": 0.15940327942371368
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/DIE_CRACK/images/train__R5C98X0Y0L0W0.jpg",
+    "true_class": "DIE_CRACK",
+    "true_index": 3,
+    "argmax_index": 1,
+    "argmax_label": "NORMAL",
+    "confidence": 0.913667619228363,
+    "prob_DIE_BROKEN": 0.00584459537640214,
+    "prob_NORMAL": 0.913667619228363,
+    "prob_NO_DIE": 0.08048775047063828,
+    "feature_layer": "layer4",
+    "distance_map_shape": [
+      7,
+      7
+    ],
+    "distance_map_mean": 0.10840095579624176,
+    "distance_map_max": 0.16226768493652344,
+    "topk": 3,
+    "anomaly_score": 0.1587807983160019,
+    "topk_patch_distances": [
+      0.16226768493652344,
+      0.15875989198684692,
+      0.15531480312347412
+    ],
+    "pred_index": 1,
+    "pred_label": "NORMAL",
+    "applied_threshold": 0.15940327942371368
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/DIE_CRACK/images/train__R5C98X209Y194L169W240.jpg",
+    "true_class": "DIE_CRACK",
+    "true_index": 3,
+    "argmax_index": 1,
+    "argmax_label": "NORMAL",
+    "confidence": 0.8680633306503296,
+    "prob_DIE_BROKEN": 0.013139704242348671,
+    "prob_NORMAL": 0.8680633306503296,
+    "prob_NO_DIE": 0.1187969222664833,
+    "feature_layer": "layer4",
+    "distance_map_shape": [
+      7,
+      7
+    ],
+    "distance_map_mean": 0.10139084607362747,
+    "distance_map_max": 0.18218255043029785,
+    "topk": 3,
+    "anomaly_score": 0.1686846762895584,
+    "topk_patch_distances": [
+      0.18218255043029785,
+      0.16204547882080078,
+      0.1618260145187378
+    ],
+    "pred_index": 3,
+    "pred_label": "UNKNOWN",
+    "applied_threshold": 0.15940327942371368
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/DIE_CRACK/images/train__R6C96X0Y0L0W0.jpg",
+    "true_class": "DIE_CRACK",
+    "true_index": 3,
+    "argmax_index": 1,
+    "argmax_label": "NORMAL",
+    "confidence": 0.8907408714294434,
+    "prob_DIE_BROKEN": 0.004172276705503464,
+    "prob_NORMAL": 0.8907408714294434,
+    "prob_NO_DIE": 0.10508687049150467,
+    "feature_layer": "layer4",
+    "distance_map_shape": [
+      7,
+      7
+    ],
+    "distance_map_mean": 0.11529102921485901,
+    "distance_map_max": 0.22031426429748535,
+    "topk": 3,
+    "anomaly_score": 0.196674644947052,
+    "topk_patch_distances": [
+      0.22031426429748535,
+      0.18737643957138062,
+      0.18233323097229004
+    ],
+    "pred_index": 3,
+    "pred_label": "UNKNOWN",
+    "applied_threshold": 0.15940327942371368
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/DIE_CRACK/images/val__R4C100X176Y193L172W234.jpg",
+    "true_class": "DIE_CRACK",
+    "true_index": 3,
+    "argmax_index": 1,
+    "argmax_label": "NORMAL",
+    "confidence": 0.8835508823394775,
+    "prob_DIE_BROKEN": 0.011854960583150387,
+    "prob_NORMAL": 0.8835508823394775,
+    "prob_NO_DIE": 0.10459411889314651,
+    "feature_layer": "layer4",
+    "distance_map_shape": [
+      7,
+      7
+    ],
+    "distance_map_mean": 0.09038050472736359,
+    "distance_map_max": 0.17322397232055664,
+    "topk": 3,
+    "anomaly_score": 0.16292612254619598,
+    "topk_patch_distances": [
+      0.17322397232055664,
+      0.1633039116859436,
+      0.1522504687309265
+    ],
+    "pred_index": 3,
+    "pred_label": "UNKNOWN",
+    "applied_threshold": 0.15940327942371368
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/DIE_CRACK/images/val__R6C100X0Y0L0W0.jpg",
+    "true_class": "DIE_CRACK",
+    "true_index": 3,
+    "argmax_index": 1,
+    "argmax_label": "NORMAL",
+    "confidence": 0.9096825122833252,
+    "prob_DIE_BROKEN": 0.00630230363458395,
+    "prob_NORMAL": 0.9096825122833252,
+    "prob_NO_DIE": 0.08401523530483246,
+    "feature_layer": "layer4",
+    "distance_map_shape": [
+      7,
+      7
+    ],
+    "distance_map_mean": 0.12279845029115677,
+    "distance_map_max": 0.20779728889465332,
+    "topk": 3,
+    "anomaly_score": 0.2022542506456375,
+    "topk_patch_distances": [
+      0.20779728889465332,
+      0.20437192916870117,
+      0.19459354877471924
+    ],
+    "pred_index": 3,
+    "pred_label": "UNKNOWN",
+    "applied_threshold": 0.15940327942371368
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/DIE_INK/images/test__R10C7X288Y247L15W49.jpg",
+    "true_class": "DIE_INK",
+    "true_index": 3,
+    "argmax_index": 0,
+    "argmax_label": "DIE_BROKEN",
+    "confidence": 0.9129310250282288,
+    "prob_DIE_BROKEN": 0.9129310250282288,
+    "prob_NORMAL": 0.050467535853385925,
+    "prob_NO_DIE": 0.03660145401954651,
+    "feature_layer": "layer4",
+    "distance_map_shape": [
+      7,
+      7
+    ],
+    "distance_map_mean": 0.17617560923099518,
+    "distance_map_max": 0.27078741788864136,
+    "topk": 3,
+    "anomaly_score": 0.2598370611667633,
+    "topk_patch_distances": [
+      0.27078741788864136,
+      0.2548261284828186,
+      0.25389766693115234
+    ],
+    "pred_index": 3,
+    "pred_label": "UNKNOWN",
+    "applied_threshold": 0.15940327942371368
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/DIE_INK/images/test__R3C102X151Y146L30W60.jpg",
+    "true_class": "DIE_INK",
+    "true_index": 3,
+    "argmax_index": 0,
+    "argmax_label": "DIE_BROKEN",
+    "confidence": 0.9236190915107727,
+    "prob_DIE_BROKEN": 0.9236190915107727,
+    "prob_NORMAL": 0.012915314175188541,
+    "prob_NO_DIE": 0.06346555054187775,
+    "feature_layer": "layer4",
+    "distance_map_shape": [
+      7,
+      7
+    ],
+    "distance_map_mean": 0.10426587611436844,
+    "distance_map_max": 0.16301226615905762,
+    "topk": 3,
+    "anomaly_score": 0.15484635531902313,
+    "topk_patch_distances": [
+      0.16301226615905762,
+      0.15131992101669312,
+      0.15020686388015747
+    ],
+    "pred_index": 0,
+    "pred_label": "DIE_BROKEN",
+    "applied_threshold": 0.15940327942371368
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/DIE_INK/images/test__R5C17X137Y94L30W20.jpg",
+    "true_class": "DIE_INK",
+    "true_index": 3,
+    "argmax_index": 0,
+    "argmax_label": "DIE_BROKEN",
+    "confidence": 0.9504693746566772,
+    "prob_DIE_BROKEN": 0.9504693746566772,
+    "prob_NORMAL": 0.012143420055508614,
+    "prob_NO_DIE": 0.03738722950220108,
+    "feature_layer": "layer4",
+    "distance_map_shape": [
+      7,
+      7
+    ],
+    "distance_map_mean": 0.10470447689294815,
+    "distance_map_max": 0.14584136009216309,
+    "topk": 3,
+    "anomaly_score": 0.13690030574798584,
+    "topk_patch_distances": [
+      0.14584136009216309,
+      0.13528084754943848,
+      0.12957870960235596
+    ],
+    "pred_index": 0,
+    "pred_label": "DIE_BROKEN",
+    "applied_threshold": 0.15940327942371368
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/DIE_INK/images/train__R13C13X149Y98L33W42.jpg",
+    "true_class": "DIE_INK",
+    "true_index": 3,
+    "argmax_index": 1,
+    "argmax_label": "NORMAL",
+    "confidence": 0.789290189743042,
+    "prob_DIE_BROKEN": 0.07138276100158691,
+    "prob_NORMAL": 0.789290189743042,
+    "prob_NO_DIE": 0.1393270045518875,
+    "feature_layer": "layer4",
+    "distance_map_shape": [
+      7,
+      7
+    ],
+    "distance_map_mean": 0.12166789919137955,
+    "distance_map_max": 0.2347087264060974,
+    "topk": 3,
+    "anomaly_score": 0.21390366554260254,
+    "topk_patch_distances": [
+      0.2347087264060974,
+      0.20424479246139526,
+      0.20275747776031494
+    ],
+    "pred_index": 3,
+    "pred_label": "UNKNOWN",
+    "applied_threshold": 0.15940327942371368
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/DIE_INK/images/train__R14C25X179Y155L157W158.jpg",
+    "true_class": "DIE_INK",
+    "true_index": 3,
+    "argmax_index": 0,
+    "argmax_label": "DIE_BROKEN",
+    "confidence": 0.7544906139373779,
+    "prob_DIE_BROKEN": 0.7544906139373779,
+    "prob_NORMAL": 0.03737673535943031,
+    "prob_NO_DIE": 0.20813260972499847,
+    "feature_layer": "layer4",
+    "distance_map_shape": [
+      7,
+      7
+    ],
+    "distance_map_mean": 0.18261641263961792,
+    "distance_map_max": 0.35875946283340454,
+    "topk": 3,
+    "anomaly_score": 0.3534129559993744,
+    "topk_patch_distances": [
+      0.35875946283340454,
+      0.35380440950393677,
+      0.3476749062538147
+    ],
+    "pred_index": 3,
+    "pred_label": "UNKNOWN",
+    "applied_threshold": 0.15940327942371368
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/DIE_INK/images/train__R16C90X295Y158L41W65.jpg",
+    "true_class": "DIE_INK",
+    "true_index": 3,
+    "argmax_index": 0,
+    "argmax_label": "DIE_BROKEN",
+    "confidence": 0.9112585783004761,
+    "prob_DIE_BROKEN": 0.9112585783004761,
+    "prob_NORMAL": 0.03764514625072479,
+    "prob_NO_DIE": 0.05109625309705734,
+    "feature_layer": "layer4",
+    "distance_map_shape": [
+      7,
+      7
+    ],
+    "distance_map_mean": 0.08379774540662766,
+    "distance_map_max": 0.1410759687423706,
+    "topk": 3,
+    "anomaly_score": 0.13287293910980225,
+    "topk_patch_distances": [
+      0.1410759687423706,
+      0.13381165266036987,
+      0.12373119592666626
+    ],
+    "pred_index": 0,
+    "pred_label": "DIE_BROKEN",
+    "applied_threshold": 0.15940327942371368
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/DIE_INK/images/train__R16C9X0Y0L0W0.jpg",
+    "true_class": "DIE_INK",
+    "true_index": 3,
+    "argmax_index": 1,
+    "argmax_label": "NORMAL",
+    "confidence": 0.8267280459403992,
+    "prob_DIE_BROKEN": 0.10464438050985336,
+    "prob_NORMAL": 0.8267280459403992,
+    "prob_NO_DIE": 0.06862752139568329,
+    "feature_layer": "layer4",
+    "distance_map_shape": [
+      7,
+      7
+    ],
+    "distance_map_mean": 0.08145320415496826,
+    "distance_map_max": 0.1465909481048584,
+    "topk": 3,
+    "anomaly_score": 0.13331812620162964,
+    "topk_patch_distances": [
+      0.1465909481048584,
+      0.12669342756271362,
+      0.1266700029373169
+    ],
+    "pred_index": 1,
+    "pred_label": "NORMAL",
+    "applied_threshold": 0.15940327942371368
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/DIE_INK/images/train__R1C109X0Y0L0W0.jpg",
+    "true_class": "DIE_INK",
+    "true_index": 3,
+    "argmax_index": 1,
+    "argmax_label": "NORMAL",
+    "confidence": 0.8833875060081482,
+    "prob_DIE_BROKEN": 0.02235295996069908,
+    "prob_NORMAL": 0.8833875060081482,
+    "prob_NO_DIE": 0.09425949305295944,
+    "feature_layer": "layer4",
+    "distance_map_shape": [
+      7,
+      7
+    ],
+    "distance_map_mean": 0.0944695994257927,
+    "distance_map_max": 0.18265807628631592,
+    "topk": 3,
+    "anomaly_score": 0.17244432866573334,
+    "topk_patch_distances": [
+      0.18265807628631592,
+      0.17937976121902466,
+      0.15529513359069824
+    ],
+    "pred_index": 3,
+    "pred_label": "UNKNOWN",
+    "applied_threshold": 0.15940327942371368
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/DIE_INK/images/train__R21C29X110Y297L15W21.jpg",
+    "true_class": "DIE_INK",
+    "true_index": 3,
+    "argmax_index": 0,
+    "argmax_label": "DIE_BROKEN",
+    "confidence": 0.9262426495552063,
+    "prob_DIE_BROKEN": 0.9262426495552063,
+    "prob_NORMAL": 0.013384413905441761,
+    "prob_NO_DIE": 0.06037294492125511,
+    "feature_layer": "layer4",
+    "distance_map_shape": [
+      7,
+      7
+    ],
+    "distance_map_mean": 0.09026747196912766,
+    "distance_map_max": 0.136238694190979,
+    "topk": 3,
+    "anomaly_score": 0.12713117897510529,
+    "topk_patch_distances": [
+      0.136238694190979,
+      0.12447106838226318,
+      0.12068378925323486
+    ],
+    "pred_index": 0,
+    "pred_label": "DIE_BROKEN",
+    "applied_threshold": 0.15940327942371368
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/DIE_INK/images/train__R26C8X239Y192L11W21.jpg",
+    "true_class": "DIE_INK",
+    "true_index": 3,
+    "argmax_index": 0,
+    "argmax_label": "DIE_BROKEN",
+    "confidence": 0.9394586086273193,
+    "prob_DIE_BROKEN": 0.9394586086273193,
+    "prob_NORMAL": 0.010754553601145744,
+    "prob_NO_DIE": 0.04978694021701813,
+    "feature_layer": "layer4",
+    "distance_map_shape": [
+      7,
+      7
+    ],
+    "distance_map_mean": 0.13935500383377075,
+    "distance_map_max": 0.19858872890472412,
+    "topk": 3,
+    "anomaly_score": 0.19557125866413116,
+    "topk_patch_distances": [
+      0.19858872890472412,
+      0.1955505609512329,
+      0.19257450103759766
+    ],
+    "pred_index": 3,
+    "pred_label": "UNKNOWN",
+    "applied_threshold": 0.15940327942371368
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/DIE_INK/images/train__R27C15X134Y265L37W32.jpg",
+    "true_class": "DIE_INK",
+    "true_index": 3,
+    "argmax_index": 0,
+    "argmax_label": "DIE_BROKEN",
+    "confidence": 0.9189677834510803,
+    "prob_DIE_BROKEN": 0.9189677834510803,
+    "prob_NORMAL": 0.032855890691280365,
+    "prob_NO_DIE": 0.04817633703351021,
+    "feature_layer": "layer4",
+    "distance_map_shape": [
+      7,
+      7
+    ],
+    "distance_map_mean": 0.08703533560037613,
+    "distance_map_max": 0.161512553691864,
+    "topk": 3,
+    "anomaly_score": 0.14845682680606842,
+    "topk_patch_distances": [
+      0.161512553691864,
+      0.1485428810119629,
+      0.13531506061553955
+    ],
+    "pred_index": 0,
+    "pred_label": "DIE_BROKEN",
+    "applied_threshold": 0.15940327942371368
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/DIE_INK/images/train__R27C4X261Y213L33W43.jpg",
+    "true_class": "DIE_INK",
+    "true_index": 3,
+    "argmax_index": 0,
+    "argmax_label": "DIE_BROKEN",
+    "confidence": 0.9242162108421326,
+    "prob_DIE_BROKEN": 0.9242162108421326,
+    "prob_NORMAL": 0.022981839254498482,
+    "prob_NO_DIE": 0.052801914513111115,
+    "feature_layer": "layer4",
+    "distance_map_shape": [
+      7,
+      7
+    ],
+    "distance_map_mean": 0.11692047864198685,
+    "distance_map_max": 0.23370856046676636,
+    "topk": 3,
+    "anomaly_score": 0.22053515911102295,
+    "topk_patch_distances": [
+      0.23370856046676636,
+      0.21530652046203613,
+      0.21259039640426636
+    ],
+    "pred_index": 3,
+    "pred_label": "UNKNOWN",
+    "applied_threshold": 0.15940327942371368
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/DIE_INK/images/train__R2C99X80Y213L22W49.jpg",
+    "true_class": "DIE_INK",
+    "true_index": 3,
+    "argmax_index": 0,
+    "argmax_label": "DIE_BROKEN",
+    "confidence": 0.9531189799308777,
+    "prob_DIE_BROKEN": 0.9531189799308777,
+    "prob_NORMAL": 0.014073589816689491,
+    "prob_NO_DIE": 0.03280739486217499,
+    "feature_layer": "layer4",
+    "distance_map_shape": [
+      7,
+      7
+    ],
+    "distance_map_mean": 0.1602613925933838,
+    "distance_map_max": 0.23288577795028687,
+    "topk": 3,
+    "anomaly_score": 0.22991006076335907,
+    "topk_patch_distances": [
+      0.23288577795028687,
+      0.22945785522460938,
+      0.22738653421401978
+    ],
+    "pred_index": 3,
+    "pred_label": "UNKNOWN",
+    "applied_threshold": 0.15940327942371368
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/DIE_INK/images/train__R34C54X139Y200L127W240.jpg",
+    "true_class": "DIE_INK",
+    "true_index": 3,
+    "argmax_index": 0,
+    "argmax_label": "DIE_BROKEN",
+    "confidence": 0.9479503631591797,
+    "prob_DIE_BROKEN": 0.9479503631591797,
+    "prob_NORMAL": 0.006110278889536858,
+    "prob_NO_DIE": 0.045939359813928604,
+    "feature_layer": "layer4",
+    "distance_map_shape": [
+      7,
+      7
+    ],
+    "distance_map_mean": 0.10971847921609879,
+    "distance_map_max": 0.2228097915649414,
+    "topk": 3,
+    "anomaly_score": 0.20669619739055634,
+    "topk_patch_distances": [
+      0.2228097915649414,
+      0.20131373405456543,
+      0.19596505165100098
+    ],
+    "pred_index": 3,
+    "pred_label": "UNKNOWN",
+    "applied_threshold": 0.15940327942371368
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/DIE_INK/images/train__R4C46X164Y215L18W43.jpg",
+    "true_class": "DIE_INK",
+    "true_index": 3,
+    "argmax_index": 0,
+    "argmax_label": "DIE_BROKEN",
+    "confidence": 0.9438925385475159,
+    "prob_DIE_BROKEN": 0.9438925385475159,
+    "prob_NORMAL": 0.01567075587809086,
+    "prob_NO_DIE": 0.04043674096465111,
+    "feature_layer": "layer4",
+    "distance_map_shape": [
+      7,
+      7
+    ],
+    "distance_map_mean": 0.0982712134718895,
+    "distance_map_max": 0.13848501443862915,
+    "topk": 3,
+    "anomaly_score": 0.13457168638706207,
+    "topk_patch_distances": [
+      0.13848501443862915,
+      0.13716769218444824,
+      0.12806236743927002
+    ],
+    "pred_index": 0,
+    "pred_label": "DIE_BROKEN",
+    "applied_threshold": 0.15940327942371368
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/DIE_INK/images/train__R8C2X287Y203L48W54.jpg",
+    "true_class": "DIE_INK",
+    "true_index": 3,
+    "argmax_index": 0,
+    "argmax_label": "DIE_BROKEN",
+    "confidence": 0.9310337901115417,
+    "prob_DIE_BROKEN": 0.9310337901115417,
+    "prob_NORMAL": 0.02414495125412941,
+    "prob_NO_DIE": 0.044821228832006454,
+    "feature_layer": "layer4",
+    "distance_map_shape": [
+      7,
+      7
+    ],
+    "distance_map_mean": 0.13893021643161774,
+    "distance_map_max": 0.1787983775138855,
+    "topk": 3,
+    "anomaly_score": 0.17583082616329193,
+    "topk_patch_distances": [
+      0.1787983775138855,
+      0.17468678951263428,
+      0.17400729656219482
+    ],
+    "pred_index": 3,
+    "pred_label": "UNKNOWN",
+    "applied_threshold": 0.15940327942371368
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/DIE_INK/images/train__R9C2X290Y163L26W49.jpg",
+    "true_class": "DIE_INK",
+    "true_index": 3,
+    "argmax_index": 0,
+    "argmax_label": "DIE_BROKEN",
+    "confidence": 0.8716035485267639,
+    "prob_DIE_BROKEN": 0.8716035485267639,
+    "prob_NORMAL": 0.0739263966679573,
+    "prob_NO_DIE": 0.0544700026512146,
+    "feature_layer": "layer4",
+    "distance_map_shape": [
+      7,
+      7
+    ],
+    "distance_map_mean": 0.1043514609336853,
+    "distance_map_max": 0.17369091510772705,
+    "topk": 3,
+    "anomaly_score": 0.16833217442035675,
+    "topk_patch_distances": [
+      0.17369091510772705,
+      0.16959798336029053,
+      0.16170763969421387
+    ],
+    "pred_index": 3,
+    "pred_label": "UNKNOWN",
+    "applied_threshold": 0.15940327942371368
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/DIE_INK/images/val__R17C81X185Y306L143W22.jpg",
+    "true_class": "DIE_INK",
+    "true_index": 3,
+    "argmax_index": 0,
+    "argmax_label": "DIE_BROKEN",
+    "confidence": 0.9343532919883728,
+    "prob_DIE_BROKEN": 0.9343532919883728,
+    "prob_NORMAL": 0.017308130860328674,
+    "prob_NO_DIE": 0.048338569700717926,
+    "feature_layer": "layer4",
+    "distance_map_shape": [
+      7,
+      7
+    ],
+    "distance_map_mean": 0.1270422339439392,
+    "distance_map_max": 0.1943608522415161,
+    "topk": 3,
+    "anomaly_score": 0.18454931676387787,
+    "topk_patch_distances": [
+      0.1943608522415161,
+      0.18124544620513916,
+      0.17804163694381714
+    ],
+    "pred_index": 3,
+    "pred_label": "UNKNOWN",
+    "applied_threshold": 0.15940327942371368
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/DIE_INK/images/val__R5C109X104Y-58L75W98.jpg",
+    "true_class": "DIE_INK",
+    "true_index": 3,
+    "argmax_index": 0,
+    "argmax_label": "DIE_BROKEN",
+    "confidence": 0.9350537061691284,
+    "prob_DIE_BROKEN": 0.9350537061691284,
+    "prob_NORMAL": 0.023968646302819252,
+    "prob_NO_DIE": 0.040977634489536285,
+    "feature_layer": "layer4",
+    "distance_map_shape": [
+      7,
+      7
+    ],
+    "distance_map_mean": 0.10925894230604172,
+    "distance_map_max": 0.16914403438568115,
+    "topk": 3,
+    "anomaly_score": 0.15532277524471283,
+    "topk_patch_distances": [
+      0.16914403438568115,
+      0.1493985652923584,
+      0.14742571115493774
+    ],
+    "pred_index": 0,
+    "pred_label": "DIE_BROKEN",
+    "applied_threshold": 0.15940327942371368
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/DIE_INK/images/val__R5C79X0Y0L0W0GG.jpg",
+    "true_class": "DIE_INK",
+    "true_index": 3,
+    "argmax_index": 1,
+    "argmax_label": "NORMAL",
+    "confidence": 0.8594297766685486,
+    "prob_DIE_BROKEN": 0.05437002331018448,
+    "prob_NORMAL": 0.8594297766685486,
+    "prob_NO_DIE": 0.08620017021894455,
+    "feature_layer": "layer4",
+    "distance_map_shape": [
+      7,
+      7
+    ],
+    "distance_map_mean": 0.05727246403694153,
+    "distance_map_max": 0.12467312812805176,
+    "topk": 3,
+    "anomaly_score": 0.11262675374746323,
+    "topk_patch_distances": [
+      0.12467312812805176,
+      0.11661291122436523,
+      0.09659421443939209
+    ],
+    "pred_index": 1,
+    "pred_label": "NORMAL",
+    "applied_threshold": 0.15940327942371368
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/NORMAL/images/test__R1C84X0Y0L0W0GG.jpg",
+    "true_class": "NORMAL",
+    "true_index": 1,
+    "argmax_index": 1,
+    "argmax_label": "NORMAL",
+    "confidence": 0.9110395312309265,
+    "prob_DIE_BROKEN": 0.022314807400107384,
+    "prob_NORMAL": 0.9110395312309265,
+    "prob_NO_DIE": 0.06664565205574036,
+    "feature_layer": "layer4",
+    "distance_map_shape": [
+      7,
+      7
+    ],
+    "distance_map_mean": 0.055233050137758255,
+    "distance_map_max": 0.15059751272201538,
+    "topk": 3,
+    "anomaly_score": 0.12428879737854004,
+    "topk_patch_distances": [
+      0.15059751272201538,
+      0.13033217191696167,
+      0.09193670749664307
+    ],
+    "pred_index": 1,
+    "pred_label": "NORMAL",
+    "applied_threshold": 0.15940327942371368
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/NORMAL/images/test__R2C107X0Y0L0W0.jpg",
+    "true_class": "NORMAL",
+    "true_index": 1,
+    "argmax_index": 1,
+    "argmax_label": "NORMAL",
+    "confidence": 0.8922625184059143,
+    "prob_DIE_BROKEN": 0.018022824078798294,
+    "prob_NORMAL": 0.8922625184059143,
+    "prob_NO_DIE": 0.08971458673477173,
+    "feature_layer": "layer4",
+    "distance_map_shape": [
+      7,
+      7
+    ],
+    "distance_map_mean": 0.06888027489185333,
+    "distance_map_max": 0.12250709533691406,
+    "topk": 3,
+    "anomaly_score": 0.11727698892354965,
+    "topk_patch_distances": [
+      0.12250709533691406,
+      0.11929088830947876,
+      0.11003297567367554
+    ],
+    "pred_index": 1,
+    "pred_label": "NORMAL",
+    "applied_threshold": 0.15940327942371368
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/NORMAL/images/test__R4C65X0Y0L0W0.jpg",
+    "true_class": "NORMAL",
+    "true_index": 1,
+    "argmax_index": 1,
+    "argmax_label": "NORMAL",
+    "confidence": 0.8972835540771484,
+    "prob_DIE_BROKEN": 0.03067522682249546,
+    "prob_NORMAL": 0.8972835540771484,
+    "prob_NO_DIE": 0.07204121351242065,
+    "feature_layer": "layer4",
+    "distance_map_shape": [
+      7,
+      7
+    ],
+    "distance_map_mean": 0.06196747347712517,
+    "distance_map_max": 0.15947198867797852,
+    "topk": 3,
+    "anomaly_score": 0.14539092779159546,
+    "topk_patch_distances": [
+      0.15947198867797852,
+      0.14162814617156982,
+      0.13507264852523804
+    ],
+    "pred_index": 1,
+    "pred_label": "NORMAL",
+    "applied_threshold": 0.15940327942371368
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/NORMAL/images/train__R12C23X0Y0L0W0.jpg",
+    "true_class": "NORMAL",
+    "true_index": 1,
+    "argmax_index": 1,
+    "argmax_label": "NORMAL",
+    "confidence": 0.8778257966041565,
+    "prob_DIE_BROKEN": 0.020215490832924843,
+    "prob_NORMAL": 0.8778257966041565,
+    "prob_NO_DIE": 0.10195871442556381,
+    "feature_layer": "layer4",
+    "distance_map_shape": [
+      7,
+      7
+    ],
+    "distance_map_mean": 0.08605219423770905,
+    "distance_map_max": 0.19572830200195312,
+    "topk": 3,
+    "anomaly_score": 0.1735791712999344,
+    "topk_patch_distances": [
+      0.19572830200195312,
+      0.1633378267288208,
+      0.16167140007019043
+    ],
+    "pred_index": 3,
+    "pred_label": "UNKNOWN",
+    "applied_threshold": 0.15940327942371368
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/NORMAL/images/train__R15C24X0Y0L0W0.jpg",
+    "true_class": "NORMAL",
+    "true_index": 1,
+    "argmax_index": 1,
+    "argmax_label": "NORMAL",
+    "confidence": 0.7289412617683411,
+    "prob_DIE_BROKEN": 0.15964192152023315,
+    "prob_NORMAL": 0.7289412617683411,
+    "prob_NO_DIE": 0.11141686141490936,
+    "feature_layer": "layer4",
+    "distance_map_shape": [
+      7,
+      7
+    ],
+    "distance_map_mean": 0.07071467489004135,
+    "distance_map_max": 0.12886202335357666,
+    "topk": 3,
+    "anomaly_score": 0.12506306171417236,
+    "topk_patch_distances": [
+      0.12886202335357666,
+      0.12359404563903809,
+      0.12273311614990234
+    ],
+    "pred_index": 1,
+    "pred_label": "NORMAL",
+    "applied_threshold": 0.15940327942371368
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/NORMAL/images/train__R17C18X0Y0L0W0.jpg",
+    "true_class": "NORMAL",
+    "true_index": 1,
+    "argmax_index": 1,
+    "argmax_label": "NORMAL",
+    "confidence": 0.8535540699958801,
+    "prob_DIE_BROKEN": 0.08363238722085953,
+    "prob_NORMAL": 0.8535540699958801,
+    "prob_NO_DIE": 0.06281354278326035,
+    "feature_layer": "layer4",
+    "distance_map_shape": [
+      7,
+      7
+    ],
+    "distance_map_mean": 0.0825970321893692,
+    "distance_map_max": 0.16008538007736206,
+    "topk": 3,
+    "anomaly_score": 0.14720402657985687,
+    "topk_patch_distances": [
+      0.16008538007736206,
+      0.14635324478149414,
+      0.13517343997955322
+    ],
+    "pred_index": 1,
+    "pred_label": "NORMAL",
+    "applied_threshold": 0.15940327942371368
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/NORMAL/images/train__R22C12X0Y0L0W0.jpg",
+    "true_class": "NORMAL",
+    "true_index": 1,
+    "argmax_index": 1,
+    "argmax_label": "NORMAL",
+    "confidence": 0.859991729259491,
+    "prob_DIE_BROKEN": 0.07078897207975388,
+    "prob_NORMAL": 0.859991729259491,
+    "prob_NO_DIE": 0.06921925395727158,
+    "feature_layer": "layer4",
+    "distance_map_shape": [
+      7,
+      7
+    ],
+    "distance_map_mean": 0.06736325472593307,
+    "distance_map_max": 0.12758290767669678,
+    "topk": 3,
+    "anomaly_score": 0.12194397300481796,
+    "topk_patch_distances": [
+      0.12758290767669678,
+      0.11987948417663574,
+      0.11836951971054077
+    ],
+    "pred_index": 1,
+    "pred_label": "NORMAL",
+    "applied_threshold": 0.15940327942371368
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/NORMAL/images/train__R24C47X0Y0L0W0.jpg",
+    "true_class": "NORMAL",
+    "true_index": 1,
+    "argmax_index": 1,
+    "argmax_label": "NORMAL",
+    "confidence": 0.8835265040397644,
+    "prob_DIE_BROKEN": 0.04353296011686325,
+    "prob_NORMAL": 0.8835265040397644,
+    "prob_NO_DIE": 0.07294049113988876,
+    "feature_layer": "layer4",
+    "distance_map_shape": [
+      7,
+      7
+    ],
+    "distance_map_mean": 0.06503608077764511,
+    "distance_map_max": 0.1523909568786621,
+    "topk": 3,
+    "anomaly_score": 0.14274215698242188,
+    "topk_patch_distances": [
+      0.1523909568786621,
+      0.14219975471496582,
+      0.1336357593536377
+    ],
+    "pred_index": 1,
+    "pred_label": "NORMAL",
+    "applied_threshold": 0.15940327942371368
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/NORMAL/images/train__R26C10X0Y0L0W0.jpg",
+    "true_class": "NORMAL",
+    "true_index": 1,
+    "argmax_index": 1,
+    "argmax_label": "NORMAL",
+    "confidence": 0.854041576385498,
+    "prob_DIE_BROKEN": 0.02176198735833168,
+    "prob_NORMAL": 0.854041576385498,
+    "prob_NO_DIE": 0.12419646978378296,
+    "feature_layer": "layer4",
+    "distance_map_shape": [
+      7,
+      7
+    ],
+    "distance_map_mean": 0.08807164430618286,
+    "distance_map_max": 0.16641676425933838,
+    "topk": 3,
+    "anomaly_score": 0.16000856459140778,
+    "topk_patch_distances": [
+      0.16641676425933838,
+      0.16126644611358643,
+      0.15234249830245972
+    ],
+    "pred_index": 3,
+    "pred_label": "UNKNOWN",
+    "applied_threshold": 0.15940327942371368
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/NORMAL/images/train__R2C104X0Y0L0W0GG.jpg",
+    "true_class": "NORMAL",
+    "true_index": 1,
+    "argmax_index": 1,
+    "argmax_label": "NORMAL",
+    "confidence": 0.8970329165458679,
+    "prob_DIE_BROKEN": 0.031797800213098526,
+    "prob_NORMAL": 0.8970329165458679,
+    "prob_NO_DIE": 0.07116930931806564,
+    "feature_layer": "layer4",
+    "distance_map_shape": [
+      7,
+      7
+    ],
+    "distance_map_mean": 0.06235769763588905,
+    "distance_map_max": 0.18092209100723267,
+    "topk": 3,
+    "anomaly_score": 0.1604299396276474,
+    "topk_patch_distances": [
+      0.18092209100723267,
+      0.1503230333328247,
+      0.15004467964172363
+    ],
+    "pred_index": 3,
+    "pred_label": "UNKNOWN",
+    "applied_threshold": 0.15940327942371368
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/NORMAL/images/train__R3C101X0Y0L0W0.jpg",
+    "true_class": "NORMAL",
+    "true_index": 1,
+    "argmax_index": 1,
+    "argmax_label": "NORMAL",
+    "confidence": 0.9085861444473267,
+    "prob_DIE_BROKEN": 0.03653429448604584,
+    "prob_NORMAL": 0.9085861444473267,
+    "prob_NO_DIE": 0.054879527539014816,
+    "feature_layer": "layer4",
+    "distance_map_shape": [
+      7,
+      7
+    ],
+    "distance_map_mean": 0.056942958384752274,
+    "distance_map_max": 0.1413061022758484,
+    "topk": 3,
+    "anomaly_score": 0.12399506568908691,
+    "topk_patch_distances": [
+      0.1413061022758484,
+      0.12140613794326782,
+      0.10927295684814453
+    ],
+    "pred_index": 1,
+    "pred_label": "NORMAL",
+    "applied_threshold": 0.15940327942371368
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/NORMAL/images/train__R4C76X0Y0L0W0GG.jpg",
+    "true_class": "NORMAL",
+    "true_index": 1,
+    "argmax_index": 1,
+    "argmax_label": "NORMAL",
+    "confidence": 0.8814652562141418,
+    "prob_DIE_BROKEN": 0.051497917622327805,
+    "prob_NORMAL": 0.8814652562141418,
+    "prob_NO_DIE": 0.06703682243824005,
+    "feature_layer": "layer4",
+    "distance_map_shape": [
+      7,
+      7
+    ],
+    "distance_map_mean": 0.08866535127162933,
+    "distance_map_max": 0.20885884761810303,
+    "topk": 3,
+    "anomaly_score": 0.19448058307170868,
+    "topk_patch_distances": [
+      0.20885884761810303,
+      0.19703030586242676,
+      0.17755258083343506
+    ],
+    "pred_index": 3,
+    "pred_label": "UNKNOWN",
+    "applied_threshold": 0.15940327942371368
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/NORMAL/images/train__R5C72X0Y0L0W0.jpg",
+    "true_class": "NORMAL",
+    "true_index": 1,
+    "argmax_index": 1,
+    "argmax_label": "NORMAL",
+    "confidence": 0.7134485840797424,
+    "prob_DIE_BROKEN": 0.20933306217193604,
+    "prob_NORMAL": 0.7134485840797424,
+    "prob_NO_DIE": 0.07721833139657974,
+    "feature_layer": "layer4",
+    "distance_map_shape": [
+      7,
+      7
+    ],
+    "distance_map_mean": 0.08233001083135605,
+    "distance_map_max": 0.1524425745010376,
+    "topk": 3,
+    "anomaly_score": 0.1328628659248352,
+    "topk_patch_distances": [
+      0.1524425745010376,
+      0.12866580486297607,
+      0.11748021841049194
+    ],
+    "pred_index": 1,
+    "pred_label": "NORMAL",
+    "applied_threshold": 0.15940327942371368
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/NORMAL/images/train__R6C103X0Y0L0W0GG.jpg",
+    "true_class": "NORMAL",
+    "true_index": 1,
+    "argmax_index": 1,
+    "argmax_label": "NORMAL",
+    "confidence": 0.7660724520683289,
+    "prob_DIE_BROKEN": 0.15494969487190247,
+    "prob_NORMAL": 0.7660724520683289,
+    "prob_NO_DIE": 0.07897788286209106,
+    "feature_layer": "layer4",
+    "distance_map_shape": [
+      7,
+      7
+    ],
+    "distance_map_mean": 0.07679849863052368,
+    "distance_map_max": 0.14688217639923096,
+    "topk": 3,
+    "anomaly_score": 0.13525600731372833,
+    "topk_patch_distances": [
+      0.14688217639923096,
+      0.13905417919158936,
+      0.11983168125152588
+    ],
+    "pred_index": 1,
+    "pred_label": "NORMAL",
+    "applied_threshold": 0.15940327942371368
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/NORMAL/images/train__R6C107X0Y0L0W0.jpg",
+    "true_class": "NORMAL",
+    "true_index": 1,
+    "argmax_index": 1,
+    "argmax_label": "NORMAL",
+    "confidence": 0.8642709851264954,
+    "prob_DIE_BROKEN": 0.07157262414693832,
+    "prob_NORMAL": 0.8642709851264954,
+    "prob_NO_DIE": 0.06415638327598572,
+    "feature_layer": "layer4",
+    "distance_map_shape": [
+      7,
+      7
+    ],
+    "distance_map_mean": 0.06994380801916122,
+    "distance_map_max": 0.12412005662918091,
+    "topk": 3,
+    "anomaly_score": 0.12097737938165665,
+    "topk_patch_distances": [
+      0.12412005662918091,
+      0.12098383903503418,
+      0.11782824993133545
+    ],
+    "pred_index": 1,
+    "pred_label": "NORMAL",
+    "applied_threshold": 0.15940327942371368
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/NORMAL/images/train__R6C111X0Y0L0W0.jpg",
+    "true_class": "NORMAL",
+    "true_index": 1,
+    "argmax_index": 1,
+    "argmax_label": "NORMAL",
+    "confidence": 0.8846161365509033,
+    "prob_DIE_BROKEN": 0.0256204791367054,
+    "prob_NORMAL": 0.8846161365509033,
+    "prob_NO_DIE": 0.0897633358836174,
+    "feature_layer": "layer4",
+    "distance_map_shape": [
+      7,
+      7
+    ],
+    "distance_map_mean": 0.08335760980844498,
+    "distance_map_max": 0.17641687393188477,
+    "topk": 3,
+    "anomaly_score": 0.15484191477298737,
+    "topk_patch_distances": [
+      0.17641687393188477,
+      0.14567601680755615,
+      0.14243286848068237
+    ],
+    "pred_index": 1,
+    "pred_label": "NORMAL",
+    "applied_threshold": 0.15940327942371368
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/NORMAL/images/train__R6C68X0Y0L0W0.jpg",
+    "true_class": "NORMAL",
+    "true_index": 1,
+    "argmax_index": 1,
+    "argmax_label": "NORMAL",
+    "confidence": 0.8397460579872131,
+    "prob_DIE_BROKEN": 0.10914894193410873,
+    "prob_NORMAL": 0.8397460579872131,
+    "prob_NO_DIE": 0.05110502243041992,
+    "feature_layer": "layer4",
+    "distance_map_shape": [
+      7,
+      7
+    ],
+    "distance_map_mean": 0.08750355243682861,
+    "distance_map_max": 0.18802905082702637,
+    "topk": 3,
+    "anomaly_score": 0.1732388138771057,
+    "topk_patch_distances": [
+      0.18802905082702637,
+      0.17765295505523682,
+      0.15403443574905396
+    ],
+    "pred_index": 3,
+    "pred_label": "UNKNOWN",
+    "applied_threshold": 0.15940327942371368
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/NORMAL/images/val__R14C58X0Y0L0W0.jpg",
+    "true_class": "NORMAL",
+    "true_index": 1,
+    "argmax_index": 1,
+    "argmax_label": "NORMAL",
+    "confidence": 0.8831427097320557,
+    "prob_DIE_BROKEN": 0.03535398468375206,
+    "prob_NORMAL": 0.8831427097320557,
+    "prob_NO_DIE": 0.0815032497048378,
+    "feature_layer": "layer4",
+    "distance_map_shape": [
+      7,
+      7
+    ],
+    "distance_map_mean": 0.04738880693912506,
+    "distance_map_max": 0.0925561785697937,
+    "topk": 3,
+    "anomaly_score": 0.08844546228647232,
+    "topk_patch_distances": [
+      0.0925561785697937,
+      0.09116613864898682,
+      0.08161407709121704
+    ],
+    "pred_index": 1,
+    "pred_label": "NORMAL",
+    "applied_threshold": 0.15940327942371368
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/NORMAL/images/val__R3C87X0Y0L0W0GG.jpg",
+    "true_class": "NORMAL",
+    "true_index": 1,
+    "argmax_index": 1,
+    "argmax_label": "NORMAL",
+    "confidence": 0.8683573603630066,
+    "prob_DIE_BROKEN": 0.04143848642706871,
+    "prob_NORMAL": 0.8683573603630066,
+    "prob_NO_DIE": 0.09020420163869858,
+    "feature_layer": "layer4",
+    "distance_map_shape": [
+      7,
+      7
+    ],
+    "distance_map_mean": 0.06168830022215843,
+    "distance_map_max": 0.13213956356048584,
+    "topk": 3,
+    "anomaly_score": 0.12457486242055893,
+    "topk_patch_distances": [
+      0.13213956356048584,
+      0.12114560604095459,
+      0.12043941020965576
+    ],
+    "pred_index": 1,
+    "pred_label": "NORMAL",
+    "applied_threshold": 0.15940327942371368
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/NORMAL/images/val__R5C59X0Y0L0W0.jpg",
+    "true_class": "NORMAL",
+    "true_index": 1,
+    "argmax_index": 1,
+    "argmax_label": "NORMAL",
+    "confidence": 0.8757648468017578,
+    "prob_DIE_BROKEN": 0.028374725952744484,
+    "prob_NORMAL": 0.8757648468017578,
+    "prob_NO_DIE": 0.09586044400930405,
+    "feature_layer": "layer4",
+    "distance_map_shape": [
+      7,
+      7
+    ],
+    "distance_map_mean": 0.057865291833877563,
+    "distance_map_max": 0.11552679538726807,
+    "topk": 3,
+    "anomaly_score": 0.11494425684213638,
+    "topk_patch_distances": [
+      0.11552679538726807,
+      0.11527085304260254,
+      0.11403512954711914
+    ],
+    "pred_index": 1,
+    "pred_label": "NORMAL",
+    "applied_threshold": 0.15940327942371368
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/NO_DIE/images/test__R14C106X202Y193L235W234.jpg",
+    "true_class": "NO_DIE",
+    "true_index": 2,
+    "argmax_index": 2,
+    "argmax_label": "NO_DIE",
+    "confidence": 0.9444267153739929,
+    "prob_DIE_BROKEN": 0.048516951501369476,
+    "prob_NORMAL": 0.007056325674057007,
+    "prob_NO_DIE": 0.9444267153739929,
+    "feature_layer": "layer4",
+    "distance_map_shape": [
+      7,
+      7
+    ],
+    "distance_map_mean": 0.051511362195014954,
+    "distance_map_max": 0.1427406668663025,
+    "topk": 3,
+    "anomaly_score": 0.12146127223968506,
+    "topk_patch_distances": [
+      0.1427406668663025,
+      0.1163596510887146,
+      0.10528349876403809
+    ],
+    "pred_index": 2,
+    "pred_label": "NO_DIE",
+    "applied_threshold": 0.15940327942371368
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/NO_DIE/images/train__R15C31X244Y260L242W278.jpg",
+    "true_class": "NO_DIE",
+    "true_index": 2,
+    "argmax_index": 2,
+    "argmax_label": "NO_DIE",
+    "confidence": 0.9482787847518921,
+    "prob_DIE_BROKEN": 0.04144417494535446,
+    "prob_NORMAL": 0.010277003981173038,
+    "prob_NO_DIE": 0.9482787847518921,
+    "feature_layer": "layer4",
+    "distance_map_shape": [
+      7,
+      7
+    ],
+    "distance_map_mean": 0.039672840386629105,
+    "distance_map_max": 0.10548639297485352,
+    "topk": 3,
+    "anomaly_score": 0.09919176250696182,
+    "topk_patch_distances": [
+      0.10548639297485352,
+      0.1023569107055664,
+      0.08973199129104614
+    ],
+    "pred_index": 2,
+    "pred_label": "NO_DIE",
+    "applied_threshold": 0.15940327942371368
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/NO_DIE/images/train__R18C8X189Y196L258W283.jpg",
+    "true_class": "NO_DIE",
+    "true_index": 2,
+    "argmax_index": 2,
+    "argmax_label": "NO_DIE",
+    "confidence": 0.9648822546005249,
+    "prob_DIE_BROKEN": 0.02602960541844368,
+    "prob_NORMAL": 0.009088175371289253,
+    "prob_NO_DIE": 0.9648822546005249,
+    "feature_layer": "layer4",
+    "distance_map_shape": [
+      7,
+      7
+    ],
+    "distance_map_mean": 0.07555003464221954,
+    "distance_map_max": 0.18781065940856934,
+    "topk": 3,
+    "anomaly_score": 0.17901183664798737,
+    "topk_patch_distances": [
+      0.18781065940856934,
+      0.17624151706695557,
+      0.1729833483695984
+    ],
+    "pred_index": 3,
+    "pred_label": "UNKNOWN",
+    "applied_threshold": 0.15940327942371368
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/NO_DIE/images/train__R1C112X185Y192L247W274.jpg",
+    "true_class": "NO_DIE",
+    "true_index": 2,
+    "argmax_index": 2,
+    "argmax_label": "NO_DIE",
+    "confidence": 0.9524217844009399,
+    "prob_DIE_BROKEN": 0.03981652110815048,
+    "prob_NORMAL": 0.007761716842651367,
+    "prob_NO_DIE": 0.9524217844009399,
+    "feature_layer": "layer4",
+    "distance_map_shape": [
+      7,
+      7
+    ],
+    "distance_map_mean": 0.04394051432609558,
+    "distance_map_max": 0.09978675842285156,
+    "topk": 3,
+    "anomaly_score": 0.09361156076192856,
+    "topk_patch_distances": [
+      0.09978675842285156,
+      0.09545779228210449,
+      0.08559012413024902
+    ],
+    "pred_index": 2,
+    "pred_label": "NO_DIE",
+    "applied_threshold": 0.15940327942371368
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/NO_DIE/images/train__R28C100X175Y200L254W283.jpg",
+    "true_class": "NO_DIE",
+    "true_index": 2,
+    "argmax_index": 2,
+    "argmax_label": "NO_DIE",
+    "confidence": 0.9620255827903748,
+    "prob_DIE_BROKEN": 0.03039475344121456,
+    "prob_NORMAL": 0.0075796679593622684,
+    "prob_NO_DIE": 0.9620255827903748,
+    "feature_layer": "layer4",
+    "distance_map_shape": [
+      7,
+      7
+    ],
+    "distance_map_mean": 0.04969631880521774,
+    "distance_map_max": 0.18529295921325684,
+    "topk": 3,
+    "anomaly_score": 0.15472571551799774,
+    "topk_patch_distances": [
+      0.18529295921325684,
+      0.13947820663452148,
+      0.1394059658050537
+    ],
+    "pred_index": 2,
+    "pred_label": "NO_DIE",
+    "applied_threshold": 0.15940327942371368
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/NO_DIE/images/val__R28C108X185Y192L252W277.jpg",
+    "true_class": "NO_DIE",
+    "true_index": 2,
+    "argmax_index": 2,
+    "argmax_label": "NO_DIE",
+    "confidence": 0.9515252709388733,
+    "prob_DIE_BROKEN": 0.03851280361413956,
+    "prob_NORMAL": 0.009961889125406742,
+    "prob_NO_DIE": 0.9515252709388733,
+    "feature_layer": "layer4",
+    "distance_map_shape": [
+      7,
+      7
+    ],
+    "distance_map_mean": 0.04356619715690613,
+    "distance_map_max": 0.10448980331420898,
+    "topk": 3,
+    "anomaly_score": 0.09579630941152573,
+    "topk_patch_distances": [
+      0.10448980331420898,
+      0.09170502424240112,
+      0.09119409322738647
+    ],
+    "pred_index": 2,
+    "pred_label": "NO_DIE",
+    "applied_threshold": 0.15940327942371368
+  },
+  {
+    "path": "/home/minje/icpbl-wafer-open-set/prepared_dataset_G5_622/test/G5/NO_DIE/images/val__R9C93X179Y207L254W279.jpg",
+    "true_class": "NO_DIE",
+    "true_index": 2,
+    "argmax_index": 2,
+    "argmax_label": "NO_DIE",
+    "confidence": 0.9486812949180603,
+    "prob_DIE_BROKEN": 0.04290267452597618,
+    "prob_NORMAL": 0.008416042663156986,
+    "prob_NO_DIE": 0.9486812949180603,
+    "feature_layer": "layer4",
+    "distance_map_shape": [
+      7,
+      7
+    ],
+    "distance_map_mean": 0.03934942185878754,
+    "distance_map_max": 0.07480472326278687,
+    "topk": 3,
+    "anomaly_score": 0.07118997722864151,
+    "topk_patch_distances": [
+      0.07480472326278687,
+      0.07134115695953369,
+      0.06742405891418457
+    ],
+    "pred_index": 2,
+    "pred_label": "NO_DIE",
+    "applied_threshold": 0.15940327942371368
+  }
+]

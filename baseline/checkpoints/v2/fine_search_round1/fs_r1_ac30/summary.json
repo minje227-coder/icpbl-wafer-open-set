@@ -1,0 +1,9 @@
+{
+  "experiment": "fs_r1_ac30",
+  "checkpoint_path": "/home/minje/icpbl-wafer-open-set/baseline/checkpoints/v2/fine_search_round1/fs_r1_ac30/resnet18_best_val_loss_epoch30.pth",
+  "best_epoch": 30,
+  "best_val_loss": 0.21994183957576752,
+  "best_val_f1": 1.0,
+  "history_path": "/home/minje/icpbl-wafer-open-set/baseline/checkpoints/v2/fine_search_round1/fs_r1_ac30/train_log.json",
+  "config_path": "/home/minje/icpbl-wafer-open-set/baseline/checkpoints/v2/fine_search_round1/fs_r1_ac30/config.json"
+}

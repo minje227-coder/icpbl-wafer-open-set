@@ -1,0 +1,9 @@
+{
+  "experiment": "fs_r2_ac18_sharp110_p20",
+  "checkpoint_path": "/home/minje/icpbl-wafer-open-set/baseline/checkpoints/v2/fine_search_round2/fs_r2_ac18_sharp110_p20/resnet18_best_val_loss_epoch28.pth",
+  "best_epoch": 28,
+  "best_val_loss": 0.2154342532157898,
+  "best_val_f1": 1.0,
+  "history_path": "/home/minje/icpbl-wafer-open-set/baseline/checkpoints/v2/fine_search_round2/fs_r2_ac18_sharp110_p20/train_log.json",
+  "config_path": "/home/minje/icpbl-wafer-open-set/baseline/checkpoints/v2/fine_search_round2/fs_r2_ac18_sharp110_p20/config.json"
+}
