@@ -26,6 +26,7 @@
 - [open_set_summary.json](best_run/open_set_summary.json)
 - [layer2 patch results json](best_run/resnet18_best_val_loss_epoch29_layer2_patch_topk12_global_norm_test_results.json)
 - [ablation study](Ablation%20study/ablation_study.md)
+- WandB backfill script: [log_best_run_to_wandb.py](code/log_best_run_to_wandb.py)
 
 최종 설정:
 
@@ -141,7 +142,18 @@ recall 관점에서 보면:
 - 하지만 open-set에서는 unknown을 known으로 오분류할 수 있다.
 - 최종 방법론은 known 일부를 희생하는 대신 unknown reject를 크게 개선했다.
 
-## 8. Interpretation of Visualizations
+## 8.5 WandB Logging for Report Curves
+
+Best run의 epoch별 `train/val loss, accuracy, precision, recall, f1`를 WandB로 다시 올리려면 아래 명령을 사용하면 된다.
+
+```bash
+python best_model/code/log_best_run_to_wandb.py --mode auto
+```
+
+- `online`: WandB 인증이 있으면 클라우드 run으로 업로드
+- `offline`: 인증이 없으면 로컬 WandB run 파일만 생성
+- `auto`: 인증 여부를 보고 자동 선택
+## 9. Interpretation of Visualizations
 
 관련 시각화는 [Ablation study](Ablation%20study/ablation_study.md)에 정리했다.
 
@@ -161,7 +173,7 @@ recall 관점에서 보면:
 
 를 보여준다.
 
-## 9. Main Conclusion
+## 10. Main Conclusion
 
 현재 best 방법론은 다음 조합으로 정리할 수 있다.
 
